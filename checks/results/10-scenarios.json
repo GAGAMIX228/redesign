@@ -1,0 +1,704 @@
+{
+  "cases": 97,
+  "passed": 97,
+  "failures": [],
+  "results": [
+    {
+      "case": "Role applicant",
+      "status": "passed",
+      "evidence": {
+        "headline": "ВАШ ПУТЬ.\nВАШ УРФУ.",
+        "primary": "catalog.html",
+        "remembered": true
+      }
+    },
+    {
+      "case": "Role student",
+      "status": "passed",
+      "evidence": {
+        "headline": "ВАШ ДЕНЬ.\nВАШ РИТМ.",
+        "primary": "schedule.html",
+        "remembered": true
+      }
+    },
+    {
+      "case": "Role employee",
+      "status": "passed",
+      "evidence": {
+        "headline": "ВАШ ТРУД.\nОБЩИЙ РОСТ.",
+        "primary": "contacts.html",
+        "remembered": true
+      }
+    },
+    {
+      "case": "Role partner",
+      "status": "passed",
+      "evidence": {
+        "headline": "ВАША ИДЕЯ.\nНАША СИЛА.",
+        "primary": "partners.html",
+        "remembered": true
+      }
+    },
+    {
+      "case": "Catalog score ''",
+      "status": "passed",
+      "evidence": {
+        "count": 98,
+        "invalid": "false"
+      }
+    },
+    {
+      "case": "Catalog score '0'",
+      "status": "passed",
+      "evidence": {
+        "count": 0,
+        "invalid": "false"
+      }
+    },
+    {
+      "case": "Catalog score '150'",
+      "status": "passed",
+      "evidence": {
+        "count": 93,
+        "invalid": "false"
+      }
+    },
+    {
+      "case": "Catalog score '240'",
+      "status": "passed",
+      "evidence": {
+        "count": 94,
+        "invalid": "false"
+      }
+    },
+    {
+      "case": "Catalog score '310'",
+      "status": "passed",
+      "evidence": {
+        "count": 98,
+        "invalid": "true"
+      }
+    },
+    {
+      "case": "Catalog score '999'",
+      "status": "passed",
+      "evidence": {
+        "count": 98,
+        "invalid": "true"
+      }
+    },
+    {
+      "case": "Catalog score '-5'",
+      "status": "passed",
+      "evidence": {
+        "count": 98,
+        "invalid": "true"
+      }
+    },
+    {
+      "case": "Catalog score 'abc'",
+      "status": "passed",
+      "evidence": {
+        "count": 98,
+        "invalid": "true"
+      }
+    },
+    {
+      "case": "Subject toggle Математика",
+      "status": "passed",
+      "evidence": {
+        "selected_count": 0,
+        "restored": 98
+      }
+    },
+    {
+      "case": "Subject toggle Русский язык",
+      "status": "passed",
+      "evidence": {
+        "selected_count": 0,
+        "restored": 98
+      }
+    },
+    {
+      "case": "Subject toggle Информатика",
+      "status": "passed",
+      "evidence": {
+        "selected_count": 0,
+        "restored": 98
+      }
+    },
+    {
+      "case": "Subject toggle Физика",
+      "status": "passed",
+      "evidence": {
+        "selected_count": 0,
+        "restored": 98
+      }
+    },
+    {
+      "case": "Subject toggle Обществознание",
+      "status": "passed",
+      "evidence": {
+        "selected_count": 0,
+        "restored": 98
+      }
+    },
+    {
+      "case": "Subject toggle История",
+      "status": "passed",
+      "evidence": {
+        "selected_count": 0,
+        "restored": 98
+      }
+    },
+    {
+      "case": "Subject toggle Биология",
+      "status": "passed",
+      "evidence": {
+        "selected_count": 0,
+        "restored": 98
+      }
+    },
+    {
+      "case": "Subject toggle Химия",
+      "status": "passed",
+      "evidence": {
+        "selected_count": 0,
+        "restored": 98
+      }
+    },
+    {
+      "case": "Subject toggle Литература",
+      "status": "passed",
+      "evidence": {
+        "selected_count": 0,
+        "restored": 98
+      }
+    },
+    {
+      "case": "Subject toggle Иностранный язык",
+      "status": "passed",
+      "evidence": {
+        "selected_count": 0,
+        "restored": 98
+      }
+    },
+    {
+      "case": "Subject toggle География",
+      "status": "passed",
+      "evidence": {
+        "selected_count": 0,
+        "restored": 98
+      }
+    },
+    {
+      "case": "Multi-institute programs remain in branch filters",
+      "status": "passed",
+      "evidence": [
+        "10117",
+        "9812"
+      ]
+    },
+    {
+      "case": "Compare add 1/2/3, reject 4, share, remove, clear",
+      "status": "passed",
+      "evidence": {
+        "limit": 3,
+        "shared_url": "http://127.0.0.1:4175/catalog.html?compare=10037%2C9901%2C9898"
+      }
+    },
+    {
+      "case": "Combined filters, URL restore and reset",
+      "status": "passed",
+      "evidence": {
+        "filtered": 2,
+        "url": "http://127.0.0.1:4175/catalog.html?budget=1&level=%D0%B1%D0%B0%D0%BA%D0%B0%D0%BB%D0%B0%D0%B2%D1%80%D0%B8%D0%B0%D1%82&price=300000&q=%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA"
+      }
+    },
+    {
+      "case": "Search общага",
+      "status": "passed",
+      "evidence": {
+        "count": 4,
+        "message": "Найдено: 4"
+      }
+    },
+    {
+      "case": "Search стипуха",
+      "status": "passed",
+      "evidence": {
+        "count": 3,
+        "message": "Найдено: 3"
+      }
+    },
+    {
+      "case": "Search пары",
+      "status": "passed",
+      "evidence": {
+        "count": 1,
+        "message": "Найдено: 1"
+      }
+    },
+    {
+      "case": "Search приёмка",
+      "status": "passed",
+      "evidence": {
+        "count": 2,
+        "message": "Найдено: 2"
+      }
+    },
+    {
+      "case": "Search расписание",
+      "status": "passed",
+      "evidence": {
+        "count": 1,
+        "message": "Найдено: 1"
+      }
+    },
+    {
+      "case": "Search ИРИТ",
+      "status": "passed",
+      "evidence": {
+        "count": 14,
+        "message": "Найдено: 14"
+      }
+    },
+    {
+      "case": "Search информатика",
+      "status": "passed",
+      "evidence": {
+        "count": 2,
+        "message": "Найдено: 2"
+      }
+    },
+    {
+      "case": "Search Информатика",
+      "status": "passed",
+      "evidence": {
+        "count": 2,
+        "message": "Найдено: 2"
+      }
+    },
+    {
+      "case": "Search информатеко",
+      "status": "passed",
+      "evidence": {
+        "count": 2,
+        "message": "Найдено: 2"
+      }
+    },
+    {
+      "case": "Search ёлка",
+      "status": "passed",
+      "evidence": {
+        "count": 0,
+        "message": "Найдено: 0"
+      }
+    },
+    {
+      "case": "Search елка",
+      "status": "passed",
+      "evidence": {
+        "count": 0,
+        "message": "Найдено: 0"
+      }
+    },
+    {
+      "case": "Search ",
+      "status": "passed",
+      "evidence": {
+        "count": 0,
+        "message": "Введите запрос, чтобы найти ответ."
+      }
+    },
+    {
+      "case": "Search я",
+      "status": "passed",
+      "evidence": {
+        "count": 89,
+        "message": "Найдено: 89"
+      }
+    },
+    {
+      "case": "Search xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "status": "passed",
+      "evidence": {
+        "count": 0,
+        "message": "Найдено: 0"
+      }
+    },
+    {
+      "case": "Search <script>alert(1)</script>",
+      "status": "passed",
+      "evidence": {
+        "count": 0,
+        "message": "Найдено: 0"
+      }
+    },
+    {
+      "case": "Search <img src=x onerror=alert(1)>",
+      "status": "passed",
+      "evidence": {
+        "count": 0,
+        "message": "Найдено: 0"
+      }
+    },
+    {
+      "case": "Search suggestions ArrowDown/Esc/Enter",
+      "status": "passed",
+      "evidence": "http://127.0.0.1:4175/campus.html"
+    },
+    {
+      "case": "Schedule group 'РИ-140944'",
+      "status": "passed",
+      "evidence": "19 ОКТЯБРЯ — 25 ОКТЯБРЯ\n←\nСегодня\n→\n\nНечётная неделя по демонстрационному отсчёту от 1 сентября. Не "
+    },
+    {
+      "case": "Schedule group 'ри-140944'",
+      "status": "passed",
+      "evidence": "19 ОКТЯБРЯ — 25 ОКТЯБРЯ\n←\nСегодня\n→\n\nНечётная неделя по демонстрационному отсчёту от 1 сентября. Не "
+    },
+    {
+      "case": "Schedule group '  ри-140944  '",
+      "status": "passed",
+      "evidence": "19 ОКТЯБРЯ — 25 ОКТЯБРЯ\n←\nСегодня\n→\n\nНечётная неделя по демонстрационному отсчёту от 1 сентября. Не "
+    },
+    {
+      "case": "Schedule group 'РИ - 140944'",
+      "status": "passed",
+      "evidence": "19 ОКТЯБРЯ — 25 ОКТЯБРЯ\n←\nСегодня\n→\n\nНечётная неделя по демонстрационному отсчёту от 1 сентября. Не "
+    },
+    {
+      "case": "Schedule group 'НЕ-123456'",
+      "status": "passed",
+      "evidence": "Эта группа не найдена в демо\n\nДоступен только пример РИ-140944. Реальное расписание ищите в официаль"
+    },
+    {
+      "case": "Schedule group ''",
+      "status": "passed",
+      "evidence": "Эта группа не найдена в демо\n\nДоступен только пример РИ-140944. Реальное расписание ищите в официаль"
+    },
+    {
+      "case": "Room 'Р-237'",
+      "status": "passed",
+      "evidence": "КОРПУС ПОДТВЕРЖДЁН\nРадиофак\n\nЕкатеринбург, улица Мира, 32.\n\nАудитория Р-237: этаж и точное расположение не подтверждены."
+    },
+    {
+      "case": "Room 'р-237'",
+      "status": "passed",
+      "evidence": "КОРПУС ПОДТВЕРЖДЁН\nРадиофак\n\nЕкатеринбург, улица Мира, 32.\n\nАудитория Р-237: этаж и точное расположение не подтверждены."
+    },
+    {
+      "case": "Room 'R-237'",
+      "status": "passed",
+      "evidence": "КОРПУС ПОДТВЕРЖДЁН\nРадиофак\n\nЕкатеринбург, улица Мира, 32.\n\nАудитория Р-237: этаж и точное расположение не подтверждены."
+    },
+    {
+      "case": "Room 'P-237'",
+      "status": "passed",
+      "evidence": "КОРПУС ПОДТВЕРЖДЁН\nРадиофак\n\nЕкатеринбург, улица Мира, 32.\n\nАудитория Р-237: этаж и точное расположение не подтверждены."
+    },
+    {
+      "case": "Room 'Р237'",
+      "status": "passed",
+      "evidence": "КОРПУС ПОДТВЕРЖДЁН\nРадиофак\n\nЕкатеринбург, улица Мира, 32.\n\nАудитория Р237: этаж и точное расположение не подтверждены. "
+    },
+    {
+      "case": "Room ' Р 237 '",
+      "status": "passed",
+      "evidence": "КОРПУС ПОДТВЕРЖДЁН\nРадиофак\n\nЕкатеринбург, улица Мира, 32.\n\nАудитория Р-237: этаж и точное расположение не подтверждены."
+    },
+    {
+      "case": "Room 'Б-237'",
+      "status": "passed",
+      "evidence": "Букву корпуса пока не расшифровали\n\nНе будем угадывать адрес. Уточните в контакт-центре УрФУ: 8 800 100-50-44.\n\nКампус и"
+    },
+    {
+      "case": "Room 'Р-999'",
+      "status": "passed",
+      "evidence": "КОРПУС ПОДТВЕРЖДЁН\nРадиофак\n\nЕкатеринбург, улица Мира, 32.\n\nАудитория Р-999: этаж и точное расположение не подтверждены."
+    },
+    {
+      "case": "Room 'abc'",
+      "status": "passed",
+      "evidence": "Введите букву корпуса и номер: например, Р-237. Это не поиск по названию предмета."
+    },
+    {
+      "case": "Room '<img src=x onerror=alert(1)>'",
+      "status": "passed",
+      "evidence": "Введите букву корпуса и номер: например, Р-237. Это не поиск по названию предмета."
+    },
+    {
+      "case": "Room ''",
+      "status": "passed",
+      "evidence": "Введите букву корпуса и номер: например, Р-237. Это не поиск по названию предмета."
+    },
+    {
+      "case": "Program 10220",
+      "status": "passed",
+      "evidence": {
+        "id": "10220",
+        "name": "Металлургия титана"
+      }
+    },
+    {
+      "case": "Program 9804",
+      "status": "passed",
+      "evidence": {
+        "id": "9804",
+        "name": "Государственное и муниципальное управление"
+      }
+    },
+    {
+      "case": "Program 10601",
+      "status": "passed",
+      "evidence": {
+        "id": "10601",
+        "name": "Китайский язык и китаистика"
+      }
+    },
+    {
+      "case": "Program 10149",
+      "status": "passed",
+      "evidence": {
+        "id": "10149",
+        "name": "Лингвистика в сфере деловых и профессиональных коммуникаций и информационных технологий"
+      }
+    },
+    {
+      "case": "Program 9864",
+      "status": "passed",
+      "evidence": {
+        "id": "9864",
+        "name": "Социологические исследования в управлении цифровым обществом"
+      }
+    },
+    {
+      "case": "Program 10205",
+      "status": "passed",
+      "evidence": {
+        "id": "10205",
+        "name": "Лазерные, аддитивные и упрочняющие технологии в машиностроении"
+      }
+    },
+    {
+      "case": "Program 10680",
+      "status": "passed",
+      "evidence": {
+        "id": "10680",
+        "name": "Прикладной искусственный интеллект"
+      }
+    },
+    {
+      "case": "Program 10156",
+      "status": "passed",
+      "evidence": {
+        "id": "10156",
+        "name": "Религиоведение"
+      }
+    },
+    {
+      "case": "Program 10600",
+      "status": "passed",
+      "evidence": {
+        "id": "10600",
+        "name": "Русский язык как иностранный: теория и методика обучения"
+      }
+    },
+    {
+      "case": "Program 10708",
+      "status": "passed",
+      "evidence": {
+        "id": "10708",
+        "name": "Перевод в цифровой среде"
+      }
+    },
+    {
+      "case": "Program 10149",
+      "status": "passed",
+      "evidence": {
+        "id": "10149",
+        "name": "Лингвистика в сфере деловых и профессиональных коммуникаций и информационных технологий"
+      }
+    },
+    {
+      "case": "Program 9989",
+      "status": "passed",
+      "evidence": {
+        "id": "9989",
+        "name": "Математическое обеспечение и администрирование информационных систем"
+      }
+    },
+    {
+      "case": "Program 10375",
+      "status": "passed",
+      "evidence": {
+        "id": "10375",
+        "name": "Образовательные технологии и проектирование: история и филология"
+      }
+    },
+    {
+      "case": "Unknown program ''",
+      "status": "passed",
+      "evidence": "ВЫБЕРИТЕ ПРОГРАММУ\n\nПроверьте номер в ссылке или вернитесь к каталогу.\n\nОткрыть каталог\n↗"
+    },
+    {
+      "case": "Unknown program 'abc'",
+      "status": "passed",
+      "evidence": "ПРОГРАММА НЕ НАЙДЕНА\n\nПроверьте номер в ссылке или вернитесь к каталогу.\n\nОткрыть каталог\n↗"
+    },
+    {
+      "case": "Unknown program '-1'",
+      "status": "passed",
+      "evidence": "ПРОГРАММА НЕ НАЙДЕНА\n\nПроверьте номер в ссылке или вернитесь к каталогу.\n\nОткрыть каталог\n↗"
+    },
+    {
+      "case": "Unknown program '999999'",
+      "status": "passed",
+      "evidence": "ПРОГРАММА НЕ НАЙДЕНА\n\nПроверьте номер в ссылке или вернитесь к каталогу.\n\nОткрыть каталог\n↗"
+    },
+    {
+      "case": "Unknown program '<script>'",
+      "status": "passed",
+      "evidence": "ПРОГРАММА НЕ НАЙДЕНА\n\nПроверьте номер в ссылке или вернитесь к каталогу.\n\nОткрыть каталог\n↗"
+    },
+    {
+      "case": "Quiz IT и математика/budget",
+      "status": "passed",
+      "evidence": {
+        "cards": 6
+      }
+    },
+    {
+      "case": "Quiz IT и математика/price",
+      "status": "passed",
+      "evidence": {
+        "cards": 6
+      }
+    },
+    {
+      "case": "Quiz IT и математика/interest",
+      "status": "passed",
+      "evidence": {
+        "cards": 6
+      }
+    },
+    {
+      "case": "Quiz Гуманитарные науки/budget",
+      "status": "passed",
+      "evidence": {
+        "cards": 6
+      }
+    },
+    {
+      "case": "Quiz Гуманитарные науки/price",
+      "status": "passed",
+      "evidence": {
+        "cards": 6
+      }
+    },
+    {
+      "case": "Quiz Гуманитарные науки/interest",
+      "status": "passed",
+      "evidence": {
+        "cards": 6
+      }
+    },
+    {
+      "case": "Quiz Естественные науки/budget",
+      "status": "passed",
+      "evidence": {
+        "cards": 6
+      }
+    },
+    {
+      "case": "Quiz Естественные науки/price",
+      "status": "passed",
+      "evidence": {
+        "cards": 6
+      }
+    },
+    {
+      "case": "Quiz Естественные науки/interest",
+      "status": "passed",
+      "evidence": {
+        "cards": 6
+      }
+    },
+    {
+      "case": "Quiz Инженерия/budget",
+      "status": "passed",
+      "evidence": {
+        "cards": 6
+      }
+    },
+    {
+      "case": "Quiz Инженерия/price",
+      "status": "passed",
+      "evidence": {
+        "cards": 6
+      }
+    },
+    {
+      "case": "Quiz Инженерия/interest",
+      "status": "passed",
+      "evidence": {
+        "cards": 6
+      }
+    },
+    {
+      "case": "Quiz Общество и экономика/budget",
+      "status": "passed",
+      "evidence": {
+        "cards": 6
+      }
+    },
+    {
+      "case": "Quiz Общество и экономика/price",
+      "status": "passed",
+      "evidence": {
+        "cards": 6
+      }
+    },
+    {
+      "case": "Quiz Общество и экономика/interest",
+      "status": "passed",
+      "evidence": {
+        "cards": 6
+      }
+    },
+    {
+      "case": "English en/index.html",
+      "status": "passed",
+      "evidence": {
+        "russian_words": [],
+        "switch": "../index.html"
+      }
+    },
+    {
+      "case": "English en/catalog.html",
+      "status": "passed",
+      "evidence": {
+        "russian_words": [],
+        "switch": "../catalog.html"
+      }
+    },
+    {
+      "case": "English en/admission.html",
+      "status": "passed",
+      "evidence": {
+        "russian_words": [],
+        "switch": "../admission.html"
+      }
+    },
+    {
+      "case": "English en/contacts.html",
+      "status": "passed",
+      "evidence": {
+        "russian_words": [],
+        "switch": "../contacts.html"
+      }
+    }
+  ],
+  "console_errors": []
+}

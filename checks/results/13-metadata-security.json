@@ -1,0 +1,359 @@
+{
+  "pages": [
+    {
+      "page": "404.html",
+      "title": "Кажется, свернули. — УрФУ · Свой маршрут",
+      "description": [
+        "Поможем вернуться на маршрут: поиск, главная и каталог."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "Institute.html",
+      "title": "Ваш институт. — УрФУ · Свой маршрут",
+      "description": [
+        "Программы института, официальные контакты и дальнейший маршрут."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "Program.html",
+      "title": "Ваша программа. — УрФУ · Свой маршрут",
+      "description": [
+        "Содержание обучения, экзамены, бюджетные места и стоимость — на одной странице."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "about.html",
+      "title": "Урал. Характер. Будущее. — УрФУ · Свой маршрут",
+      "description": [
+        "История университета, люди и официальные источники. От первого шага до общего будущего."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "account.html",
+      "title": "Ваш учебный день. — УрФУ · Свой маршрут",
+      "description": [
+        "Демонстрация личного кабинета: учебный день, баллы и заявки. Без настоящих персональных данных."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "admission.html",
+      "title": "Начните с себя. — УрФУ · Свой маршрут",
+      "description": [
+        "Понятный маршрут поступления: выбрать программу, проверить условия, подать документы и подготовиться к переезду."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "article.html",
+      "title": "История из УрФУ. — УрФУ · Свой маршрут",
+      "description": [
+        "Краткая новость по материалам официальной ленты ИРИТ-РТФ."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "campus.html",
+      "title": "Ближе к своему. — УрФУ · Свой маршрут",
+      "description": [
+        "Условная схема кампусов, порядок поселения, документы и калькулятор известных расходов."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "catalog.html",
+      "title": "Найдите своё дело. — УрФУ · Свой маршрут",
+      "description": [
+        "Выберите программу по интересам, предметам ЕГЭ, бюджету и стоимости. Данные официального каталога УрФУ."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "concept.html",
+      "title": "Свой маршрут. — УрФУ · Свой маршрут",
+      "description": [
+        "Идея конкурсного прототипа, принципы, источники, ограничения и план внедрения."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "contacts.html",
+      "title": "Давайте разберёмся. — УрФУ · Свой маршрут",
+      "description": [
+        "Найдите нужную службу по своему вопросу — без знания структуры университета."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "events.html",
+      "title": "Найдётся повод. — УрФУ · Свой маршрут",
+      "description": [
+        "Только события с подтверждёнными датами. Прошедшие встречи не маскируются под будущие."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "index.html",
+      "title": "Ваш путь. Ваш УрФУ. — УрФУ · Свой маршрут",
+      "description": [
+        "Свой маршрут в УрФУ: поступление, программы, расписание, кампус и ответы на ваши вопросы."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "institutes.html",
+      "title": "Разные. Ваши. — УрФУ · Свой маршрут",
+      "description": [
+        "Знакомьтесь с институтами через программы, которые вас интересуют."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "international.html",
+      "title": "Make UrFU your next step. — УрФУ · Свой маршрут",
+      "description": [
+        "An English route to programs, admissions information and official contacts."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "life.html",
+      "title": "Больше, чем пары. — УрФУ · Свой маршрут",
+      "description": [
+        "Спорт, сообщества, творчество и ваш круг людей в УрФУ."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "news.html",
+      "title": "УрФУ в движении. — УрФУ · Свой маршрут",
+      "description": [
+        "Новости из официальной ленты института: с датой и ссылкой на источник."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "partners.html",
+      "title": "Большие дела — вместе. — УрФУ · Свой маршрут",
+      "description": [
+        "Найдите образовательную или исследовательскую команду под вашу задачу."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "quiz.html",
+      "title": "Что по душе? — УрФУ · Свой маршрут",
+      "description": [
+        "Подберём направление за три вопроса: интересы, предметы и ваши приоритеты."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "room.html",
+      "title": "Куда на пару? — УрФУ · Свой маршрут",
+      "description": [
+        "От кода в расписании — к адресу корпуса. Только подтверждённые адреса, без выдуманных схем этажей."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "schedule.html",
+      "title": "Всё по плану. — УрФУ · Свой маршрут",
+      "description": [
+        "Группа, день и неделя. Пример расписания с выгрузкой в календарь телефона."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "science.html",
+      "title": "Вопросы становятся открытиями. — УрФУ · Свой маршрут",
+      "description": [
+        "Найдите тему, команду и первый шаг в исследованиях УрФУ."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "search.html",
+      "title": "Один поиск. Все ответы. — УрФУ · Свой маршрут",
+      "description": [
+        "Поиск по программам, страницам, службам и новостям УрФУ. Понимает привычные слова."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "student.html",
+      "title": "Учиться. Жить. Успевать. — УрФУ · Свой маршрут",
+      "description": [
+        "Сервисный центр студента: расписание, поддержка, пропуск, справки и первые шаги."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "style.html",
+      "title": "Узнаваемый характер. — УрФУ · Свой маршрут",
+      "description": [
+        "Знак, палитра, типографика и правила использования конкурсного визуального стиля."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "en/admission.html",
+      "title": "Your next chapter. — UrFU",
+      "description": [
+        "A clear route to official admission information for international applicants."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "en/catalog.html",
+      "title": "Find your direction. — UrFU",
+      "description": [
+        "Verified English titles from the official UrFU degree catalogue."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "en/contacts.html",
+      "title": "Let’s talk. — UrFU",
+      "description": [
+        "Official contact routes for Ural Federal University."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    },
+    {
+      "page": "en/index.html",
+      "title": "Your path. Your UrFU. — UrFU",
+      "description": [
+        "Find your next step at Ural Federal University. Official sources, clear admissions routes."
+      ],
+      "missing": [],
+      "og_dimensions": [
+        1200,
+        630
+      ]
+    }
+  ],
+  "failures": [],
+  "duplicate_titles": [],
+  "duplicate_descriptions": [],
+  "secret_files": [],
+  "junk_files": [],
+  "robots": true,
+  "sitemap": true
+}

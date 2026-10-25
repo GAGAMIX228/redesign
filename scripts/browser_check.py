@@ -50,7 +50,7 @@ async def main():
    else:raise
   await page.goto('http://127.0.0.1:4173/')
   await page.locator('[data-a11y-open]').first.click();await page.locator('#a11y-form select[name=scheme]').select_option('wb');assert await page.locator('body').get_attribute('data-a11y')=='wb';await page.keyboard.press('Escape')
-  await page.evaluate('navigator.serviceWorker.ready');await page.wait_for_timeout(1500);await page.context.set_offline(True);await page.reload();assert await page.locator('#role-heading').inner_text();await page.context.set_offline(False)
+  await page.locator('[data-offline-save]').click();await page.evaluate('navigator.serviceWorker.ready');await page.wait_for_timeout(1500);await page.context.set_offline(True);await page.reload();assert await page.locator('#role-heading').inner_text();await page.context.set_offline(False)
   await browser.close()
  report={'javascript_errors':errors,'horizontal_overflow':overflow,'external_requests':requests,'functional_checks':'passed','limitations':limitations}
  (R/'docs/smoke-results.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));print(json.dumps(report,ensure_ascii=False))

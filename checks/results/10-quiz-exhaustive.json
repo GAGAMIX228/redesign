@@ -1,0 +1,7 @@
+{
+  "answer_sets": 30720,
+  "method": "All results through real form submit handler; all 3 steps/back separately covered by the 97 UI scenarios. Expected results independently computed from the official snapshot.",
+  "console_errors": [],
+  "tested": 30720,
+  "failures": []
+}

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /redesign/
+Sitemap: https://gagamix228.github.io/redesign/sitemap.xml

@@ -1,0 +1,107 @@
+{
+  "results": [
+    {
+      "browser": "chromium",
+      "version": "154.0.8037.57",
+      "width": 375,
+      "page": "index.html",
+      "overflow": false,
+      "errors": [],
+      "status": "passed"
+    },
+    {
+      "browser": "chromium",
+      "version": "154.0.8037.57",
+      "width": 375,
+      "page": "catalog.html",
+      "overflow": false,
+      "errors": [],
+      "status": "passed"
+    },
+    {
+      "browser": "chromium",
+      "version": "154.0.8037.57",
+      "width": 375,
+      "page": "Program.html?id=9797",
+      "overflow": false,
+      "errors": [],
+      "status": "passed"
+    },
+    {
+      "browser": "chromium",
+      "version": "154.0.8037.57",
+      "width": 375,
+      "page": "schedule.html",
+      "overflow": false,
+      "errors": [],
+      "status": "passed"
+    },
+    {
+      "browser": "chromium",
+      "version": "154.0.8037.57",
+      "width": 375,
+      "page": "campus.html",
+      "overflow": false,
+      "errors": [],
+      "status": "passed"
+    },
+    {
+      "browser": "chromium",
+      "version": "154.0.8037.57",
+      "width": 1366,
+      "page": "index.html",
+      "overflow": false,
+      "errors": [],
+      "status": "passed"
+    },
+    {
+      "browser": "chromium",
+      "version": "154.0.8037.57",
+      "width": 1366,
+      "page": "catalog.html",
+      "overflow": false,
+      "errors": [],
+      "status": "passed"
+    },
+    {
+      "browser": "chromium",
+      "version": "154.0.8037.57",
+      "width": 1366,
+      "page": "Program.html?id=9797",
+      "overflow": false,
+      "errors": [],
+      "status": "passed"
+    },
+    {
+      "browser": "chromium",
+      "version": "154.0.8037.57",
+      "width": 1366,
+      "page": "schedule.html",
+      "overflow": false,
+      "errors": [],
+      "status": "passed"
+    },
+    {
+      "browser": "chromium",
+      "version": "154.0.8037.57",
+      "width": 1366,
+      "page": "campus.html",
+      "overflow": false,
+      "errors": [],
+      "status": "passed"
+    },
+    {
+      "browser": "firefox",
+      "status": "unavailable",
+      "reason": "BrowserType.launch: Timeout 180000ms exceeded.\nCall log:\n  - <launching> /tmp/urfu-test-browsers/firefox-1538/firefox/firefox -no-remote -headless -profile /tmp/playwright_firefoxdev_profile-sLJsw9 -juggler-pipe -silent\n  - <launched> pid=60052\n  - [pid=60052][err] *** You are running in headless mode.\n  2 × [pid=60052][err] Fontconfig error: No writable cache directories\n  - [pid=60052][err] [60090] Sandbox: writing /proc/self/uid_map: EROFS\n  - [pid=60052][out] Crash Annotation GraphicsCriticalError: |[0][GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt (t=0.280942) [GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt\n  - [pid=60052][err] [Parent 60052, Main Thread] WARNING: unable to create directory '/home/agent/.cache/dconf': Read-only file system.  dconf will not work properly.: 'glib warning', file toolkit/xre/nsSigHandlers.cpp:200\n  - [pid=60052][err]\n  - [pid=60052][err] (firefox-default:60052): dconf-CRITICAL **: 14:20:31.336: unable to create directory '/home/agent/.cache/dconf': Read-only file system.  dconf will not work properly.\n  - [pid=60052][err] [Parent 60052, Unnamed thread 7f932c641e40] WARNING: unable to create directory '/home/agent/.cache/dconf': Read-only file system.  dconf will not work properly.: 'glib warning', file toolkit/xre/nsSigHandlers.cpp:200\n  2 × [pid=60052][err]\n    - [pid=60052][err] (firefox-default:60052): dconf-CRITICAL **: 14:20:31.336: unable to create directory '/home/agent/.cache/dconf': Read-only file system.  dconf will not work properly.\n    - [pid=60052][err] [Parent 60052, Main Thread] WARNING: unable to create directory '/home/agent/.cache/dconf': Read-only file system.  dconf will not work properly.: 'glib warning', file toolkit/xre/nsSigHandlers.cpp:200\n  - [pid=60052][err]\n  - [pid=60052][err] (firefox-default:60052): dconf-CRITICAL **: 14:20:31.337: unable to create directory '/home/agent/.cache/dconf': Read-only file system.  dconf will not work properly.\n  - [pid=60052][err] [Parent 60052, Main Thread] WARNING: unable to create directory '/home/agent/.cache/dconf': Read-only file system.  dconf will not work properly.: 'glib warning', file toolkit/xre/nsSigHandlers.cpp:200\n  - [pid=60052][err]\n  - [pid=60052][err] (firefox-default:60052): dconf-CRITICAL **: 14:21:37.354: unable to create directory '/home/agent/.cache/dconf': Read-only file system.  dconf will not work properly.\n"
+    },
+    {
+      "browser": "webkit",
+      "status": "unavailable",
+      "reason": "BrowserType.launch: \n╔══════════════════════════════════════════════════════╗\n║ Host system is missing dependencies to run browsers. ║\n║ Missing libraries:                                   ║\n║     libgtk-4.so.1                                    ║\n║     libgraphene-1.0.so.0                             ║\n║     libharfbuzz-icu.so.0                             ║\n║     libmanette-0.2.so.0                              ║\n║     libhyphen.so.0                                   ║\n║     libGLESv2.so.2                                   ║\n╚══════════════════════════════════════════════════════╝"
+    }
+  ],
+  "limitations": [
+    "Real Edge, macOS Safari, Android and iPhone hardware are unavailable. WebKit tests the engine, not a physical iPhone."
+  ]
+}

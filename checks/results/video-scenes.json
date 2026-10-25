@@ -1,0 +1,62 @@
+[
+  {
+    "scene": 1,
+    "title": "Свой маршрут · Найти следующий шаг в УрФУ.",
+    "route": "index.html",
+    "clip": "/tmp/urfu-video-final/page@f5d12f29ed1b3fa8f8310f5825e4ca76.webm"
+  },
+  {
+    "scene": 2,
+    "title": "Четыре роли — свои быстрые действия.",
+    "route": "index.html",
+    "clip": "/tmp/urfu-video-final/page@3d033f8d9a0e2d7cbf4ee4d983326b96.webm"
+  },
+  {
+    "scene": 3,
+    "title": "Сумма ЕГЭ: минимумы, а не обещание бюджета.",
+    "route": "index.html",
+    "clip": "/tmp/urfu-video-final/page@86ad24dcbaffe55c10cb3607bfcd7bd4.webm"
+  },
+  {
+    "scene": 4,
+    "title": "98 уникальных программ · сравнение по условиям.",
+    "route": "catalog.html?budget=1",
+    "clip": "/tmp/urfu-video-final/page@efb03905fc7e5a5815705726780a9b06.webm"
+  },
+  {
+    "scene": 5,
+    "title": "«Общага» → общежития. Поиск понимает привычные слова.",
+    "route": "search.html",
+    "clip": "/tmp/urfu-video-final/page@d95f9554fc435ce692ced48c22d8a808.webm"
+  },
+  {
+    "scene": 6,
+    "title": "Поселение, подтверждённые адреса и личный чек-лист.",
+    "route": "campus.html",
+    "clip": "/tmp/urfu-video-final/page@1551904b91aecd3c43e797be1330d9df.webm"
+  },
+  {
+    "scene": 7,
+    "title": "Демо-расписание · дни, недели и календарь.",
+    "route": "schedule.html?day=0",
+    "clip": "/tmp/urfu-video-final/page@6ce470986dfa820336efa5ccbaeaa4dd.webm"
+  },
+  {
+    "scene": 8,
+    "title": "Контраст, шрифт, интервалы — настройте под себя.",
+    "route": "index.html",
+    "clip": "/tmp/urfu-video-final/page@6745ca85fca53a1530b903f02cda06f7.webm"
+  },
+  {
+    "scene": 9,
+    "title": "Мобильная версия · основные сервисы под рукой.",
+    "route": "docs/presentation.html",
+    "clip": "/tmp/urfu-video-final/page@30ebb98452253b3b0f87ae03b2265cb8.webm"
+  },
+  {
+    "scene": 10,
+    "title": "Свой маршрут · gagamix228.github.io/redesign/",
+    "route": "index.html",
+    "clip": "/tmp/urfu-video-final/page@4220033aff5fd7dedaf1a332ca935c86.webm"
+  }
+]

@@ -1,0 +1,115 @@
+{
+  "observed_before_fixes": {
+    "duplicate_program_rows": 3,
+    "program_count": 101,
+    "unique_programs": 98,
+    "english_entries": 82,
+    "unique_english": 79,
+    "accepted_impossible_date": "2026-02-31",
+    "old_video_resolution": "1440x900"
+  },
+  "expanded_axe_findings": {
+    "history_dark_text_nodes": 3,
+    "new_map_label_nodes_per_scheme": 3,
+    "map_schemes": 7,
+    "corrected_label_order": true
+  },
+  "first_lighthouse_medians": {
+    "index.html": {
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "LCP": 1661.671,
+      "CLS": 0,
+      "TBT": 25.5,
+      "transfer": 131573
+    },
+    "admission.html": {
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "LCP": 1657.5634999999997,
+      "CLS": 0,
+      "TBT": 11,
+      "transfer": 109039
+    },
+    "catalog.html": {
+      "scores": {
+        "performance": 96,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "LCP": 1515.5548,
+      "CLS": 0,
+      "TBT": 210,
+      "transfer": 115443
+    },
+    "Program.html?id=9797": {
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "LCP": 1655.8030000000003,
+      "CLS": 0.04425082957562878,
+      "TBT": 25,
+      "transfer": 109651
+    },
+    "campus.html": {
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "LCP": 1656.5347,
+      "CLS": 0,
+      "TBT": 3,
+      "transfer": 111735
+    },
+    "schedule.html": {
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "LCP": 1510.3975,
+      "CLS": 0,
+      "TBT": 11.5,
+      "transfer": 107930
+    },
+    "search.html?q=общага": {
+      "scores": {
+        "performance": 100,
+        "accessibility": 98,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "LCP": 1507.5744,
+      "CLS": 0,
+      "TBT": 14.5,
+      "transfer": 108682
+    },
+    "concept.html": {
+      "scores": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 100
+      },
+      "LCP": 1509.1382,
+      "CLS": 0,
+      "TBT": 5.5,
+      "transfer": 109692
+    }
+  }
+}

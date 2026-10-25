@@ -1,0 +1,671 @@
+{
+  "measurement": "Compressed Content-Length response bodies, excluding HTTP headers. First visit, fresh browser storage.",
+  "first_screen_3s": 131193,
+  "first_screen_requests": 11,
+  "home_after_complete_scroll": 379567,
+  "additional_explicit_offline_download": 856852,
+  "total_with_requested_offline_copy": 1236419,
+  "ordinary_page_below_500_KiB": true,
+  "responses": [
+    {
+      "url": "http://127.0.0.1:4175/",
+      "bytes": 9244
+    },
+    {
+      "url": "http://127.0.0.1:4175/assets/images/p4-small.webp",
+      "bytes": 18878
+    },
+    {
+      "url": "http://127.0.0.1:4175/css/evolution.css?v=b63a6f72f4",
+      "bytes": 10822
+    },
+    {
+      "url": "http://127.0.0.1:4175/css/site.css?v=1fef14c65e",
+      "bytes": 9086
+    },
+    {
+      "url": "http://127.0.0.1:4175/assets/fonts/GolosText.woff2",
+      "bytes": 34040
+    },
+    {
+      "url": "http://127.0.0.1:4175/assets/fonts/Oswald.woff2",
+      "bytes": 17964
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/programs.js",
+      "bytes": 8309
+    },
+    {
+      "url": "http://127.0.0.1:4175/js/motion.js?v=52dd11dd1e",
+      "bytes": 2799
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/news.js",
+      "bytes": 1404
+    },
+    {
+      "url": "http://127.0.0.1:4175/js/app.js?v=7e1fd24275",
+      "bytes": 18481
+    },
+    {
+      "url": "http://127.0.0.1:4175/assets/favicon.svg",
+      "bytes": 166
+    },
+    {
+      "url": "http://127.0.0.1:4175/assets/images/campus-1.webp",
+      "bytes": 78526
+    },
+    {
+      "url": "http://127.0.0.1:4175/assets/images/news-ai.webp",
+      "bytes": 22922
+    },
+    {
+      "url": "http://127.0.0.1:4175/assets/images/p5.webp",
+      "bytes": 146926
+    },
+    {
+      "url": "http://127.0.0.1:4175/sw.js",
+      "bytes": 1214
+    },
+    {
+      "url": "http://127.0.0.1:4175/",
+      "bytes": 9244
+    },
+    {
+      "url": "http://127.0.0.1:4175/institutes.html",
+      "bytes": 4977
+    },
+    {
+      "url": "http://127.0.0.1:4175/contacts.html",
+      "bytes": 5363
+    },
+    {
+      "url": "http://127.0.0.1:4175/Program.html",
+      "bytes": 4605
+    },
+    {
+      "url": "http://127.0.0.1:4175/campus.html",
+      "bytes": 8665
+    },
+    {
+      "url": "http://127.0.0.1:4175/student.html",
+      "bytes": 5435
+    },
+    {
+      "url": "http://127.0.0.1:4175/schedule.html",
+      "bytes": 4668
+    },
+    {
+      "url": "http://127.0.0.1:4175/science.html",
+      "bytes": 4980
+    },
+    {
+      "url": "http://127.0.0.1:4175/international.html",
+      "bytes": 4217
+    },
+    {
+      "url": "http://127.0.0.1:4175/partners.html",
+      "bytes": 4698
+    },
+    {
+      "url": "http://127.0.0.1:4175/search.html",
+      "bytes": 4402
+    },
+    {
+      "url": "http://127.0.0.1:4175/about.html",
+      "bytes": 4652
+    },
+    {
+      "url": "http://127.0.0.1:4175/Institute.html",
+      "bytes": 4056
+    },
+    {
+      "url": "http://127.0.0.1:4175/events.html",
+      "bytes": 4471
+    },
+    {
+      "url": "http://127.0.0.1:4175/account.html",
+      "bytes": 4902
+    },
+    {
+      "url": "http://127.0.0.1:4175/404.html",
+      "bytes": 4122
+    },
+    {
+      "url": "http://127.0.0.1:4175/admission.html",
+      "bytes": 5796
+    },
+    {
+      "url": "http://127.0.0.1:4175/room.html",
+      "bytes": 4510
+    },
+    {
+      "url": "http://127.0.0.1:4175/index.html",
+      "bytes": 9244
+    },
+    {
+      "url": "http://127.0.0.1:4175/news.html",
+      "bytes": 5294
+    },
+    {
+      "url": "http://127.0.0.1:4175/quiz.html",
+      "bytes": 4833
+    },
+    {
+      "url": "http://127.0.0.1:4175/article.html",
+      "bytes": 4069
+    },
+    {
+      "url": "http://127.0.0.1:4175/life.html",
+      "bytes": 4738
+    },
+    {
+      "url": "http://127.0.0.1:4175/style.html",
+      "bytes": 5011
+    },
+    {
+      "url": "http://127.0.0.1:4175/concept.html",
+      "bytes": 6482
+    },
+    {
+      "url": "http://127.0.0.1:4175/en/contacts.html",
+      "bytes": 3357
+    },
+    {
+      "url": "http://127.0.0.1:4175/catalog.html",
+      "bytes": 12244
+    },
+    {
+      "url": "http://127.0.0.1:4175/en/admission.html",
+      "bytes": 3480
+    },
+    {
+      "url": "http://127.0.0.1:4175/en/index.html",
+      "bytes": 3638
+    },
+    {
+      "url": "http://127.0.0.1:4175/en/catalog.html",
+      "bytes": 6956
+    },
+    {
+      "url": "http://127.0.0.1:4175/js/details-loader.js",
+      "bytes": 257
+    },
+    {
+      "url": "http://127.0.0.1:4175/css/site.css",
+      "bytes": 9086
+    },
+    {
+      "url": "http://127.0.0.1:4175/css/evolution.css",
+      "bytes": 10822
+    },
+    {
+      "url": "http://127.0.0.1:4175/assets/fonts/GolosText.woff2",
+      "bytes": 34040
+    },
+    {
+      "url": "http://127.0.0.1:4175/js/motion.js",
+      "bytes": 2799
+    },
+    {
+      "url": "http://127.0.0.1:4175/js/app.js",
+      "bytes": 18481
+    },
+    {
+      "url": "http://127.0.0.1:4175/assets/fonts/Oswald.woff2",
+      "bytes": 17964
+    },
+    {
+      "url": "http://127.0.0.1:4175/assets/images/news-ai.webp",
+      "bytes": 22922
+    },
+    {
+      "url": "http://127.0.0.1:4175/assets/images/p4.webp",
+      "bytes": 118038
+    },
+    {
+      "url": "http://127.0.0.1:4175/assets/images/p4-small.webp",
+      "bytes": 18878
+    },
+    {
+      "url": "http://127.0.0.1:4175/assets/images/p5.webp",
+      "bytes": 146926
+    },
+    {
+      "url": "http://127.0.0.1:4175/assets/images/campus-3.webp",
+      "bytes": 58912
+    },
+    {
+      "url": "http://127.0.0.1:4175/assets/images/campus-1.webp",
+      "bytes": 78526
+    },
+    {
+      "url": "http://127.0.0.1:4175/assets/images/campus-2.webp",
+      "bytes": 39298
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/programs.js",
+      "bytes": 8309
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/news.js",
+      "bytes": 1404
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/services.js",
+      "bytes": 765
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9979.js",
+      "bytes": 1103
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9812.js",
+      "bytes": 1064
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9866.js",
+      "bytes": 551
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10320.js",
+      "bytes": 1552
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10156.js",
+      "bytes": 923
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10216.js",
+      "bytes": 543
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10712.js",
+      "bytes": 625
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10002.js",
+      "bytes": 136
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9899.js",
+      "bytes": 1860
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9804.js",
+      "bytes": 1236
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10149.js",
+      "bytes": 911
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10205.js",
+      "bytes": 1142
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9989.js",
+      "bytes": 1111
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10153.js",
+      "bytes": 1218
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10151.js",
+      "bytes": 1053
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10344.js",
+      "bytes": 1092
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10591.js",
+      "bytes": 743
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9936.js",
+      "bytes": 1059
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10154.js",
+      "bytes": 1068
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10077.js",
+      "bytes": 881
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9874.js",
+      "bytes": 1267
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10696.js",
+      "bytes": 1056
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10293.js",
+      "bytes": 943
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9918.js",
+      "bytes": 674
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9795.js",
+      "bytes": 734
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10075.js",
+      "bytes": 613
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9826.js",
+      "bytes": 1012
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9897.js",
+      "bytes": 1272
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9901.js",
+      "bytes": 1050
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10308.js",
+      "bytes": 1664
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10680.js",
+      "bytes": 750
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10117.js",
+      "bytes": 732
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10221.js",
+      "bytes": 1142
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9833.js",
+      "bytes": 1165
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9968.js",
+      "bytes": 1182
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10601.js",
+      "bytes": 532
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10210.js",
+      "bytes": 995
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10329.js",
+      "bytes": 972
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10708.js",
+      "bytes": 563
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10144.js",
+      "bytes": 808
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9995.js",
+      "bytes": 993
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9955.js",
+      "bytes": 864
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10758.js",
+      "bytes": 1240
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10600.js",
+      "bytes": 408
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10315.js",
+      "bytes": 1057
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10319.js",
+      "bytes": 876
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9986.js",
+      "bytes": 1172
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9959.js",
+      "bytes": 479
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10694.js",
+      "bytes": 1057
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10375.js",
+      "bytes": 816
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10071.js",
+      "bytes": 924
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9864.js",
+      "bytes": 953
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9813.js",
+      "bytes": 1231
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10220.js",
+      "bytes": 1132
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10145.js",
+      "bytes": 1478
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9846.js",
+      "bytes": 1590
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9988.js",
+      "bytes": 952
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10202.js",
+      "bytes": 807
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9843.js",
+      "bytes": 1064
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10022.js",
+      "bytes": 128
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10620.js",
+      "bytes": 1430
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10158.js",
+      "bytes": 523
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10362.js",
+      "bytes": 612
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10339.js",
+      "bytes": 511
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10102.js",
+      "bytes": 1206
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10036.js",
+      "bytes": 1312
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9845.js",
+      "bytes": 1162
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10157.js",
+      "bytes": 1173
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10078.js",
+      "bytes": 1070
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10340.js",
+      "bytes": 525
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10292.js",
+      "bytes": 203
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10146.js",
+      "bytes": 1216
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10076.js",
+      "bytes": 819
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10147.js",
+      "bytes": 1386
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10152.js",
+      "bytes": 768
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10331.js",
+      "bytes": 869
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9875.js",
+      "bytes": 765
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9921.js",
+      "bytes": 1112
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9985.js",
+      "bytes": 994
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9981.js",
+      "bytes": 901
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10345.js",
+      "bytes": 1112
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9980.js",
+      "bytes": 612
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9797.js",
+      "bytes": 980
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9806.js",
+      "bytes": 1148
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10184.js",
+      "bytes": 1360
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9869.js",
+      "bytes": 1285
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10203.js",
+      "bytes": 894
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10312.js",
+      "bytes": 674
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10034.js",
+      "bytes": 1060
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9898.js",
+      "bytes": 1756
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9987.js",
+      "bytes": 1024
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10139.js",
+      "bytes": 2168
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10037.js",
+      "bytes": 1539
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9796.js",
+      "bytes": 1068
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10330.js",
+      "bytes": 1448
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10150.js",
+      "bytes": 677
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/9814.js",
+      "bytes": 1084
+    },
+    {
+      "url": "http://127.0.0.1:4175/data/program-details/10255.js",
+      "bytes": 614
+    },
+    {
+      "url": "http://127.0.0.1:4175/assets/favicon.svg",
+      "bytes": 166
+    },
+    {
+      "url": "http://127.0.0.1:4175/assets/logo.svg",
+      "bytes": 254
+    },
+    {
+      "url": "http://127.0.0.1:4175/assets/apple-touch-icon.png",
+      "bytes": 4882
+    },
+    {
+      "url": "http://127.0.0.1:4175/assets/favicon-32.png",
+      "bytes": 1054
+    },
+    {
+      "url": "http://127.0.0.1:4175/assets/site-qr.png",
+      "bytes": 1468
+    }
+  ]
+}

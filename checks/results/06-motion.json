@@ -1,0 +1,17 @@
+{
+  "layout_property_transitions": [],
+  "scroll_profile": {
+    "frames": 478,
+    "p50": 16.699999999999818,
+    "p95": 16.799999999999272,
+    "max": 33.30000000000018,
+    "long_tasks": []
+  },
+  "pause_stops_loops": true,
+  "reduced_motion_state": "off",
+  "back_url": "http://127.0.0.1:4175/catalog.html",
+  "back_scroll": 700,
+  "native_pagedown": true,
+  "native_end": true,
+  "issues": []
+}

@@ -1,0 +1,261 @@
+{
+  "mobile_slow_network_4x_CPU": [
+    {
+      "page": "index.html",
+      "CLS": 0.003218443382109086,
+      "shifts": [
+        {
+          "value": 0.003218443382109086,
+          "time": 1719.7999999970198,
+          "sources": [
+            "undefined.undefined",
+            "undefined.undefined",
+            "A.text-link",
+            "BUTTON.role",
+            "BUTTON.role"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "admission.html",
+      "CLS": 0.0031221150494966394,
+      "shifts": [
+        {
+          "value": 0.0031221150494966394,
+          "time": 1710.6000000014901,
+          "sources": [
+            "undefined.undefined",
+            "SPAN.",
+            "SPAN.arrow"
+          ]
+        }
+      ]
+    },
+    {
+      "page": "catalog.html",
+      "CLS": 0.003762490693011294,
+      "shifts": [
+        {
+          "value": 0.003762490693011294,
+          "time": 2533.60000000149,
+          "sources": [
+            "undefined.undefined",
+            "undefined.undefined",
+            "SPAN."
+          ]
+        }
+      ]
+    },
+    {
+      "page": "Program.html?id=9797",
+      "CLS": 0.04287072766989409,
+      "shifts": [
+        {
+          "value": 0.04287072766989409,
+          "time": 1500.0999999977648,
+          "sources": [
+            "DIV.container page-content",
+            "SPAN.hero-symbol",
+            "P.lead",
+            "SPAN."
+          ]
+        }
+      ]
+    },
+    {
+      "page": "campus.html",
+      "CLS": 0.010016314195119188,
+      "shifts": [
+        {
+          "value": 0.010016314195119188,
+          "time": 1869.5999999977648,
+          "sources": [
+            "DIV.campus-map",
+            "undefined.undefined",
+            "SMALL.source",
+            "SPAN."
+          ]
+        }
+      ]
+    },
+    {
+      "page": "schedule.html",
+      "CLS": 0.023236899472766387,
+      "shifts": [
+        {
+          "value": 0.023236899472766387,
+          "time": 1585.8999999985099,
+          "sources": [
+            "DIV.container page-content",
+            "SPAN.hero-symbol",
+            "SPAN."
+          ]
+        }
+      ]
+    },
+    {
+      "page": "search.html?q=общага",
+      "CLS": 0.0030913146610647723,
+      "shifts": [
+        {
+          "value": 0.0030913146610647723,
+          "time": 1303.699999999255,
+          "sources": [
+            "undefined.undefined",
+            "SPAN."
+          ]
+        }
+      ]
+    },
+    {
+      "page": "concept.html",
+      "CLS": 0.044803053995081984,
+      "shifts": [
+        {
+          "value": 0.044803053995081984,
+          "time": 1293.5,
+          "sources": [
+            "DIV.container page-content",
+            "undefined.undefined",
+            "undefined.undefined",
+            "P.lead",
+            "undefined.undefined"
+          ]
+        }
+      ]
+    }
+  ],
+  "actions": [
+    {
+      "width": 320,
+      "roles": [
+        {
+          "name": "applicant",
+          "height": 671,
+          "next": 782
+        },
+        {
+          "name": "student",
+          "height": 671,
+          "next": 782
+        },
+        {
+          "name": "employee",
+          "height": 671,
+          "next": 782
+        },
+        {
+          "name": "partner",
+          "height": 671,
+          "next": 782
+        }
+      ],
+      "slider_values": 301,
+      "slider_heights": [
+        707
+      ],
+      "slider_result_heights": [
+        170
+      ]
+    },
+    {
+      "width": 375,
+      "roles": [
+        {
+          "name": "applicant",
+          "height": 691,
+          "next": 788
+        },
+        {
+          "name": "student",
+          "height": 691,
+          "next": 788
+        },
+        {
+          "name": "employee",
+          "height": 691,
+          "next": 788
+        },
+        {
+          "name": "partner",
+          "height": 691,
+          "next": 788
+        }
+      ],
+      "slider_values": 301,
+      "slider_heights": [
+        713
+      ],
+      "slider_result_heights": [
+        170
+      ]
+    },
+    {
+      "width": 768,
+      "roles": [
+        {
+          "name": "applicant",
+          "height": 821,
+          "next": 929
+        },
+        {
+          "name": "student",
+          "height": 821,
+          "next": 929
+        },
+        {
+          "name": "employee",
+          "height": 821,
+          "next": 929
+        },
+        {
+          "name": "partner",
+          "height": 821,
+          "next": 929
+        }
+      ],
+      "slider_values": 301,
+      "slider_heights": [
+        735
+      ],
+      "slider_result_heights": [
+        145
+      ]
+    },
+    {
+      "width": 1440,
+      "roles": [
+        {
+          "name": "applicant",
+          "height": 635,
+          "next": 753
+        },
+        {
+          "name": "student",
+          "height": 635,
+          "next": 753
+        },
+        {
+          "name": "employee",
+          "height": 635,
+          "next": 753
+        },
+        {
+          "name": "partner",
+          "height": 635,
+          "next": 753
+        }
+      ],
+      "slider_values": 301,
+      "slider_heights": [
+        719
+      ],
+      "slider_result_heights": [
+        145
+      ]
+    }
+  ],
+  "failures": [],
+  "note": "Result lists naturally resize after filtering; autocomplete is positioned outside document flow. No invented fixed data."
+}

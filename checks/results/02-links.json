@@ -1,0 +1,1147 @@
+{
+  "rendered_pages": 148,
+  "pages": [
+    "Institute.html?id=0",
+    "Institute.html?id=1",
+    "Institute.html?id=10",
+    "Institute.html?id=11",
+    "Institute.html?id=12",
+    "Institute.html?id=13",
+    "Institute.html?id=14",
+    "Institute.html?id=15",
+    "Institute.html?id=16",
+    "Institute.html?id=2",
+    "Institute.html?id=3",
+    "Institute.html?id=4",
+    "Institute.html?id=5",
+    "Institute.html?id=6",
+    "Institute.html?id=7",
+    "Institute.html?id=8",
+    "Institute.html?id=9",
+    "Program.html?id=10002",
+    "Program.html?id=10022",
+    "Program.html?id=10034",
+    "Program.html?id=10036",
+    "Program.html?id=10037",
+    "Program.html?id=10071",
+    "Program.html?id=10075",
+    "Program.html?id=10076",
+    "Program.html?id=10077",
+    "Program.html?id=10078",
+    "Program.html?id=10102",
+    "Program.html?id=10117",
+    "Program.html?id=10139",
+    "Program.html?id=10144",
+    "Program.html?id=10145",
+    "Program.html?id=10146",
+    "Program.html?id=10147",
+    "Program.html?id=10149",
+    "Program.html?id=10150",
+    "Program.html?id=10151",
+    "Program.html?id=10152",
+    "Program.html?id=10153",
+    "Program.html?id=10154",
+    "Program.html?id=10156",
+    "Program.html?id=10157",
+    "Program.html?id=10158",
+    "Program.html?id=10184",
+    "Program.html?id=10202",
+    "Program.html?id=10203",
+    "Program.html?id=10205",
+    "Program.html?id=10210",
+    "Program.html?id=10216",
+    "Program.html?id=10220",
+    "Program.html?id=10221",
+    "Program.html?id=10255",
+    "Program.html?id=10292",
+    "Program.html?id=10293",
+    "Program.html?id=10308",
+    "Program.html?id=10312",
+    "Program.html?id=10315",
+    "Program.html?id=10319",
+    "Program.html?id=10320",
+    "Program.html?id=10329",
+    "Program.html?id=10330",
+    "Program.html?id=10331",
+    "Program.html?id=10339",
+    "Program.html?id=10340",
+    "Program.html?id=10344",
+    "Program.html?id=10345",
+    "Program.html?id=10362",
+    "Program.html?id=10375",
+    "Program.html?id=10591",
+    "Program.html?id=10600",
+    "Program.html?id=10601",
+    "Program.html?id=10620",
+    "Program.html?id=10680",
+    "Program.html?id=10694",
+    "Program.html?id=10696",
+    "Program.html?id=10708",
+    "Program.html?id=10712",
+    "Program.html?id=10758",
+    "Program.html?id=9795",
+    "Program.html?id=9796",
+    "Program.html?id=9797",
+    "Program.html?id=9804",
+    "Program.html?id=9806",
+    "Program.html?id=9812",
+    "Program.html?id=9813",
+    "Program.html?id=9814",
+    "Program.html?id=9826",
+    "Program.html?id=9833",
+    "Program.html?id=9843",
+    "Program.html?id=9845",
+    "Program.html?id=9846",
+    "Program.html?id=9864",
+    "Program.html?id=9866",
+    "Program.html?id=9869",
+    "Program.html?id=9874",
+    "Program.html?id=9875",
+    "Program.html?id=9897",
+    "Program.html?id=9898",
+    "Program.html?id=9899",
+    "Program.html?id=9901",
+    "Program.html?id=9918",
+    "Program.html?id=9921",
+    "Program.html?id=9936",
+    "Program.html?id=9955",
+    "Program.html?id=9959",
+    "Program.html?id=9968",
+    "Program.html?id=9979",
+    "Program.html?id=9980",
+    "Program.html?id=9981",
+    "Program.html?id=9985",
+    "Program.html?id=9986",
+    "Program.html?id=9987",
+    "Program.html?id=9988",
+    "Program.html?id=9989",
+    "Program.html?id=9995",
+    "about.html",
+    "account.html",
+    "admission.html",
+    "article.html?id=1",
+    "article.html?id=2",
+    "article.html?id=3",
+    "article.html?id=4",
+    "article.html?id=5",
+    "article.html?id=6",
+    "campus.html",
+    "catalog.html",
+    "catalog.html?area=IT+%D0%B8+%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0",
+    "catalog.html?my=220",
+    "concept.html",
+    "contacts.html",
+    "en/admission.html",
+    "en/catalog.html",
+    "en/contacts.html",
+    "en/index.html",
+    "events.html",
+    "index.html",
+    "institutes.html",
+    "international.html",
+    "life.html",
+    "news.html",
+    "partners.html",
+    "quiz.html",
+    "room.html",
+    "schedule.html",
+    "science.html",
+    "search.html",
+    "student.html",
+    "style.html"
+  ],
+  "links_followed": 10156,
+  "unique_external_links": 197,
+  "failures": [],
+  "console_errors": [],
+  "external": [
+    {
+      "url": "https://privet.urfu.ru/",
+      "status": 200,
+      "final": "https://privet.urfu.ru/"
+    },
+    {
+      "url": "https://privet.urfu.ru/about",
+      "status": 200,
+      "final": "https://privet.urfu.ru/about"
+    },
+    {
+      "url": "https://privet.urfu.ru/accommodation",
+      "status": 200,
+      "final": "https://privet.urfu.ru/accommodation"
+    },
+    {
+      "url": "https://privet.urfu.ru/education",
+      "status": 200,
+      "final": "https://privet.urfu.ru/education"
+    },
+    {
+      "url": "https://privet.urfu.ru/it",
+      "status": 200,
+      "final": "https://privet.urfu.ru/it"
+    },
+    {
+      "url": "https://privet.urfu.ru/money",
+      "status": 200,
+      "final": "https://privet.urfu.ru/money"
+    },
+    {
+      "url": "https://privet.urfu.ru/navigation",
+      "status": 200,
+      "final": "https://privet.urfu.ru/navigation"
+    },
+    {
+      "url": "https://privet.urfu.ru/orgs",
+      "status": 200,
+      "final": "https://privet.urfu.ru/orgs"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10002/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10002/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10022/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10022/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10034/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10034/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10036/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10036/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10037/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10037/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10071/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10071/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10075/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10075/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10076/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10076/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10077/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10077/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10078/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10078/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10102/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10102/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10117/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10117/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10139/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10139/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10144/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10144/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10145/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10145/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10146/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10146/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10147/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10147/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10149/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10149/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10150/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10150/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10151/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10151/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10152/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10152/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10153/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10153/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10154/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10154/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10156/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10156/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10157/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10157/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10158/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10158/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10184/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10184/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10202/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10202/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10203/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10203/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10205/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10205/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10210/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10210/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10216/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10216/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10220/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10220/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10221/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10221/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10255/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10255/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10312/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10312/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10315/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10315/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10319/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10319/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10331/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10331/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10591/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10591/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10680/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10680/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/10696/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/10696/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9795/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9795/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9796/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9796/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9797/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9797/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9804/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9804/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9806/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9806/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9812/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9812/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9813/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9813/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9814/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9814/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9826/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9826/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9833/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9833/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9843/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9843/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9845/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9845/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9846/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9846/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9864/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9864/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9866/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9866/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9869/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9869/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9874/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9874/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9875/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9875/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9897/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9897/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9898/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9898/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9899/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9899/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9901/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9901/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9918/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9918/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9921/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9921/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9936/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9936/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9955/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9955/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9959/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9959/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9968/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9968/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9979/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9979/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9980/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9980/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9981/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9981/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9985/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9985/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9986/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9986/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9987/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9987/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9988/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9988/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9989/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9989/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/en/9995/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/en/9995/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10002/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10002/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10022/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10022/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10034/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10034/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10036/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10036/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10037/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10037/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10071/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10071/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10075/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10075/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10076/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10076/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10077/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10077/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10078/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10078/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10102/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10102/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10117/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10117/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10139/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10139/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10144/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10144/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10145/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10145/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10146/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10146/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10147/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10147/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10149/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10149/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10150/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10150/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10151/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10151/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10152/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10152/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10153/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10153/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10154/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10154/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10156/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10156/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10157/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10157/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10158/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10158/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10184/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10184/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10202/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10202/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10203/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10203/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10205/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10205/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10210/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10210/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10216/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10216/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10220/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10220/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10221/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10221/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10255/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10255/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10292/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10292/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10293/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10293/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10308/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10308/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10312/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10312/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10315/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10315/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10319/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10319/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10320/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10320/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10329/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10329/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10330/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10330/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10331/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10331/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10339/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10339/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10340/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10340/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10344/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10344/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10345/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10345/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10362/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10362/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10375/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10375/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10591/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10591/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10600/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10600/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10601/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10601/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10620/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10620/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10680/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10680/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10694/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10694/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10696/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10696/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10708/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10708/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10712/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10712/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/10758/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/10758/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9795/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9795/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9796/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9796/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9797/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9797/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9804/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9804/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9806/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9806/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9812/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9812/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9813/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9813/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9814/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9814/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9826/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9826/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9833/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9833/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9843/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9843/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9845/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9845/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9846/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9846/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9864/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9864/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9866/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9866/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9869/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9869/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9874/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9874/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9875/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9875/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9897/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9897/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9898/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9898/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9899/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9899/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9901/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9901/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9918/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9918/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9921/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9921/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9936/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9936/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9955/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9955/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9959/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9959/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9968/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9968/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9979/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9979/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9980/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9980/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9981/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9981/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9985/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9985/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9986/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9986/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9987/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9987/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9988/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9988/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9989/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9989/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/9995/",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/9995/"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/?year=2026",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/?year=2026"
+    },
+    {
+      "url": "https://programs.edu.urfu.ru/ru/?year=2026&lvl=bac&lvl=spc&frm=ft",
+      "status": 200,
+      "final": "https://programs.edu.urfu.ru/ru/?year=2026&lvl=bac&lvl=spc&frm=ft"
+    },
+    {
+      "url": "https://rtf.urfu.ru/get-news/ru/?rows=2&cols=3&pid=18511&offset=0",
+      "status": 200,
+      "final": "https://rtf.urfu.ru/get-news/ru/?rows=2&cols=3&pid=18511&offset=0"
+    },
+    {
+      "url": "https://rtf.urfu.ru/ru/",
+      "status": 200,
+      "final": "https://rtf.urfu.ru/ru/"
+    },
+    {
+      "url": "https://urfu.ru/en/",
+      "status": 403,
+      "classification": "blocked_by_source"
+    },
+    {
+      "url": "https://urfu.ru/ru/about/documents/",
+      "status": 403,
+      "classification": "blocked_by_source"
+    },
+    {
+      "url": "https://urfu.ru/ru/anticorruption/",
+      "status": 403,
+      "classification": "blocked_by_source"
+    },
+    {
+      "url": "https://urfu.ru/ru/applicant/",
+      "status": 403,
+      "classification": "blocked_by_source"
+    },
+    {
+      "url": "https://urfu.ru/ru/science/",
+      "status": 403,
+      "classification": "blocked_by_source"
+    },
+    {
+      "url": "https://urfu.ru/ru/students/study/schedule/",
+      "status": 403,
+      "classification": "blocked_by_source"
+    },
+    {
+      "url": "https://urfu.ru/sveden/",
+      "status": 403,
+      "classification": "blocked_by_source"
+    }
+  ],
+  "unreachable_templates": [
+    "404.html"
+  ]
+}

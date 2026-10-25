@@ -1,0 +1,14 @@
+{
+  "crc_error": null,
+  "files": 340,
+  "has_index": true,
+  "has_instructions": true,
+  "forbidden_files": [],
+  "http_pages": 29,
+  "errors": [],
+  "external_requests": [],
+  "failed_responses": [],
+  "scenarios": "roles/catalog/program/search/schedule/offline passed",
+  "file_opening": "blocked by managed-browser policy; not certified",
+  "status": "passed"
+}

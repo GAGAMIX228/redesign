@@ -1,0 +1,1752 @@
+{
+  "pages": 29,
+  "buttons": [
+    {
+      "page": "404.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "404.html",
+      "index": 1,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "404.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "404.html",
+      "index": 3,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "404.html",
+      "index": 4,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "404.html",
+      "index": 5,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "404.html",
+      "index": 6,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "404.html",
+      "index": 7,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "404.html",
+      "index": 8,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "Institute.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "Institute.html",
+      "index": 1,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "Institute.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "Institute.html",
+      "index": 3,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "Institute.html",
+      "index": 4,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "Institute.html",
+      "index": 5,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "Institute.html",
+      "index": 6,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "Institute.html",
+      "index": 7,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "Institute.html",
+      "index": 8,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "Program.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "Program.html",
+      "index": 1,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "Program.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "Program.html",
+      "index": 3,
+      "label": "Печать",
+      "status": "changed"
+    },
+    {
+      "page": "Program.html",
+      "index": 4,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "Program.html",
+      "index": 5,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "Program.html",
+      "index": 6,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "Program.html",
+      "index": 7,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "Program.html",
+      "index": 8,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "Program.html",
+      "index": 9,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "about.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "about.html",
+      "index": 1,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "about.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "about.html",
+      "index": 3,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "about.html",
+      "index": 4,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "about.html",
+      "index": 5,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "about.html",
+      "index": 6,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "about.html",
+      "index": 7,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "about.html",
+      "index": 8,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "account.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "account.html",
+      "index": 1,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "account.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "account.html",
+      "index": 3,
+      "label": "Создать демо-заявку ↗",
+      "status": "changed"
+    },
+    {
+      "page": "account.html",
+      "index": 4,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "account.html",
+      "index": 5,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "account.html",
+      "index": 6,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "account.html",
+      "index": 7,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "account.html",
+      "index": 8,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "account.html",
+      "index": 9,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "admission.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "admission.html",
+      "index": 1,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "admission.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "admission.html",
+      "index": 3,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "admission.html",
+      "index": 4,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "admission.html",
+      "index": 5,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "admission.html",
+      "index": 6,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "admission.html",
+      "index": 7,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "admission.html",
+      "index": 8,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "article.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "article.html",
+      "index": 1,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "article.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "article.html",
+      "index": 3,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "article.html",
+      "index": 4,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "article.html",
+      "index": 5,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "article.html",
+      "index": 6,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "article.html",
+      "index": 7,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "article.html",
+      "index": 8,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "campus.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "campus.html",
+      "index": 1,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "campus.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "campus.html",
+      "index": 3,
+      "label": "Втузгородок",
+      "status": "changed"
+    },
+    {
+      "page": "campus.html",
+      "index": 4,
+      "label": "Новокольцовский",
+      "status": "changed"
+    },
+    {
+      "page": "campus.html",
+      "index": 5,
+      "label": "Главный корпус\nМира, 19",
+      "status": "changed"
+    },
+    {
+      "page": "campus.html",
+      "index": 6,
+      "label": "Радиофак\nМира, 32",
+      "status": "changed"
+    },
+    {
+      "page": "campus.html",
+      "index": 7,
+      "label": "Оформление проживания НВК\n100-летия УрГУ, 6/2",
+      "status": "changed"
+    },
+    {
+      "page": "campus.html",
+      "index": 8,
+      "label": "Распечатать маршрут",
+      "status": "changed"
+    },
+    {
+      "page": "campus.html",
+      "index": 9,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "campus.html",
+      "index": 10,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "campus.html",
+      "index": 11,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "campus.html",
+      "index": 12,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "campus.html",
+      "index": 13,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "campus.html",
+      "index": 14,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "catalog.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "catalog.html",
+      "index": 1,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "catalog.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "catalog.html",
+      "index": 3,
+      "label": "Сбросить фильтры",
+      "status": "changed"
+    },
+    {
+      "page": "catalog.html",
+      "index": 4,
+      "label": "Поделиться ↗",
+      "status": "changed"
+    },
+    {
+      "page": "catalog.html",
+      "index": 5,
+      "label": "Сбросить фильтры",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "catalog.html",
+      "index": 6,
+      "label": "Сравнить ↗",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "catalog.html",
+      "index": 7,
+      "label": "Очистить сравнение",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "catalog.html",
+      "index": 8,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "catalog.html",
+      "index": 9,
+      "label": "Поделиться сравнением ↗",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "catalog.html",
+      "index": 10,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "catalog.html",
+      "index": 11,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "catalog.html",
+      "index": 12,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "catalog.html",
+      "index": 13,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "catalog.html",
+      "index": 14,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "catalog.html",
+      "index": 15,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "concept.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "concept.html",
+      "index": 1,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "concept.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "concept.html",
+      "index": 3,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "concept.html",
+      "index": 4,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "concept.html",
+      "index": 5,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "concept.html",
+      "index": 6,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "concept.html",
+      "index": 7,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "concept.html",
+      "index": 8,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "contacts.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "contacts.html",
+      "index": 1,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "contacts.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "contacts.html",
+      "index": 3,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "contacts.html",
+      "index": 4,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "contacts.html",
+      "index": 5,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "contacts.html",
+      "index": 6,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "contacts.html",
+      "index": 7,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "contacts.html",
+      "index": 8,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "events.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "events.html",
+      "index": 1,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "events.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "events.html",
+      "index": 3,
+      "label": "Всем",
+      "status": "no_change",
+      "reason": "May already be selected/reset. Covered separately by state-specific scenarios."
+    },
+    {
+      "page": "events.html",
+      "index": 4,
+      "label": "Поступающим",
+      "status": "changed"
+    },
+    {
+      "page": "events.html",
+      "index": 5,
+      "label": "Студентам",
+      "status": "changed"
+    },
+    {
+      "page": "events.html",
+      "index": 6,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "events.html",
+      "index": 7,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "events.html",
+      "index": 8,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "events.html",
+      "index": 9,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "events.html",
+      "index": 10,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "events.html",
+      "index": 11,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "index.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "index.html",
+      "index": 1,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "index.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "index.html",
+      "index": 3,
+      "label": "Поступаете",
+      "status": "changed"
+    },
+    {
+      "page": "index.html",
+      "index": 4,
+      "label": "Учитесь",
+      "status": "changed"
+    },
+    {
+      "page": "index.html",
+      "index": 5,
+      "label": "Работаете",
+      "status": "changed"
+    },
+    {
+      "page": "index.html",
+      "index": 6,
+      "label": "Партнёр",
+      "status": "changed"
+    },
+    {
+      "page": "index.html",
+      "index": 7,
+      "label": "Найти",
+      "status": "changed"
+    },
+    {
+      "page": "institutes.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "institutes.html",
+      "index": 1,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "institutes.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "institutes.html",
+      "index": 3,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "institutes.html",
+      "index": 4,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "institutes.html",
+      "index": 5,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "institutes.html",
+      "index": 6,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "institutes.html",
+      "index": 7,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "institutes.html",
+      "index": 8,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "international.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "international.html",
+      "index": 1,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "international.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "international.html",
+      "index": 3,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "international.html",
+      "index": 4,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "international.html",
+      "index": 5,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "international.html",
+      "index": 6,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "international.html",
+      "index": 7,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "international.html",
+      "index": 8,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "life.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "life.html",
+      "index": 1,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "life.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "life.html",
+      "index": 3,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "life.html",
+      "index": 4,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "life.html",
+      "index": 5,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "life.html",
+      "index": 6,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "life.html",
+      "index": 7,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "life.html",
+      "index": 8,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "news.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "news.html",
+      "index": 1,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "news.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "news.html",
+      "index": 3,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "news.html",
+      "index": 4,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "news.html",
+      "index": 5,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "news.html",
+      "index": 6,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "news.html",
+      "index": 7,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "news.html",
+      "index": 8,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "partners.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "partners.html",
+      "index": 1,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "partners.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "partners.html",
+      "index": 3,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "partners.html",
+      "index": 4,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "partners.html",
+      "index": 5,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "partners.html",
+      "index": 6,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "partners.html",
+      "index": 7,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "partners.html",
+      "index": 8,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "quiz.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "quiz.html",
+      "index": 1,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "quiz.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "quiz.html",
+      "index": 3,
+      "label": "Назад",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "quiz.html",
+      "index": 4,
+      "label": "Дальше ↗",
+      "status": "changed"
+    },
+    {
+      "page": "quiz.html",
+      "index": 5,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "quiz.html",
+      "index": 6,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "quiz.html",
+      "index": 7,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "quiz.html",
+      "index": 8,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "quiz.html",
+      "index": 9,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "quiz.html",
+      "index": 10,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "room.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "room.html",
+      "index": 1,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "room.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "room.html",
+      "index": 3,
+      "label": "Найти корпус ↗",
+      "status": "changed"
+    },
+    {
+      "page": "room.html",
+      "index": 4,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "room.html",
+      "index": 5,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "room.html",
+      "index": 6,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "room.html",
+      "index": 7,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "room.html",
+      "index": 8,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "room.html",
+      "index": 9,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "schedule.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "schedule.html",
+      "index": 1,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "schedule.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "schedule.html",
+      "index": 3,
+      "label": "Показать расписание ↗",
+      "status": "changed"
+    },
+    {
+      "page": "schedule.html",
+      "index": 4,
+      "label": "←",
+      "status": "changed"
+    },
+    {
+      "page": "schedule.html",
+      "index": 5,
+      "label": "Сегодня",
+      "status": "changed"
+    },
+    {
+      "page": "schedule.html",
+      "index": 6,
+      "label": "→",
+      "status": "changed"
+    },
+    {
+      "page": "schedule.html",
+      "index": 14,
+      "label": "Скачать календарь .ics ↗",
+      "status": "changed"
+    },
+    {
+      "page": "schedule.html",
+      "index": 15,
+      "label": "Поделиться расписанием ↗",
+      "status": "changed"
+    },
+    {
+      "page": "schedule.html",
+      "index": 16,
+      "label": "Печать",
+      "status": "changed"
+    },
+    {
+      "page": "schedule.html",
+      "index": 17,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "schedule.html",
+      "index": 18,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "schedule.html",
+      "index": 19,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "schedule.html",
+      "index": 20,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "schedule.html",
+      "index": 21,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "schedule.html",
+      "index": 22,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "science.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "science.html",
+      "index": 1,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "science.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "science.html",
+      "index": 3,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "science.html",
+      "index": 4,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "science.html",
+      "index": 5,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "science.html",
+      "index": 6,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "science.html",
+      "index": 7,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "science.html",
+      "index": 8,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "search.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "search.html",
+      "index": 1,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "search.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "search.html",
+      "index": 3,
+      "label": "Искать",
+      "status": "changed"
+    },
+    {
+      "page": "search.html",
+      "index": 9,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "search.html",
+      "index": 10,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "search.html",
+      "index": 11,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "search.html",
+      "index": 12,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "search.html",
+      "index": 13,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "search.html",
+      "index": 14,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "student.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "student.html",
+      "index": 1,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "student.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "student.html",
+      "index": 3,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "student.html",
+      "index": 4,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "student.html",
+      "index": 5,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "student.html",
+      "index": 6,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "student.html",
+      "index": 7,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "student.html",
+      "index": 8,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "style.html",
+      "index": 0,
+      "label": "Настройки для слабовидящих",
+      "status": "changed"
+    },
+    {
+      "page": "style.html",
+      "index": 1,
+      "label": "Продолжить анимацию",
+      "status": "changed"
+    },
+    {
+      "page": "style.html",
+      "index": 2,
+      "label": "Меню",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "style.html",
+      "index": 3,
+      "label": "Сменить тему",
+      "status": "changed"
+    },
+    {
+      "page": "style.html",
+      "index": 4,
+      "label": "Пауза анимации",
+      "status": "changed"
+    },
+    {
+      "page": "style.html",
+      "index": 5,
+      "label": "Доступность",
+      "status": "changed"
+    },
+    {
+      "page": "style.html",
+      "index": 6,
+      "label": "Сохранить офлайн",
+      "status": "changed"
+    },
+    {
+      "page": "style.html",
+      "index": 7,
+      "label": "Закрыть",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "style.html",
+      "index": 8,
+      "label": "Обычный вид",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "en/admission.html",
+      "index": 0,
+      "label": "Accessibility settings",
+      "status": "changed"
+    },
+    {
+      "page": "en/admission.html",
+      "index": 1,
+      "label": "Resume motion",
+      "status": "changed"
+    },
+    {
+      "page": "en/admission.html",
+      "index": 2,
+      "label": "Menu",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "en/admission.html",
+      "index": 3,
+      "label": "Theme",
+      "status": "changed"
+    },
+    {
+      "page": "en/admission.html",
+      "index": 4,
+      "label": "Pause motion",
+      "status": "changed"
+    },
+    {
+      "page": "en/admission.html",
+      "index": 5,
+      "label": "Accessibility",
+      "status": "changed"
+    },
+    {
+      "page": "en/admission.html",
+      "index": 6,
+      "label": "Save for offline",
+      "status": "changed"
+    },
+    {
+      "page": "en/admission.html",
+      "index": 7,
+      "label": "Close",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "en/admission.html",
+      "index": 8,
+      "label": "Reset",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "en/catalog.html",
+      "index": 0,
+      "label": "Accessibility settings",
+      "status": "changed"
+    },
+    {
+      "page": "en/catalog.html",
+      "index": 1,
+      "label": "Resume motion",
+      "status": "changed"
+    },
+    {
+      "page": "en/catalog.html",
+      "index": 2,
+      "label": "Menu",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "en/catalog.html",
+      "index": 3,
+      "label": "Theme",
+      "status": "changed"
+    },
+    {
+      "page": "en/catalog.html",
+      "index": 4,
+      "label": "Pause motion",
+      "status": "changed"
+    },
+    {
+      "page": "en/catalog.html",
+      "index": 5,
+      "label": "Accessibility",
+      "status": "changed"
+    },
+    {
+      "page": "en/catalog.html",
+      "index": 6,
+      "label": "Save for offline",
+      "status": "changed"
+    },
+    {
+      "page": "en/catalog.html",
+      "index": 7,
+      "label": "Close",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "en/catalog.html",
+      "index": 8,
+      "label": "Reset",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "en/contacts.html",
+      "index": 0,
+      "label": "Accessibility settings",
+      "status": "changed"
+    },
+    {
+      "page": "en/contacts.html",
+      "index": 1,
+      "label": "Resume motion",
+      "status": "changed"
+    },
+    {
+      "page": "en/contacts.html",
+      "index": 2,
+      "label": "Menu",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "en/contacts.html",
+      "index": 3,
+      "label": "Theme",
+      "status": "changed"
+    },
+    {
+      "page": "en/contacts.html",
+      "index": 4,
+      "label": "Pause motion",
+      "status": "changed"
+    },
+    {
+      "page": "en/contacts.html",
+      "index": 5,
+      "label": "Accessibility",
+      "status": "changed"
+    },
+    {
+      "page": "en/contacts.html",
+      "index": 6,
+      "label": "Save for offline",
+      "status": "changed"
+    },
+    {
+      "page": "en/contacts.html",
+      "index": 7,
+      "label": "Close",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "en/contacts.html",
+      "index": 8,
+      "label": "Reset",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "en/index.html",
+      "index": 0,
+      "label": "Accessibility settings",
+      "status": "changed"
+    },
+    {
+      "page": "en/index.html",
+      "index": 1,
+      "label": "Resume motion",
+      "status": "changed"
+    },
+    {
+      "page": "en/index.html",
+      "index": 2,
+      "label": "Menu",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "en/index.html",
+      "index": 3,
+      "label": "Theme",
+      "status": "changed"
+    },
+    {
+      "page": "en/index.html",
+      "index": 4,
+      "label": "Pause motion",
+      "status": "changed"
+    },
+    {
+      "page": "en/index.html",
+      "index": 5,
+      "label": "Accessibility",
+      "status": "changed"
+    },
+    {
+      "page": "en/index.html",
+      "index": 6,
+      "label": "Save for offline",
+      "status": "changed"
+    },
+    {
+      "page": "en/index.html",
+      "index": 7,
+      "label": "Close",
+      "status": "hidden_or_disabled"
+    },
+    {
+      "page": "en/index.html",
+      "index": 8,
+      "label": "Reset",
+      "status": "hidden_or_disabled"
+    }
+  ],
+  "clicked": 198,
+  "failures": [],
+  "unexplained": [
+    {
+      "page": "events.html",
+      "index": 3,
+      "label": "Всем",
+      "status": "no_change",
+      "reason": "May already be selected/reset. Covered separately by state-specific scenarios."
+    }
+  ],
+  "console": []
+}

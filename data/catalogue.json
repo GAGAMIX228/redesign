@@ -51,7 +51,10 @@
       "head": "Островский Андрей Борисович",
       "englishSource": "https://programs.edu.urfu.ru/en/10037/",
       "area": "Естественные науки",
-      "enName": "Astronomy"
+      "enName": "Astronomy",
+      "institutes": [
+        "Институт естественных наук и математики"
+      ]
     },
     {
       "id": "9901",
@@ -106,7 +109,10 @@
       "head": "Казаченко Наталья Анатольевна",
       "englishSource": "https://programs.edu.urfu.ru/en/9901/",
       "area": "Инженерия",
-      "enName": "Geodesy and Remote Sensing"
+      "enName": "Geodesy and Remote Sensing",
+      "institutes": [
+        "Институт естественных наук и математики"
+      ]
     },
     {
       "id": "9898",
@@ -161,7 +167,10 @@
       "head": "Демчик Татьяна Павловна",
       "englishSource": "https://programs.edu.urfu.ru/en/9898/",
       "area": "Естественные науки",
-      "enName": "Hydrometeorology"
+      "enName": "Hydrometeorology",
+      "institutes": [
+        "Институт естественных наук и математики"
+      ]
     },
     {
       "id": "9985",
@@ -211,7 +220,10 @@
       "head": "Пьянзина Елена Сергеевна",
       "englishSource": "https://programs.edu.urfu.ru/en/9985/",
       "area": "IT и математика",
-      "enName": "Mathematics"
+      "enName": "Mathematics",
+      "institutes": [
+        "Институт естественных наук и математики"
+      ]
     },
     {
       "id": "9995",
@@ -261,7 +273,10 @@
       "head": "Конончук Екатерина Александровна",
       "englishSource": "https://programs.edu.urfu.ru/en/9995/",
       "area": "IT и математика",
-      "enName": "Mathematics and Computer Sciences"
+      "enName": "Mathematics and Computer Sciences",
+      "institutes": [
+        "Институт естественных наук и математики"
+      ]
     },
     {
       "id": "10330",
@@ -311,7 +326,10 @@
       "head": "Ананичев Дмитрий Сергеевич",
       "englishSource": "https://programs.edu.urfu.ru/en/10330/",
       "area": "IT и математика",
-      "enName": ""
+      "enName": "",
+      "institutes": [
+        "Институт естественных наук и математики"
+      ]
     },
     {
       "id": "9989",
@@ -361,7 +379,10 @@
       "head": "Коврижных Антон Юрьевич",
       "englishSource": "https://programs.edu.urfu.ru/en/9989/",
       "area": "IT и математика",
-      "enName": "Mathematical Support and Administration of Information Systems"
+      "enName": "Mathematical Support and Administration of Information Systems",
+      "institutes": [
+        "Институт естественных наук и математики"
+      ]
     },
     {
       "id": "9986",
@@ -410,7 +431,10 @@
       "head": "Осипов Сергей Иванович",
       "englishSource": "https://programs.edu.urfu.ru/en/9986/",
       "area": "IT и математика",
-      "enName": "Mechanics and Mathematical Modeling"
+      "enName": "Mechanics and Mathematical Modeling",
+      "institutes": [
+        "Институт естественных наук и математики"
+      ]
     },
     {
       "id": "9987",
@@ -459,7 +483,10 @@
       "head": "Гредасова Надежда Викторовна",
       "englishSource": "https://programs.edu.urfu.ru/en/9987/",
       "area": "IT и математика",
-      "enName": "Applied Mathematics"
+      "enName": "Applied Mathematics",
+      "institutes": [
+        "Институт естественных наук и математики"
+      ]
     },
     {
       "id": "9988",
@@ -509,7 +536,10 @@
       "head": "Домашних Иван Алексеевич",
       "englishSource": "https://programs.edu.urfu.ru/en/9988/",
       "area": "IT и математика",
-      "enName": "Software Products Development"
+      "enName": "Software Products Development",
+      "institutes": [
+        "Институт естественных наук и математики"
+      ]
     },
     {
       "id": "9897",
@@ -559,7 +589,10 @@
       "head": "Устинова Ирина Сергеевна",
       "englishSource": "https://programs.edu.urfu.ru/en/9897/",
       "area": "Естественные науки",
-      "enName": "Physics"
+      "enName": "Physics",
+      "institutes": [
+        "Институт естественных наук и математики"
+      ]
     },
     {
       "id": "10308",
@@ -608,7 +641,10 @@
       "head": "Вилисова Елена Анатольевна",
       "englishSource": "https://programs.edu.urfu.ru/en/10308/",
       "area": "Естественные науки",
-      "enName": ""
+      "enName": "",
+      "institutes": [
+        "Институт естественных наук и математики"
+      ]
     },
     {
       "id": "9899",
@@ -663,7 +699,10 @@
       "head": "Радченко Татьяна Александровна",
       "englishSource": "https://programs.edu.urfu.ru/en/9899/",
       "area": "Естественные науки",
-      "enName": "Ecology"
+      "enName": "Ecology",
+      "institutes": [
+        "Институт естественных наук и математики"
+      ]
     },
     {
       "id": "10205",
@@ -718,7 +757,10 @@
       "head": "Злыгостев Сергей Николаевич",
       "englishSource": "https://programs.edu.urfu.ru/en/10205/",
       "area": "Инженерия",
-      "enName": "Laser, Additive and Reinforcement Technologies In Mechanical Engineering"
+      "enName": "Laser, Additive and Reinforcement Technologies In Mechanical Engineering",
+      "institutes": [
+        "Институт новых материалов и технологий"
+      ]
     },
     {
       "id": "10117",
@@ -773,7 +815,11 @@
       "head": "Непряхин Сергей Олегович",
       "englishSource": "https://programs.edu.urfu.ru/en/10117/",
       "area": "Инженерия",
-      "enName": "Metallurgy"
+      "enName": "Metallurgy",
+      "institutes": [
+        "Институт новых материалов и технологий",
+        "Политехнический институт (филиал) в г. Каменске-Уральском"
+      ]
     },
     {
       "id": "10220",
@@ -828,7 +874,10 @@
       "head": "Постыляков Александр Юрьевич",
       "englishSource": "https://programs.edu.urfu.ru/en/10220/",
       "area": "Инженерия",
-      "enName": "Titanium Metallurgy"
+      "enName": "Titanium Metallurgy",
+      "institutes": [
+        "Институт новых материалов и технологий"
+      ]
     },
     {
       "id": "10102",
@@ -883,7 +932,10 @@
       "head": "Тихонов Игорь Николаевич",
       "englishSource": "https://programs.edu.urfu.ru/en/10102/",
       "area": "Инженерия",
-      "enName": "Mechatronics and Robotics"
+      "enName": "Mechatronics and Robotics",
+      "institutes": [
+        "Институт новых материалов и технологий"
+      ]
     },
     {
       "id": "10329",
@@ -936,7 +988,10 @@
       "head": "Фарафонтова Елена Павловна",
       "englishSource": "https://programs.edu.urfu.ru/en/10329/",
       "area": "Инженерия",
-      "enName": ""
+      "enName": "",
+      "institutes": [
+        "Институт новых материалов и технологий"
+      ]
     },
     {
       "id": "10034",
@@ -991,7 +1046,11 @@
       "head": "Раскатов Евгений Юрьевич",
       "englishSource": "https://programs.edu.urfu.ru/en/10034/",
       "area": "Инженерия",
-      "enName": "Technological Machinery and Equipment"
+      "enName": "Technological Machinery and Equipment",
+      "institutes": [
+        "Институт новых материалов и технологий",
+        "Филиал УрФУ в г. Верхняя Салда"
+      ]
     },
     {
       "id": "10221",
@@ -1046,7 +1105,10 @@
       "head": "Лукашук Ольга Анатольевна",
       "englishSource": "https://programs.edu.urfu.ru/en/10221/",
       "area": "Инженерия",
-      "enName": "Special Purpose Vehicles"
+      "enName": "Special Purpose Vehicles",
+      "institutes": [
+        "Институт новых материалов и технологий"
+      ]
     },
     {
       "id": "10591",
@@ -1092,7 +1154,10 @@
       "head": "Белоусова Вероника Игоревна",
       "englishSource": "https://programs.edu.urfu.ru/en/10591/",
       "area": "IT и математика",
-      "enName": "Artificial Intelligence Algorithms"
+      "enName": "Artificial Intelligence Algorithms",
+      "institutes": [
+        "Институт радиоэлектроники и информационных технологий - РтФ"
+      ]
     },
     {
       "id": "10216",
@@ -1142,7 +1207,10 @@
       "head": "Астафьева Анна Викторовна",
       "englishSource": "https://programs.edu.urfu.ru/en/10216/",
       "area": "IT и математика",
-      "enName": "Computer Systems Security"
+      "enName": "Computer Systems Security",
+      "institutes": [
+        "Институт радиоэлектроники и информационных технологий - РтФ"
+      ]
     },
     {
       "id": "9813",
@@ -1192,7 +1260,10 @@
       "head": "Саблина Наталья Григорьевна",
       "englishSource": "https://programs.edu.urfu.ru/en/9813/",
       "area": "IT и математика",
-      "enName": "Information and Communication Technologies and Systems"
+      "enName": "Information and Communication Technologies and Systems",
+      "institutes": [
+        "Институт радиоэлектроники и информационных технологий - РтФ"
+      ]
     },
     {
       "id": "9795",
@@ -1242,7 +1313,10 @@
       "head": "Спиричева Наталия Рахматулловна",
       "englishSource": "https://programs.edu.urfu.ru/en/9795/",
       "area": "IT и математика",
-      "enName": "Computer Science and Computer Engineering"
+      "enName": "Computer Science and Computer Engineering",
+      "institutes": [
+        "Институт радиоэлектроники и информационных технологий - РтФ"
+      ]
     },
     {
       "id": "10339",
@@ -1289,7 +1363,10 @@
       "head": "Гизатуллин Марат Галимянович",
       "englishSource": "https://programs.edu.urfu.ru/en/10339/",
       "area": "IT и математика",
-      "enName": ""
+      "enName": "",
+      "institutes": [
+        "Институт радиоэлектроники и информационных технологий - РтФ"
+      ]
     },
     {
       "id": "10340",
@@ -1337,7 +1414,10 @@
       "head": "Искакова Ксения Орестовна",
       "englishSource": "https://programs.edu.urfu.ru/en/10340/",
       "area": "IT и математика",
-      "enName": ""
+      "enName": "",
+      "institutes": [
+        "Институт радиоэлектроники и информационных технологий - РтФ"
+      ]
     },
     {
       "id": "9814",
@@ -1387,7 +1467,10 @@
       "head": "Корнилов Илья Николаевич",
       "englishSource": "https://programs.edu.urfu.ru/en/9814/",
       "area": "IT и математика",
-      "enName": "Design and Technology of Electronic Devices"
+      "enName": "Design and Technology of Electronic Devices",
+      "institutes": [
+        "Институт радиоэлектроники и информационных технологий - РтФ"
+      ]
     },
     {
       "id": "9796",
@@ -1437,7 +1520,10 @@
       "head": "Алферьева Татьяна Игоревна",
       "englishSource": "https://programs.edu.urfu.ru/en/9796/",
       "area": "IT и математика",
-      "enName": "Applied Computer Science"
+      "enName": "Applied Computer Science",
+      "institutes": [
+        "Институт радиоэлектроники и информационных технологий - РтФ"
+      ]
     },
     {
       "id": "10680",
@@ -1485,7 +1571,10 @@
       "head": "Созыкин Андрей Владимирович",
       "englishSource": "https://programs.edu.urfu.ru/en/10680/",
       "area": "IT и математика",
-      "enName": "Applied Artificial Intelligence"
+      "enName": "Applied Artificial Intelligence",
+      "institutes": [
+        "Институт радиоэлектроники и информационных технологий - РтФ"
+      ]
     },
     {
       "id": "9797",
@@ -1535,7 +1624,10 @@
       "head": "Новиков Максим Юрьевич",
       "englishSource": "https://programs.edu.urfu.ru/en/9797/",
       "area": "IT и математика",
-      "enName": "Software Engineering"
+      "enName": "Software Engineering",
+      "institutes": [
+        "Институт радиоэлектроники и информационных технологий - РтФ"
+      ]
     },
     {
       "id": "9812",
@@ -1585,7 +1677,11 @@
       "head": "Мительман Юрий Евгеньевич",
       "englishSource": "https://programs.edu.urfu.ru/en/9812/",
       "area": "IT и математика",
-      "enName": "Radio-frequency Engineering"
+      "enName": "Radio-frequency Engineering",
+      "institutes": [
+        "Институт радиоэлектроники и информационных технологий - РтФ",
+        "Политехнический институт (филиал) в г. Каменске-Уральском"
+      ]
     },
     {
       "id": "9936",
@@ -1639,7 +1735,10 @@
       "head": "Язовский Александр Афонасьевич",
       "englishSource": "https://programs.edu.urfu.ru/en/9936/",
       "area": "IT и математика",
-      "enName": "Radioelectronic Systems and Complexes"
+      "enName": "Radioelectronic Systems and Complexes",
+      "institutes": [
+        "Институт радиоэлектроники и информационных технологий - РтФ"
+      ]
     },
     {
       "id": "9833",
@@ -1694,7 +1793,10 @@
       "head": "Тягунов Андрей Геннадьевич",
       "englishSource": "https://programs.edu.urfu.ru/en/9833/",
       "area": "Инженерия",
-      "enName": "Printing and Packaging Technology"
+      "enName": "Printing and Packaging Technology",
+      "institutes": [
+        "Институт радиоэлектроники и информационных технологий - РтФ"
+      ]
     },
     {
       "id": "9846",
@@ -1744,7 +1846,10 @@
       "head": "Цветков Александр Владимирович",
       "englishSource": "https://programs.edu.urfu.ru/en/9846/",
       "area": "Инженерия",
-      "enName": "Technical Systems Management"
+      "enName": "Technical Systems Management",
+      "institutes": [
+        "Институт радиоэлектроники и информационных технологий - РтФ"
+      ]
     },
     {
       "id": "9843",
@@ -1789,7 +1894,10 @@
       "head": "Никитина Наталия Павловна",
       "englishSource": "https://programs.edu.urfu.ru/en/9843/",
       "area": "Гуманитарные науки",
-      "enName": "Architecture"
+      "enName": "Architecture",
+      "institutes": [
+        "Институт Строительства и Архитектуры"
+      ]
     },
     {
       "id": "9826",
@@ -1839,7 +1947,10 @@
       "head": "Машкин Олег Владимирович",
       "englishSource": "https://programs.edu.urfu.ru/en/9826/",
       "area": "Инженерия",
-      "enName": "Buildings Construction and Territories Development"
+      "enName": "Buildings Construction and Territories Development",
+      "institutes": [
+        "Институт Строительства и Архитектуры"
+      ]
     },
     {
       "id": "9845",
@@ -1889,7 +2000,10 @@
       "head": "Алехин Владимир Николаевич",
       "englishSource": "https://programs.edu.urfu.ru/en/9845/",
       "area": "Инженерия",
-      "enName": "Construction of Unique Buildings and Structures"
+      "enName": "Construction of Unique Buildings and Structures",
+      "institutes": [
+        "Институт Строительства и Архитектуры"
+      ]
     },
     {
       "id": "9918",
@@ -1939,7 +2053,10 @@
       "head": "Сенук Зинаида Викторовна",
       "englishSource": "https://programs.edu.urfu.ru/en/9918/",
       "area": "Общество и экономика",
-      "enName": "Youth Management"
+      "enName": "Youth Management",
+      "institutes": [
+        "Институт физической культуры, спорта и молодежной политики"
+      ]
     },
     {
       "id": "9921",
@@ -1968,7 +2085,10 @@
       "head": "Гайл Виктор Вадимович",
       "englishSource": "https://programs.edu.urfu.ru/en/9921/",
       "area": "Гуманитарные науки",
-      "enName": "Physical Education"
+      "enName": "Physical Education",
+      "institutes": [
+        "Институт физической культуры, спорта и молодежной политики"
+      ]
     },
     {
       "id": "10184",
@@ -2023,7 +2143,10 @@
       "head": "Якшина Наталья Владимировна",
       "englishSource": "https://programs.edu.urfu.ru/en/10184/",
       "area": "Инженерия",
-      "enName": "Technosphere Safety"
+      "enName": "Technosphere Safety",
+      "institutes": [
+        "Институт фундаментального образования"
+      ]
     },
     {
       "id": "9804",
@@ -2078,7 +2201,10 @@
       "head": "Банных Галина Алексеевна",
       "englishSource": "https://programs.edu.urfu.ru/en/9804/",
       "area": "Общество и экономика",
-      "enName": "Public Administration"
+      "enName": "Public Administration",
+      "institutes": [
+        "Институт экономики и управления"
+      ]
     },
     {
       "id": "10075",
@@ -2138,7 +2264,10 @@
       "head": "Ружанская Людмила Станиславовна",
       "englishSource": "https://programs.edu.urfu.ru/en/10075/",
       "area": "Общество и экономика",
-      "enName": "International and Corporate Management"
+      "enName": "International and Corporate Management",
+      "institutes": [
+        "Институт экономики и управления"
+      ]
     },
     {
       "id": "10077",
@@ -2198,7 +2327,10 @@
       "head": "Кожевников Михаил Викторович",
       "englishSource": "https://programs.edu.urfu.ru/en/10077/",
       "area": "Общество и экономика",
-      "enName": "Management in Power and High-tech Industries"
+      "enName": "Management in Power and High-tech Industries",
+      "institutes": [
+        "Институт экономики и управления"
+      ]
     },
     {
       "id": "10071",
@@ -2263,7 +2395,10 @@
       "head": "Беляева Жанна Сергеевна",
       "englishSource": "https://programs.edu.urfu.ru/en/10071/",
       "area": "Общество и экономика",
-      "enName": "International Economics and Business"
+      "enName": "International Economics and Business",
+      "institutes": [
+        "Институт экономики и управления"
+      ]
     },
     {
       "id": "10036",
@@ -2318,7 +2453,10 @@
       "head": "Кузнецова Евгения Викторовна",
       "englishSource": "https://programs.edu.urfu.ru/en/10036/",
       "area": "Общество и экономика",
-      "enName": "Legal support of national security"
+      "enName": "Legal support of national security",
+      "institutes": [
+        "Институт экономики и управления"
+      ]
     },
     {
       "id": "10696",
@@ -2373,7 +2511,10 @@
       "head": "Жевняк Оксана Викторовна",
       "englishSource": "https://programs.edu.urfu.ru/en/10696/",
       "area": "Общество и экономика",
-      "enName": "Business law"
+      "enName": "Business law",
+      "institutes": [
+        "Институт экономики и управления"
+      ]
     },
     {
       "id": "10076",
@@ -2433,7 +2574,10 @@
       "head": "Юрасова Инна Игоревна",
       "englishSource": "https://programs.edu.urfu.ru/en/10076/",
       "area": "Общество и экономика",
-      "enName": "Industrial Management and Real Estate Investment Business"
+      "enName": "Industrial Management and Real Estate Investment Business",
+      "institutes": [
+        "Институт экономики и управления"
+      ]
     },
     {
       "id": "9806",
@@ -2488,7 +2632,10 @@
       "head": "Шаброва Нина Васильевна",
       "englishSource": "https://programs.edu.urfu.ru/en/9806/",
       "area": "Общество и экономика",
-      "enName": "Public Policy and Administration"
+      "enName": "Public Policy and Administration",
+      "institutes": [
+        "Институт экономики и управления"
+      ]
     },
     {
       "id": "10694",
@@ -2543,7 +2690,10 @@
       "head": "Кульминская Алина Владимировна",
       "englishSource": "https://programs.edu.urfu.ru/en/10694/",
       "area": "Общество и экономика",
-      "enName": ""
+      "enName": "",
+      "institutes": [
+        "Институт экономики и управления"
+      ]
     },
     {
       "id": "10078",
@@ -2603,7 +2753,10 @@
       "head": "Майбуров Игорь Анатольевич",
       "englishSource": "https://programs.edu.urfu.ru/en/10078/",
       "area": "Общество и экономика",
-      "enName": "Customs Affairs"
+      "enName": "Customs Affairs",
+      "institutes": [
+        "Институт экономики и управления"
+      ]
     },
     {
       "id": "10344",
@@ -2658,7 +2811,10 @@
       "head": "Майбуров Игорь Анатольевич",
       "englishSource": "https://programs.edu.urfu.ru/en/10344/",
       "area": "Общество и экономика",
-      "enName": ""
+      "enName": "",
+      "institutes": [
+        "Институт экономики и управления"
+      ]
     },
     {
       "id": "10345",
@@ -2713,7 +2869,10 @@
       "head": "Шкурко Валентина Евгеньевна",
       "englishSource": "https://programs.edu.urfu.ru/en/10345/",
       "area": "Общество и экономика",
-      "enName": ""
+      "enName": "",
+      "institutes": [
+        "Институт экономики и управления"
+      ]
     },
     {
       "id": "10362",
@@ -2768,7 +2927,10 @@
       "head": "Черкасова Оксана Владиславовна",
       "englishSource": "https://programs.edu.urfu.ru/en/10362/",
       "area": "Общество и экономика",
-      "enName": ""
+      "enName": "",
+      "institutes": [
+        "Институт экономики и управления"
+      ]
     },
     {
       "id": "10202",
@@ -2814,7 +2976,10 @@
       "head": "Хмельников Евгений Александрович",
       "englishSource": "https://programs.edu.urfu.ru/en/10202/",
       "area": "Гуманитарные науки",
-      "enName": "Ammunition and Fuses"
+      "enName": "Ammunition and Fuses",
+      "institutes": [
+        "Нижнетагильский технологический институт (филиал) УрФУ"
+      ]
     },
     {
       "id": "10022",
@@ -2863,7 +3028,10 @@
       "head": "Андреева Татьяна Николаевна",
       "englishSource": "https://programs.edu.urfu.ru/en/10022/",
       "area": "Инженерия",
-      "enName": "Mechatronics and Robotics"
+      "enName": "Mechatronics and Robotics",
+      "institutes": [
+        "Нижнетагильский технологический институт (филиал) УрФУ"
+      ]
     },
     {
       "id": "10002",
@@ -2907,7 +3075,10 @@
       "head": "Дворецкая Александра Юрьевна",
       "englishSource": "https://programs.edu.urfu.ru/en/10002/",
       "area": "Инженерия",
-      "enName": "Heat Power Engineering"
+      "enName": "Heat Power Engineering",
+      "institutes": [
+        "Нижнетагильский технологический институт (филиал) УрФУ"
+      ]
     },
     {
       "id": "10203",
@@ -2958,7 +3129,10 @@
       "head": "Хмельников Евгений Александрович",
       "englishSource": "https://programs.edu.urfu.ru/en/10203/",
       "area": "Инженерия",
-      "enName": "Special Purpose Vehicles"
+      "enName": "Special Purpose Vehicles",
+      "institutes": [
+        "Нижнетагильский технологический институт (филиал) УрФУ"
+      ]
     },
     {
       "id": "10153",
@@ -3011,7 +3185,10 @@
       "head": "Шаманаев Андрей Васильевич",
       "englishSource": "https://programs.edu.urfu.ru/en/10153/",
       "area": "Гуманитарные науки",
-      "enName": "Archaeology and Ethnology"
+      "enName": "Archaeology and Ethnology",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10158",
@@ -3066,7 +3243,10 @@
       "head": "Ачан Надежда Маликовна",
       "englishSource": "https://programs.edu.urfu.ru/en/10158/",
       "area": "Гуманитарные науки",
-      "enName": "Oriental and African Studies"
+      "enName": "Oriental and African Studies",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10157",
@@ -3095,7 +3275,10 @@
       "head": "Зорина Анна Юрьевна",
       "englishSource": "https://programs.edu.urfu.ru/en/10157/",
       "area": "Гуманитарные науки",
-      "enName": "Design"
+      "enName": "Design",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "9869",
@@ -3140,7 +3323,10 @@
       "head": "Третьякова Любовь Анатольевна",
       "englishSource": "https://programs.edu.urfu.ru/en/9869/",
       "area": "Общество и экономика",
-      "enName": "Journalism"
+      "enName": "Journalism",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "9875",
@@ -3205,7 +3391,10 @@
       "head": "Язовская Ольга Валерьевна",
       "englishSource": "https://programs.edu.urfu.ru/en/9875/",
       "area": "Гуманитарные науки",
-      "enName": "Intelligent Systems in Arts and Humanities"
+      "enName": "Intelligent Systems in Arts and Humanities",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10152",
@@ -3260,7 +3449,10 @@
       "head": "Уланов Кирилл Андреевич",
       "englishSource": "https://programs.edu.urfu.ru/en/10152/",
       "area": "Гуманитарные науки",
-      "enName": "Information and Documentation Support of Management"
+      "enName": "Information and Documentation Support of Management",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10151",
@@ -3315,7 +3507,10 @@
       "head": "Бородина Елена Васильевна",
       "englishSource": "https://programs.edu.urfu.ru/en/10151/",
       "area": "Гуманитарные науки",
-      "enName": "History"
+      "enName": "History",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10601",
@@ -3370,7 +3565,10 @@
       "head": "Иванова Юлия Павловна",
       "englishSource": "https://programs.edu.urfu.ru/en/10601/",
       "area": "Гуманитарные науки",
-      "enName": ""
+      "enName": "",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10149",
@@ -3425,7 +3623,10 @@
       "head": "Шушмарченко Екатерина Александровна",
       "englishSource": "https://programs.edu.urfu.ru/en/10149/",
       "area": "Гуманитарные науки",
-      "enName": "Linguistics in the Field of Business and Professional Communications and Information Technology"
+      "enName": "Linguistics in the Field of Business and Professional Communications and Information Technology",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10319",
@@ -3480,7 +3681,10 @@
       "head": "Дедюхина Анна Сергеевна",
       "englishSource": "https://programs.edu.urfu.ru/en/10319/",
       "area": "Гуманитарные науки",
-      "enName": "Language Support for International Relations"
+      "enName": "Language Support for International Relations",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10712",
@@ -3535,7 +3739,10 @@
       "head": "Ярин Вячеслав Юрьевич",
       "englishSource": "https://programs.edu.urfu.ru/en/10712/",
       "area": "Общество и экономика",
-      "enName": ""
+      "enName": "",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10331",
@@ -3590,7 +3797,10 @@
       "head": "Устинова Наталья Вячеславовна",
       "englishSource": "https://programs.edu.urfu.ru/en/10331/",
       "area": "Общество и экономика",
-      "enName": "International relations and world politics"
+      "enName": "International relations and world politics",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10210",
@@ -3645,7 +3855,10 @@
       "head": "Панасенков Никита Александрович",
       "englishSource": "https://programs.edu.urfu.ru/en/10210/",
       "area": "Общество и экономика",
-      "enName": "Foreign Language Teaching Methods"
+      "enName": "Foreign Language Teaching Methods",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10375",
@@ -3700,7 +3913,10 @@
       "head": "Палкин Александр Сергеевич",
       "englishSource": "https://programs.edu.urfu.ru/en/10375/",
       "area": "Общество и экономика",
-      "enName": ""
+      "enName": "",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10708",
@@ -3755,7 +3971,10 @@
       "head": "Дедюхина Анна Сергеевна",
       "englishSource": "https://programs.edu.urfu.ru/en/10708/",
       "area": "Гуманитарные науки",
-      "enName": ""
+      "enName": "",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10150",
@@ -3810,7 +4029,10 @@
       "head": "Луговых Евгения Владимировна",
       "englishSource": "https://programs.edu.urfu.ru/en/10150/",
       "area": "Гуманитарные науки",
-      "enName": "Translation, Interpretation and Cross-cultural Communication"
+      "enName": "Translation, Interpretation and Cross-cultural Communication",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10292",
@@ -3866,7 +4088,10 @@
       "head": "Плотникова Ирина Юрьевна",
       "englishSource": "https://programs.edu.urfu.ru/en/10292/",
       "area": "Общество и экономика",
-      "enName": ""
+      "enName": "",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10620",
@@ -3921,7 +4146,10 @@
       "head": "Шуплецов Иван Валентинович",
       "englishSource": "https://programs.edu.urfu.ru/en/10620/",
       "area": "Гуманитарные науки",
-      "enName": ""
+      "enName": "",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10315",
@@ -3971,7 +4199,10 @@
       "head": "Чернышева Елена Викторовна",
       "englishSource": "https://programs.edu.urfu.ru/en/10315/",
       "area": "Общество и экономика",
-      "enName": "Psychology of Employment-Related Activities"
+      "enName": "Psychology of Employment-Related Activities",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10156",
@@ -4031,7 +4262,10 @@
       "head": "Лейканд Елена Владимировна",
       "englishSource": "https://programs.edu.urfu.ru/en/10156/",
       "area": "Гуманитарные науки",
-      "enName": "Religious Studies"
+      "enName": "Religious Studies",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10320",
@@ -4081,7 +4315,10 @@
       "head": "Плотникова Анна Михайловна",
       "englishSource": "https://programs.edu.urfu.ru/en/10320/",
       "area": "Общество и экономика",
-      "enName": ""
+      "enName": "",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10147",
@@ -4110,7 +4347,10 @@
       "head": "Радько Елена Вячеславовна",
       "englishSource": "https://programs.edu.urfu.ru/en/10147/",
       "area": "Гуманитарные науки",
-      "enName": "Russian Language and Literature for International Students"
+      "enName": "Russian Language and Literature for International Students",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10600",
@@ -4162,7 +4402,10 @@
       "head": "Борисова Елизавета Олеговна",
       "englishSource": "https://programs.edu.urfu.ru/en/10600/",
       "area": "Общество и экономика",
-      "enName": ""
+      "enName": "",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10146",
@@ -4217,7 +4460,10 @@
       "head": "Матюхин Иван Борисович",
       "englishSource": "https://programs.edu.urfu.ru/en/10146/",
       "area": "Гуманитарные науки",
-      "enName": "Modern Foreign Languages and Literature"
+      "enName": "Modern Foreign Languages and Literature",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10293",
@@ -4267,7 +4513,10 @@
       "head": "Бывшева Марина Валерьевна",
       "englishSource": "https://programs.edu.urfu.ru/en/10293/",
       "area": "Общество и экономика",
-      "enName": ""
+      "enName": "",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "9864",
@@ -4322,7 +4571,10 @@
       "head": "Абрамова Софья Борисовна",
       "englishSource": "https://programs.edu.urfu.ru/en/9864/",
       "area": "Общество и экономика",
-      "enName": "Social Research in Information Society Management"
+      "enName": "Social Research in Information Society Management",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10312",
@@ -4377,7 +4629,10 @@
       "head": "Созинова Ксения Андреевна",
       "englishSource": "https://programs.edu.urfu.ru/en/10312/",
       "area": "Общество и экономика",
-      "enName": "Foreign Studies"
+      "enName": "Foreign Studies",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "9866",
@@ -4442,7 +4697,10 @@
       "head": "Строганов Вадим Борисович",
       "englishSource": "https://programs.edu.urfu.ru/en/9866/",
       "area": "Общество и экономика",
-      "enName": "Political Processes Management Technologies"
+      "enName": "Political Processes Management Technologies",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10144",
@@ -4502,7 +4760,10 @@
       "head": "Нидергаус Елена Олеговна",
       "englishSource": "https://programs.edu.urfu.ru/en/10144/",
       "area": "Общество и экономика",
-      "enName": "Human Resource Management"
+      "enName": "Human Resource Management",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10145",
@@ -4557,7 +4818,10 @@
       "head": "Меньщикова Анна Манасовна",
       "englishSource": "https://programs.edu.urfu.ru/en/10145/",
       "area": "Гуманитарные науки",
-      "enName": "Philology"
+      "enName": "Philology",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "10154",
@@ -4612,7 +4876,10 @@
       "head": "Логинов Алексей Валерьевич",
       "englishSource": "https://programs.edu.urfu.ru/en/10154/",
       "area": "Гуманитарные науки",
-      "enName": "Philosophy"
+      "enName": "Philosophy",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "9874",
@@ -4672,7 +4939,10 @@
       "head": "Слаутина Марина Васильевна",
       "englishSource": "https://programs.edu.urfu.ru/en/9874/",
       "area": "Гуманитарные науки",
-      "enName": "Fundamental and Applied Linguistics"
+      "enName": "Fundamental and Applied Linguistics",
+      "institutes": [
+        "Уральский гуманитарный институт"
+      ]
     },
     {
       "id": "9981",
@@ -4722,7 +4992,10 @@
       "head": "Артемова Татьяна Георгиевна",
       "englishSource": "https://programs.edu.urfu.ru/en/9981/",
       "area": "Инженерия",
-      "enName": "Gas and Steam Turbines and Internal Combustion Engines"
+      "enName": "Gas and Steam Turbines and Internal Combustion Engines",
+      "institutes": [
+        "Уральский энергетический институт"
+      ]
     },
     {
       "id": "9979",
@@ -4772,7 +5045,10 @@
       "head": "Чернова Марина Борисовна",
       "englishSource": "https://programs.edu.urfu.ru/en/9979/",
       "area": "Инженерия",
-      "enName": "Heat Power Engineering"
+      "enName": "Heat Power Engineering",
+      "institutes": [
+        "Уральский энергетический институт"
+      ]
     },
     {
       "id": "9980",
@@ -4822,7 +5098,10 @@
       "head": "Метельков Владимир Павлович",
       "englishSource": "https://programs.edu.urfu.ru/en/9980/",
       "area": "Инженерия",
-      "enName": "Electrical Engineering"
+      "enName": "Electrical Engineering",
+      "institutes": [
+        "Уральский энергетический институт"
+      ]
     },
     {
       "id": "10255",
@@ -4849,7 +5128,10 @@
       "head": "Нейская Светлана Анатольевна",
       "englishSource": "https://programs.edu.urfu.ru/en/10255/",
       "area": "Инженерия",
-      "enName": "energy machine building"
+      "enName": "energy machine building",
+      "institutes": [
+        "Уральский энергетический институт"
+      ]
     },
     {
       "id": "9959",
@@ -4901,7 +5183,10 @@
       "head": "Смирнов Андрей Алексеевич",
       "englishSource": "https://programs.edu.urfu.ru/en/9959/",
       "area": "Инженерия",
-      "enName": "Bioengineering Systems and Technologies"
+      "enName": "Bioengineering Systems and Technologies",
+      "institutes": [
+        "Физико-технологический институт"
+      ]
     },
     {
       "id": "10758",
@@ -4951,7 +5236,10 @@
       "head": "Моисейкин Евгений Витальевич",
       "englishSource": "https://programs.edu.urfu.ru/en/10758/",
       "area": "Инженерия",
-      "enName": ""
+      "enName": "",
+      "institutes": [
+        "Физико-технологический институт"
+      ]
     },
     {
       "id": "9968",
@@ -5001,7 +5289,10 @@
       "head": "Вохминцев Александр Сергеевич",
       "englishSource": "https://programs.edu.urfu.ru/en/9968/",
       "area": "Инженерия",
-      "enName": "Nanoscale Engineering"
+      "enName": "Nanoscale Engineering",
+      "institutes": [
+        "Физико-технологический институт"
+      ]
     },
     {
       "id": "10139",
@@ -5051,7 +5342,10 @@
       "head": "Яковлев Илья Александрович",
       "englishSource": "https://programs.edu.urfu.ru/en/10139/",
       "area": "Естественные науки",
-      "enName": "Applied Mathematics and Physics"
+      "enName": "Applied Mathematics and Physics",
+      "institutes": [
+        "Физико-технологический институт"
+      ]
     },
     {
       "id": "9955",
@@ -5101,167 +5395,10 @@
       "head": "Штанг Татьяна Владимировна",
       "englishSource": "https://programs.edu.urfu.ru/en/9955/",
       "area": "IT и математика",
-      "enName": "Electronics and Nanoelectronics"
-    },
-    {
-      "id": "10117",
-      "name": "Металлургия",
-      "code": "22.03.02",
-      "institute": "Политехнический институт (филиал) в г. Каменске-Уральском",
-      "level": "бакалавриат",
-      "source": "https://programs.edu.urfu.ru/ru/10117/",
-      "year": 2026,
-      "collected": "2026-10-25T08:35:12.314770+00:00",
-      "duration": "Очная: 4 года",
-      "years": "2018-2026",
-      "description": [
-        "Образовательная программа «Металлургия» разработана в соответствии с образовательным стандартом УрФУ для разработки и реализации программ бакалавриата в области образования «Инженерное дело, технологии и технические науки».",
-        "Образовательная программа «Металлургия» направлена на подготовку инженерно-технических работников уровня среднего звена управления (мастер, инженер-технолог), способных организовать деятельность производственных подразделений металлургических предприятий.",
-        "Программа ориентирует выпускников на активное участие и инициативу в прорывном развитии классических металлургических производств, внедрение новых технологий и техники, изменение культуры производства.",
-        "Образовательная программа «Металлургия» предусматривает траектории ОП (далее ТОП), связанные с конкретным видом металлургического производства:",
-        "ТОП 3 «Теплофизика, автоматизация и экология металлургических печей»"
-      ],
-      "exams": [
-        {
-          "name": "Математика",
-          "min": 40,
-          "required": true
-        },
-        {
-          "name": "Русский язык",
-          "min": 40,
-          "required": true
-        },
-        {
-          "name": "Информатика",
-          "min": 46,
-          "required": false
-        },
-        {
-          "name": "Физика",
-          "min": 41,
-          "required": false
-        },
-        {
-          "name": "Химия",
-          "min": 40,
-          "required": false
-        }
-      ],
-      "budget": null,
-      "paid": 10,
-      "price": 246000,
-      "discountPrice": 209100,
-      "passing": null,
-      "head": "Непряхин Сергей Олегович",
-      "englishSource": "https://programs.edu.urfu.ru/en/10117/",
-      "area": "Инженерия",
-      "enName": "Metallurgy"
-    },
-    {
-      "id": "9812",
-      "name": "Радиотехника",
-      "code": "11.03.01",
-      "institute": "Политехнический институт (филиал) в г. Каменске-Уральском",
-      "level": "бакалавриат",
-      "source": "https://programs.edu.urfu.ru/ru/9812/",
-      "year": 2026,
-      "collected": "2026-10-25T08:35:12.314770+00:00",
-      "duration": "Очная: 4 года",
-      "years": "2019-2026",
-      "description": [
-        "Основная профессиональная образовательная программа Радиотехника направлена на подготовку инженерно-технических работников уровня среднего звена (инженер, инженер-конструктор), занимающихся разработкой и проектированием радиоэлектронных средств и радиоэлектронных систем различного назначения.",
-        "Программа ориентирует выпускников на активное участие и инициативу в прорывном развитии радиоэлектронных производств, на освоение новой техники, внедрение новых технологий, изменение культуры производства, следование основным направлениям развития четвертой промышленной революции.",
-        "Особенностью программы является выраженная практико-ориентированность процесса обучения. Увеличенный объем преддипломной практики позволяет выполнять выпускные квалификационные работы в интересах профильных предприятий, что дает возможность обучающимся последовательно овладеть необходимым уровнем квалификации, обеспечивает включение выпускников в производственный процесс без дополнительного переобучения.",
-        "Вместе с тем программа предполагает фундаментальную подготовку по естественнонаучным и общеинженерным дисциплинам достаточную для продолжения обучения по программам инженерной магистратуры.",
-        "Приоритет активных методов обучения и включение в программу проектного обучения обеспечивает формирование у обучающихся, наряду с профессиональными компетенциями, осознанного умения работать в команде и необходимых лидерских качеств."
-      ],
-      "exams": [
-        {
-          "name": "Русский язык",
-          "min": 40,
-          "required": true
-        },
-        {
-          "name": "Физика",
-          "min": 41,
-          "required": true
-        },
-        {
-          "name": "Информатика",
-          "min": 46,
-          "required": false
-        },
-        {
-          "name": "Математика",
-          "min": 40,
-          "required": false
-        }
-      ],
-      "budget": 57,
-      "paid": 10,
-      "price": 275000,
-      "discountPrice": 233800,
-      "passing": null,
-      "head": "Мительман Юрий Евгеньевич",
-      "englishSource": "https://programs.edu.urfu.ru/en/9812/",
-      "area": "IT и математика",
-      "enName": "Radio-frequency Engineering"
-    },
-    {
-      "id": "10034",
-      "name": "Технологические машины и оборудование",
-      "code": "15.03.02",
-      "institute": "Филиал УрФУ в г. Верхняя Салда",
-      "level": "бакалавриат",
-      "source": "https://programs.edu.urfu.ru/ru/10034/",
-      "year": 2026,
-      "collected": "2026-10-25T08:35:12.314770+00:00",
-      "duration": "Очная: 4 года",
-      "years": "2019-2026",
-      "description": [
-        "Современный специалист в области разработки технологических машин и оборудования является двигателем технологической революции, поскольку именно он создает передовые машины для наукоемкого промышленного производства.",
-        "В ходе обучения рассматриваются промышленные технологии, системы автоматизации, обслуживания металлургических машин и оборудования, контроля качества продукции, а также инструменты и методы развития производства.",
-        "Особое внимание уделяется современному программному обеспечению, используемому при разработке и проектировании процессов и оборудования. Развитие цифровых производственных технологий упрощает и удешевляет переход от компьютерной модели к реальному изделию. Образовательная программа направлена на обучение работе с системами компьютерного проектирования и подготовки производства и моделирования (CAD/CAM/CAE), работе с цифровыми производственными машинами и системами.",
-        "Путем реализации индивидуальных и групповых проектов, а также прохождение стажировок на промышленных предприятиях студенты приобретают практические навыки, необходимые для формирования устойчивой производственной среды: управление проектами, операционная стратегия, планирование, контроль и управление ресурсами. Образовательная программа предусматривает возможность персонализации подготовки путем построения индивидуальной образовательной траектории",
-        "в реализации образовательной программы происходит посредством следующих форматов сотрудничества:"
-      ],
-      "exams": [
-        {
-          "name": "Математика",
-          "min": 40,
-          "required": true
-        },
-        {
-          "name": "Русский язык",
-          "min": 40,
-          "required": true
-        },
-        {
-          "name": "Информатика",
-          "min": 46,
-          "required": false
-        },
-        {
-          "name": "Физика",
-          "min": 41,
-          "required": false
-        },
-        {
-          "name": "Химия",
-          "min": 40,
-          "required": false
-        }
-      ],
-      "budget": null,
-      "paid": 5,
-      "price": 246000,
-      "discountPrice": 209100,
-      "passing": null,
-      "head": "Раскатов Евгений Юрьевич",
-      "englishSource": "https://programs.edu.urfu.ru/en/10034/",
-      "area": "Инженерия",
-      "enName": "Technological Machinery and Equipment"
+      "enName": "Electronics and Nanoelectronics",
+      "institutes": [
+        "Физико-технологический институт"
+      ]
     }
   ],
   "institutes": [

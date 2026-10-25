@@ -1,7 +1,7 @@
 from pathlib import Path
 import json,hashlib
 R=Path(__file__).resolve().parents[1]
-files=['./']+[str(p.relative_to(R)) for glob in ['*.html','en/*.html','css/*.css','js/*.js','assets/fonts/*.woff2','assets/images/*.webp','data/programs.js','data/news.js','data/services.js','data/program-details/*.js','assets/*.svg'] for p in R.glob(glob)]
+files=['./']+[str(p.relative_to(R)) for glob in ['*.html','en/*.html','css/*.css','js/*.js','assets/fonts/*.woff2','assets/images/*.webp','data/programs.js','data/news.js','data/services.js','data/program-details/*.js','assets/*.svg','assets/*.png'] for p in R.glob(glob)]
 digest=hashlib.sha256()
 for item in sorted(p for p in files if p!='./'):
  digest.update(item.encode());digest.update((R/item).read_bytes())

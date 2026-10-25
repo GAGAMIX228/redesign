@@ -1,0 +1,3951 @@
+{
+  "combinations": 493,
+  "screenshots": [
+    {
+      "page": "404.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/404.html-320x900.jpg"
+    },
+    {
+      "page": "Institute.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Institute.html-320x900.jpg"
+    },
+    {
+      "page": "Program.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Program.html-320x900.jpg"
+    },
+    {
+      "page": "about.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/about.html-320x900.jpg"
+    },
+    {
+      "page": "account.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/account.html-320x900.jpg"
+    },
+    {
+      "page": "admission.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/admission.html-320x900.jpg"
+    },
+    {
+      "page": "article.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/article.html-320x900.jpg"
+    },
+    {
+      "page": "campus.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/campus.html-320x900.jpg"
+    },
+    {
+      "page": "catalog.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/catalog.html-320x900.jpg"
+    },
+    {
+      "page": "concept.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/concept.html-320x900.jpg"
+    },
+    {
+      "page": "contacts.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/contacts.html-320x900.jpg"
+    },
+    {
+      "page": "events.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/events.html-320x900.jpg"
+    },
+    {
+      "page": "index.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/index.html-320x900.jpg"
+    },
+    {
+      "page": "institutes.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/institutes.html-320x900.jpg"
+    },
+    {
+      "page": "international.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/international.html-320x900.jpg"
+    },
+    {
+      "page": "life.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/life.html-320x900.jpg"
+    },
+    {
+      "page": "news.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/news.html-320x900.jpg"
+    },
+    {
+      "page": "partners.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/partners.html-320x900.jpg"
+    },
+    {
+      "page": "quiz.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/quiz.html-320x900.jpg"
+    },
+    {
+      "page": "room.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/room.html-320x900.jpg"
+    },
+    {
+      "page": "schedule.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/schedule.html-320x900.jpg"
+    },
+    {
+      "page": "science.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/science.html-320x900.jpg"
+    },
+    {
+      "page": "search.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/search.html-320x900.jpg"
+    },
+    {
+      "page": "student.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/student.html-320x900.jpg"
+    },
+    {
+      "page": "style.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/style.html-320x900.jpg"
+    },
+    {
+      "page": "en/admission.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-admission.html-320x900.jpg"
+    },
+    {
+      "page": "en/catalog.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-catalog.html-320x900.jpg"
+    },
+    {
+      "page": "en/contacts.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-contacts.html-320x900.jpg"
+    },
+    {
+      "page": "en/index.html",
+      "viewport": [
+        320,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-index.html-320x900.jpg"
+    },
+    {
+      "page": "404.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/404.html-360x900.jpg"
+    },
+    {
+      "page": "Institute.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Institute.html-360x900.jpg"
+    },
+    {
+      "page": "Program.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Program.html-360x900.jpg"
+    },
+    {
+      "page": "about.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/about.html-360x900.jpg"
+    },
+    {
+      "page": "account.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/account.html-360x900.jpg"
+    },
+    {
+      "page": "admission.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/admission.html-360x900.jpg"
+    },
+    {
+      "page": "article.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/article.html-360x900.jpg"
+    },
+    {
+      "page": "campus.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/campus.html-360x900.jpg"
+    },
+    {
+      "page": "catalog.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/catalog.html-360x900.jpg"
+    },
+    {
+      "page": "concept.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/concept.html-360x900.jpg"
+    },
+    {
+      "page": "contacts.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/contacts.html-360x900.jpg"
+    },
+    {
+      "page": "events.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/events.html-360x900.jpg"
+    },
+    {
+      "page": "index.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/index.html-360x900.jpg"
+    },
+    {
+      "page": "institutes.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/institutes.html-360x900.jpg"
+    },
+    {
+      "page": "international.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/international.html-360x900.jpg"
+    },
+    {
+      "page": "life.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/life.html-360x900.jpg"
+    },
+    {
+      "page": "news.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/news.html-360x900.jpg"
+    },
+    {
+      "page": "partners.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/partners.html-360x900.jpg"
+    },
+    {
+      "page": "quiz.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/quiz.html-360x900.jpg"
+    },
+    {
+      "page": "room.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/room.html-360x900.jpg"
+    },
+    {
+      "page": "schedule.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/schedule.html-360x900.jpg"
+    },
+    {
+      "page": "science.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/science.html-360x900.jpg"
+    },
+    {
+      "page": "search.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/search.html-360x900.jpg"
+    },
+    {
+      "page": "student.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/student.html-360x900.jpg"
+    },
+    {
+      "page": "style.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/style.html-360x900.jpg"
+    },
+    {
+      "page": "en/admission.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-admission.html-360x900.jpg"
+    },
+    {
+      "page": "en/catalog.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-catalog.html-360x900.jpg"
+    },
+    {
+      "page": "en/contacts.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-contacts.html-360x900.jpg"
+    },
+    {
+      "page": "en/index.html",
+      "viewport": [
+        360,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-index.html-360x900.jpg"
+    },
+    {
+      "page": "404.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/404.html-375x900.jpg"
+    },
+    {
+      "page": "Institute.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Institute.html-375x900.jpg"
+    },
+    {
+      "page": "Program.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Program.html-375x900.jpg"
+    },
+    {
+      "page": "about.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/about.html-375x900.jpg"
+    },
+    {
+      "page": "account.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/account.html-375x900.jpg"
+    },
+    {
+      "page": "admission.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/admission.html-375x900.jpg"
+    },
+    {
+      "page": "article.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/article.html-375x900.jpg"
+    },
+    {
+      "page": "campus.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/campus.html-375x900.jpg"
+    },
+    {
+      "page": "catalog.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/catalog.html-375x900.jpg"
+    },
+    {
+      "page": "concept.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/concept.html-375x900.jpg"
+    },
+    {
+      "page": "contacts.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/contacts.html-375x900.jpg"
+    },
+    {
+      "page": "events.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/events.html-375x900.jpg"
+    },
+    {
+      "page": "index.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/index.html-375x900.jpg"
+    },
+    {
+      "page": "institutes.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/institutes.html-375x900.jpg"
+    },
+    {
+      "page": "international.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/international.html-375x900.jpg"
+    },
+    {
+      "page": "life.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/life.html-375x900.jpg"
+    },
+    {
+      "page": "news.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/news.html-375x900.jpg"
+    },
+    {
+      "page": "partners.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/partners.html-375x900.jpg"
+    },
+    {
+      "page": "quiz.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/quiz.html-375x900.jpg"
+    },
+    {
+      "page": "room.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/room.html-375x900.jpg"
+    },
+    {
+      "page": "schedule.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/schedule.html-375x900.jpg"
+    },
+    {
+      "page": "science.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/science.html-375x900.jpg"
+    },
+    {
+      "page": "search.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/search.html-375x900.jpg"
+    },
+    {
+      "page": "student.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/student.html-375x900.jpg"
+    },
+    {
+      "page": "style.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/style.html-375x900.jpg"
+    },
+    {
+      "page": "en/admission.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-admission.html-375x900.jpg"
+    },
+    {
+      "page": "en/catalog.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-catalog.html-375x900.jpg"
+    },
+    {
+      "page": "en/contacts.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-contacts.html-375x900.jpg"
+    },
+    {
+      "page": "en/index.html",
+      "viewport": [
+        375,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-index.html-375x900.jpg"
+    },
+    {
+      "page": "404.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/404.html-390x900.jpg"
+    },
+    {
+      "page": "Institute.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Institute.html-390x900.jpg"
+    },
+    {
+      "page": "Program.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Program.html-390x900.jpg"
+    },
+    {
+      "page": "about.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/about.html-390x900.jpg"
+    },
+    {
+      "page": "account.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/account.html-390x900.jpg"
+    },
+    {
+      "page": "admission.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/admission.html-390x900.jpg"
+    },
+    {
+      "page": "article.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/article.html-390x900.jpg"
+    },
+    {
+      "page": "campus.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/campus.html-390x900.jpg"
+    },
+    {
+      "page": "catalog.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/catalog.html-390x900.jpg"
+    },
+    {
+      "page": "concept.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/concept.html-390x900.jpg"
+    },
+    {
+      "page": "contacts.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/contacts.html-390x900.jpg"
+    },
+    {
+      "page": "events.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/events.html-390x900.jpg"
+    },
+    {
+      "page": "index.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/index.html-390x900.jpg"
+    },
+    {
+      "page": "institutes.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/institutes.html-390x900.jpg"
+    },
+    {
+      "page": "international.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/international.html-390x900.jpg"
+    },
+    {
+      "page": "life.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/life.html-390x900.jpg"
+    },
+    {
+      "page": "news.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/news.html-390x900.jpg"
+    },
+    {
+      "page": "partners.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/partners.html-390x900.jpg"
+    },
+    {
+      "page": "quiz.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/quiz.html-390x900.jpg"
+    },
+    {
+      "page": "room.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/room.html-390x900.jpg"
+    },
+    {
+      "page": "schedule.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/schedule.html-390x900.jpg"
+    },
+    {
+      "page": "science.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/science.html-390x900.jpg"
+    },
+    {
+      "page": "search.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/search.html-390x900.jpg"
+    },
+    {
+      "page": "student.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/student.html-390x900.jpg"
+    },
+    {
+      "page": "style.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/style.html-390x900.jpg"
+    },
+    {
+      "page": "en/admission.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-admission.html-390x900.jpg"
+    },
+    {
+      "page": "en/catalog.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-catalog.html-390x900.jpg"
+    },
+    {
+      "page": "en/contacts.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-contacts.html-390x900.jpg"
+    },
+    {
+      "page": "en/index.html",
+      "viewport": [
+        390,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-index.html-390x900.jpg"
+    },
+    {
+      "page": "404.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/404.html-414x900.jpg"
+    },
+    {
+      "page": "Institute.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Institute.html-414x900.jpg"
+    },
+    {
+      "page": "Program.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Program.html-414x900.jpg"
+    },
+    {
+      "page": "about.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/about.html-414x900.jpg"
+    },
+    {
+      "page": "account.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/account.html-414x900.jpg"
+    },
+    {
+      "page": "admission.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/admission.html-414x900.jpg"
+    },
+    {
+      "page": "article.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/article.html-414x900.jpg"
+    },
+    {
+      "page": "campus.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/campus.html-414x900.jpg"
+    },
+    {
+      "page": "catalog.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/catalog.html-414x900.jpg"
+    },
+    {
+      "page": "concept.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/concept.html-414x900.jpg"
+    },
+    {
+      "page": "contacts.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/contacts.html-414x900.jpg"
+    },
+    {
+      "page": "events.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/events.html-414x900.jpg"
+    },
+    {
+      "page": "index.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/index.html-414x900.jpg"
+    },
+    {
+      "page": "institutes.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/institutes.html-414x900.jpg"
+    },
+    {
+      "page": "international.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/international.html-414x900.jpg"
+    },
+    {
+      "page": "life.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/life.html-414x900.jpg"
+    },
+    {
+      "page": "news.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/news.html-414x900.jpg"
+    },
+    {
+      "page": "partners.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/partners.html-414x900.jpg"
+    },
+    {
+      "page": "quiz.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/quiz.html-414x900.jpg"
+    },
+    {
+      "page": "room.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/room.html-414x900.jpg"
+    },
+    {
+      "page": "schedule.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/schedule.html-414x900.jpg"
+    },
+    {
+      "page": "science.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/science.html-414x900.jpg"
+    },
+    {
+      "page": "search.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/search.html-414x900.jpg"
+    },
+    {
+      "page": "student.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/student.html-414x900.jpg"
+    },
+    {
+      "page": "style.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/style.html-414x900.jpg"
+    },
+    {
+      "page": "en/admission.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-admission.html-414x900.jpg"
+    },
+    {
+      "page": "en/catalog.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-catalog.html-414x900.jpg"
+    },
+    {
+      "page": "en/contacts.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-contacts.html-414x900.jpg"
+    },
+    {
+      "page": "en/index.html",
+      "viewport": [
+        414,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-index.html-414x900.jpg"
+    },
+    {
+      "page": "404.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/404.html-600x900.jpg"
+    },
+    {
+      "page": "Institute.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Institute.html-600x900.jpg"
+    },
+    {
+      "page": "Program.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Program.html-600x900.jpg"
+    },
+    {
+      "page": "about.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/about.html-600x900.jpg"
+    },
+    {
+      "page": "account.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/account.html-600x900.jpg"
+    },
+    {
+      "page": "admission.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/admission.html-600x900.jpg"
+    },
+    {
+      "page": "article.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/article.html-600x900.jpg"
+    },
+    {
+      "page": "campus.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/campus.html-600x900.jpg"
+    },
+    {
+      "page": "catalog.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/catalog.html-600x900.jpg"
+    },
+    {
+      "page": "concept.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/concept.html-600x900.jpg"
+    },
+    {
+      "page": "contacts.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/contacts.html-600x900.jpg"
+    },
+    {
+      "page": "events.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/events.html-600x900.jpg"
+    },
+    {
+      "page": "index.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/index.html-600x900.jpg"
+    },
+    {
+      "page": "institutes.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/institutes.html-600x900.jpg"
+    },
+    {
+      "page": "international.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/international.html-600x900.jpg"
+    },
+    {
+      "page": "life.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/life.html-600x900.jpg"
+    },
+    {
+      "page": "news.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/news.html-600x900.jpg"
+    },
+    {
+      "page": "partners.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/partners.html-600x900.jpg"
+    },
+    {
+      "page": "quiz.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/quiz.html-600x900.jpg"
+    },
+    {
+      "page": "room.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/room.html-600x900.jpg"
+    },
+    {
+      "page": "schedule.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/schedule.html-600x900.jpg"
+    },
+    {
+      "page": "science.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/science.html-600x900.jpg"
+    },
+    {
+      "page": "search.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/search.html-600x900.jpg"
+    },
+    {
+      "page": "student.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/student.html-600x900.jpg"
+    },
+    {
+      "page": "style.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/style.html-600x900.jpg"
+    },
+    {
+      "page": "en/admission.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-admission.html-600x900.jpg"
+    },
+    {
+      "page": "en/catalog.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-catalog.html-600x900.jpg"
+    },
+    {
+      "page": "en/contacts.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-contacts.html-600x900.jpg"
+    },
+    {
+      "page": "en/index.html",
+      "viewport": [
+        600,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-index.html-600x900.jpg"
+    },
+    {
+      "page": "404.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/404.html-768x900.jpg"
+    },
+    {
+      "page": "Institute.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Institute.html-768x900.jpg"
+    },
+    {
+      "page": "Program.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Program.html-768x900.jpg"
+    },
+    {
+      "page": "about.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/about.html-768x900.jpg"
+    },
+    {
+      "page": "account.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/account.html-768x900.jpg"
+    },
+    {
+      "page": "admission.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/admission.html-768x900.jpg"
+    },
+    {
+      "page": "article.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/article.html-768x900.jpg"
+    },
+    {
+      "page": "campus.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/campus.html-768x900.jpg"
+    },
+    {
+      "page": "catalog.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/catalog.html-768x900.jpg"
+    },
+    {
+      "page": "concept.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/concept.html-768x900.jpg"
+    },
+    {
+      "page": "contacts.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/contacts.html-768x900.jpg"
+    },
+    {
+      "page": "events.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/events.html-768x900.jpg"
+    },
+    {
+      "page": "index.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/index.html-768x900.jpg"
+    },
+    {
+      "page": "institutes.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/institutes.html-768x900.jpg"
+    },
+    {
+      "page": "international.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/international.html-768x900.jpg"
+    },
+    {
+      "page": "life.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/life.html-768x900.jpg"
+    },
+    {
+      "page": "news.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/news.html-768x900.jpg"
+    },
+    {
+      "page": "partners.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/partners.html-768x900.jpg"
+    },
+    {
+      "page": "quiz.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/quiz.html-768x900.jpg"
+    },
+    {
+      "page": "room.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/room.html-768x900.jpg"
+    },
+    {
+      "page": "schedule.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/schedule.html-768x900.jpg"
+    },
+    {
+      "page": "science.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/science.html-768x900.jpg"
+    },
+    {
+      "page": "search.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/search.html-768x900.jpg"
+    },
+    {
+      "page": "student.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/student.html-768x900.jpg"
+    },
+    {
+      "page": "style.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/style.html-768x900.jpg"
+    },
+    {
+      "page": "en/admission.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-admission.html-768x900.jpg"
+    },
+    {
+      "page": "en/catalog.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-catalog.html-768x900.jpg"
+    },
+    {
+      "page": "en/contacts.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-contacts.html-768x900.jpg"
+    },
+    {
+      "page": "en/index.html",
+      "viewport": [
+        768,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-index.html-768x900.jpg"
+    },
+    {
+      "page": "404.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/404.html-820x900.jpg"
+    },
+    {
+      "page": "Institute.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Institute.html-820x900.jpg"
+    },
+    {
+      "page": "Program.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Program.html-820x900.jpg"
+    },
+    {
+      "page": "about.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/about.html-820x900.jpg"
+    },
+    {
+      "page": "account.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/account.html-820x900.jpg"
+    },
+    {
+      "page": "admission.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/admission.html-820x900.jpg"
+    },
+    {
+      "page": "article.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/article.html-820x900.jpg"
+    },
+    {
+      "page": "campus.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/campus.html-820x900.jpg"
+    },
+    {
+      "page": "catalog.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/catalog.html-820x900.jpg"
+    },
+    {
+      "page": "concept.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/concept.html-820x900.jpg"
+    },
+    {
+      "page": "contacts.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/contacts.html-820x900.jpg"
+    },
+    {
+      "page": "events.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/events.html-820x900.jpg"
+    },
+    {
+      "page": "index.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/index.html-820x900.jpg"
+    },
+    {
+      "page": "institutes.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/institutes.html-820x900.jpg"
+    },
+    {
+      "page": "international.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/international.html-820x900.jpg"
+    },
+    {
+      "page": "life.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/life.html-820x900.jpg"
+    },
+    {
+      "page": "news.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/news.html-820x900.jpg"
+    },
+    {
+      "page": "partners.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/partners.html-820x900.jpg"
+    },
+    {
+      "page": "quiz.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/quiz.html-820x900.jpg"
+    },
+    {
+      "page": "room.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/room.html-820x900.jpg"
+    },
+    {
+      "page": "schedule.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/schedule.html-820x900.jpg"
+    },
+    {
+      "page": "science.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/science.html-820x900.jpg"
+    },
+    {
+      "page": "search.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/search.html-820x900.jpg"
+    },
+    {
+      "page": "student.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/student.html-820x900.jpg"
+    },
+    {
+      "page": "style.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/style.html-820x900.jpg"
+    },
+    {
+      "page": "en/admission.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-admission.html-820x900.jpg"
+    },
+    {
+      "page": "en/catalog.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-catalog.html-820x900.jpg"
+    },
+    {
+      "page": "en/contacts.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-contacts.html-820x900.jpg"
+    },
+    {
+      "page": "en/index.html",
+      "viewport": [
+        820,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-index.html-820x900.jpg"
+    },
+    {
+      "page": "404.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/404.html-1024x900.jpg"
+    },
+    {
+      "page": "Institute.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Institute.html-1024x900.jpg"
+    },
+    {
+      "page": "Program.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Program.html-1024x900.jpg"
+    },
+    {
+      "page": "about.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/about.html-1024x900.jpg"
+    },
+    {
+      "page": "account.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/account.html-1024x900.jpg"
+    },
+    {
+      "page": "admission.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/admission.html-1024x900.jpg"
+    },
+    {
+      "page": "article.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/article.html-1024x900.jpg"
+    },
+    {
+      "page": "campus.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/campus.html-1024x900.jpg"
+    },
+    {
+      "page": "catalog.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/catalog.html-1024x900.jpg"
+    },
+    {
+      "page": "concept.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/concept.html-1024x900.jpg"
+    },
+    {
+      "page": "contacts.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/contacts.html-1024x900.jpg"
+    },
+    {
+      "page": "events.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/events.html-1024x900.jpg"
+    },
+    {
+      "page": "index.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/index.html-1024x900.jpg"
+    },
+    {
+      "page": "institutes.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/institutes.html-1024x900.jpg"
+    },
+    {
+      "page": "international.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/international.html-1024x900.jpg"
+    },
+    {
+      "page": "life.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/life.html-1024x900.jpg"
+    },
+    {
+      "page": "news.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/news.html-1024x900.jpg"
+    },
+    {
+      "page": "partners.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/partners.html-1024x900.jpg"
+    },
+    {
+      "page": "quiz.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/quiz.html-1024x900.jpg"
+    },
+    {
+      "page": "room.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/room.html-1024x900.jpg"
+    },
+    {
+      "page": "schedule.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/schedule.html-1024x900.jpg"
+    },
+    {
+      "page": "science.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/science.html-1024x900.jpg"
+    },
+    {
+      "page": "search.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/search.html-1024x900.jpg"
+    },
+    {
+      "page": "student.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/student.html-1024x900.jpg"
+    },
+    {
+      "page": "style.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/style.html-1024x900.jpg"
+    },
+    {
+      "page": "en/admission.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-admission.html-1024x900.jpg"
+    },
+    {
+      "page": "en/catalog.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-catalog.html-1024x900.jpg"
+    },
+    {
+      "page": "en/contacts.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-contacts.html-1024x900.jpg"
+    },
+    {
+      "page": "en/index.html",
+      "viewport": [
+        1024,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-index.html-1024x900.jpg"
+    },
+    {
+      "page": "404.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/404.html-1280x900.jpg"
+    },
+    {
+      "page": "Institute.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Institute.html-1280x900.jpg"
+    },
+    {
+      "page": "Program.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Program.html-1280x900.jpg"
+    },
+    {
+      "page": "about.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/about.html-1280x900.jpg"
+    },
+    {
+      "page": "account.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/account.html-1280x900.jpg"
+    },
+    {
+      "page": "admission.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/admission.html-1280x900.jpg"
+    },
+    {
+      "page": "article.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/article.html-1280x900.jpg"
+    },
+    {
+      "page": "campus.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/campus.html-1280x900.jpg"
+    },
+    {
+      "page": "catalog.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/catalog.html-1280x900.jpg"
+    },
+    {
+      "page": "concept.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/concept.html-1280x900.jpg"
+    },
+    {
+      "page": "contacts.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/contacts.html-1280x900.jpg"
+    },
+    {
+      "page": "events.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/events.html-1280x900.jpg"
+    },
+    {
+      "page": "index.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/index.html-1280x900.jpg"
+    },
+    {
+      "page": "institutes.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/institutes.html-1280x900.jpg"
+    },
+    {
+      "page": "international.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/international.html-1280x900.jpg"
+    },
+    {
+      "page": "life.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/life.html-1280x900.jpg"
+    },
+    {
+      "page": "news.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/news.html-1280x900.jpg"
+    },
+    {
+      "page": "partners.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/partners.html-1280x900.jpg"
+    },
+    {
+      "page": "quiz.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/quiz.html-1280x900.jpg"
+    },
+    {
+      "page": "room.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/room.html-1280x900.jpg"
+    },
+    {
+      "page": "schedule.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/schedule.html-1280x900.jpg"
+    },
+    {
+      "page": "science.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/science.html-1280x900.jpg"
+    },
+    {
+      "page": "search.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/search.html-1280x900.jpg"
+    },
+    {
+      "page": "student.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/student.html-1280x900.jpg"
+    },
+    {
+      "page": "style.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/style.html-1280x900.jpg"
+    },
+    {
+      "page": "en/admission.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-admission.html-1280x900.jpg"
+    },
+    {
+      "page": "en/catalog.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-catalog.html-1280x900.jpg"
+    },
+    {
+      "page": "en/contacts.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-contacts.html-1280x900.jpg"
+    },
+    {
+      "page": "en/index.html",
+      "viewport": [
+        1280,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-index.html-1280x900.jpg"
+    },
+    {
+      "page": "404.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/404.html-1366x900.jpg"
+    },
+    {
+      "page": "Institute.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Institute.html-1366x900.jpg"
+    },
+    {
+      "page": "Program.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Program.html-1366x900.jpg"
+    },
+    {
+      "page": "about.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/about.html-1366x900.jpg"
+    },
+    {
+      "page": "account.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/account.html-1366x900.jpg"
+    },
+    {
+      "page": "admission.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/admission.html-1366x900.jpg"
+    },
+    {
+      "page": "article.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/article.html-1366x900.jpg"
+    },
+    {
+      "page": "campus.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/campus.html-1366x900.jpg"
+    },
+    {
+      "page": "catalog.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/catalog.html-1366x900.jpg"
+    },
+    {
+      "page": "concept.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/concept.html-1366x900.jpg"
+    },
+    {
+      "page": "contacts.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/contacts.html-1366x900.jpg"
+    },
+    {
+      "page": "events.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/events.html-1366x900.jpg"
+    },
+    {
+      "page": "index.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/index.html-1366x900.jpg"
+    },
+    {
+      "page": "institutes.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/institutes.html-1366x900.jpg"
+    },
+    {
+      "page": "international.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/international.html-1366x900.jpg"
+    },
+    {
+      "page": "life.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/life.html-1366x900.jpg"
+    },
+    {
+      "page": "news.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/news.html-1366x900.jpg"
+    },
+    {
+      "page": "partners.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/partners.html-1366x900.jpg"
+    },
+    {
+      "page": "quiz.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/quiz.html-1366x900.jpg"
+    },
+    {
+      "page": "room.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/room.html-1366x900.jpg"
+    },
+    {
+      "page": "schedule.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/schedule.html-1366x900.jpg"
+    },
+    {
+      "page": "science.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/science.html-1366x900.jpg"
+    },
+    {
+      "page": "search.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/search.html-1366x900.jpg"
+    },
+    {
+      "page": "student.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/student.html-1366x900.jpg"
+    },
+    {
+      "page": "style.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/style.html-1366x900.jpg"
+    },
+    {
+      "page": "en/admission.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-admission.html-1366x900.jpg"
+    },
+    {
+      "page": "en/catalog.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-catalog.html-1366x900.jpg"
+    },
+    {
+      "page": "en/contacts.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-contacts.html-1366x900.jpg"
+    },
+    {
+      "page": "en/index.html",
+      "viewport": [
+        1366,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-index.html-1366x900.jpg"
+    },
+    {
+      "page": "404.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/404.html-1440x900.jpg"
+    },
+    {
+      "page": "Institute.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Institute.html-1440x900.jpg"
+    },
+    {
+      "page": "Program.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Program.html-1440x900.jpg"
+    },
+    {
+      "page": "about.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/about.html-1440x900.jpg"
+    },
+    {
+      "page": "account.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/account.html-1440x900.jpg"
+    },
+    {
+      "page": "admission.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/admission.html-1440x900.jpg"
+    },
+    {
+      "page": "article.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/article.html-1440x900.jpg"
+    },
+    {
+      "page": "campus.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/campus.html-1440x900.jpg"
+    },
+    {
+      "page": "catalog.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/catalog.html-1440x900.jpg"
+    },
+    {
+      "page": "concept.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/concept.html-1440x900.jpg"
+    },
+    {
+      "page": "contacts.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/contacts.html-1440x900.jpg"
+    },
+    {
+      "page": "events.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/events.html-1440x900.jpg"
+    },
+    {
+      "page": "index.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/index.html-1440x900.jpg"
+    },
+    {
+      "page": "institutes.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/institutes.html-1440x900.jpg"
+    },
+    {
+      "page": "international.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/international.html-1440x900.jpg"
+    },
+    {
+      "page": "life.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/life.html-1440x900.jpg"
+    },
+    {
+      "page": "news.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/news.html-1440x900.jpg"
+    },
+    {
+      "page": "partners.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/partners.html-1440x900.jpg"
+    },
+    {
+      "page": "quiz.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/quiz.html-1440x900.jpg"
+    },
+    {
+      "page": "room.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/room.html-1440x900.jpg"
+    },
+    {
+      "page": "schedule.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/schedule.html-1440x900.jpg"
+    },
+    {
+      "page": "science.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/science.html-1440x900.jpg"
+    },
+    {
+      "page": "search.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/search.html-1440x900.jpg"
+    },
+    {
+      "page": "student.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/student.html-1440x900.jpg"
+    },
+    {
+      "page": "style.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/style.html-1440x900.jpg"
+    },
+    {
+      "page": "en/admission.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-admission.html-1440x900.jpg"
+    },
+    {
+      "page": "en/catalog.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-catalog.html-1440x900.jpg"
+    },
+    {
+      "page": "en/contacts.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-contacts.html-1440x900.jpg"
+    },
+    {
+      "page": "en/index.html",
+      "viewport": [
+        1440,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-index.html-1440x900.jpg"
+    },
+    {
+      "page": "404.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/404.html-1920x900.jpg"
+    },
+    {
+      "page": "Institute.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Institute.html-1920x900.jpg"
+    },
+    {
+      "page": "Program.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Program.html-1920x900.jpg"
+    },
+    {
+      "page": "about.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/about.html-1920x900.jpg"
+    },
+    {
+      "page": "account.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/account.html-1920x900.jpg"
+    },
+    {
+      "page": "admission.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/admission.html-1920x900.jpg"
+    },
+    {
+      "page": "article.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/article.html-1920x900.jpg"
+    },
+    {
+      "page": "campus.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/campus.html-1920x900.jpg"
+    },
+    {
+      "page": "catalog.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/catalog.html-1920x900.jpg"
+    },
+    {
+      "page": "concept.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/concept.html-1920x900.jpg"
+    },
+    {
+      "page": "contacts.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/contacts.html-1920x900.jpg"
+    },
+    {
+      "page": "events.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/events.html-1920x900.jpg"
+    },
+    {
+      "page": "index.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/index.html-1920x900.jpg"
+    },
+    {
+      "page": "institutes.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/institutes.html-1920x900.jpg"
+    },
+    {
+      "page": "international.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/international.html-1920x900.jpg"
+    },
+    {
+      "page": "life.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/life.html-1920x900.jpg"
+    },
+    {
+      "page": "news.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/news.html-1920x900.jpg"
+    },
+    {
+      "page": "partners.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/partners.html-1920x900.jpg"
+    },
+    {
+      "page": "quiz.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/quiz.html-1920x900.jpg"
+    },
+    {
+      "page": "room.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/room.html-1920x900.jpg"
+    },
+    {
+      "page": "schedule.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/schedule.html-1920x900.jpg"
+    },
+    {
+      "page": "science.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/science.html-1920x900.jpg"
+    },
+    {
+      "page": "search.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/search.html-1920x900.jpg"
+    },
+    {
+      "page": "student.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/student.html-1920x900.jpg"
+    },
+    {
+      "page": "style.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/style.html-1920x900.jpg"
+    },
+    {
+      "page": "en/admission.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-admission.html-1920x900.jpg"
+    },
+    {
+      "page": "en/catalog.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-catalog.html-1920x900.jpg"
+    },
+    {
+      "page": "en/contacts.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-contacts.html-1920x900.jpg"
+    },
+    {
+      "page": "en/index.html",
+      "viewport": [
+        1920,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-index.html-1920x900.jpg"
+    },
+    {
+      "page": "404.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/404.html-2560x900.jpg"
+    },
+    {
+      "page": "Institute.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Institute.html-2560x900.jpg"
+    },
+    {
+      "page": "Program.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Program.html-2560x900.jpg"
+    },
+    {
+      "page": "about.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/about.html-2560x900.jpg"
+    },
+    {
+      "page": "account.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/account.html-2560x900.jpg"
+    },
+    {
+      "page": "admission.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/admission.html-2560x900.jpg"
+    },
+    {
+      "page": "article.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/article.html-2560x900.jpg"
+    },
+    {
+      "page": "campus.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/campus.html-2560x900.jpg"
+    },
+    {
+      "page": "catalog.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/catalog.html-2560x900.jpg"
+    },
+    {
+      "page": "concept.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/concept.html-2560x900.jpg"
+    },
+    {
+      "page": "contacts.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/contacts.html-2560x900.jpg"
+    },
+    {
+      "page": "events.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/events.html-2560x900.jpg"
+    },
+    {
+      "page": "index.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/index.html-2560x900.jpg"
+    },
+    {
+      "page": "institutes.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/institutes.html-2560x900.jpg"
+    },
+    {
+      "page": "international.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/international.html-2560x900.jpg"
+    },
+    {
+      "page": "life.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/life.html-2560x900.jpg"
+    },
+    {
+      "page": "news.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/news.html-2560x900.jpg"
+    },
+    {
+      "page": "partners.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/partners.html-2560x900.jpg"
+    },
+    {
+      "page": "quiz.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/quiz.html-2560x900.jpg"
+    },
+    {
+      "page": "room.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/room.html-2560x900.jpg"
+    },
+    {
+      "page": "schedule.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/schedule.html-2560x900.jpg"
+    },
+    {
+      "page": "science.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/science.html-2560x900.jpg"
+    },
+    {
+      "page": "search.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/search.html-2560x900.jpg"
+    },
+    {
+      "page": "student.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/student.html-2560x900.jpg"
+    },
+    {
+      "page": "style.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/style.html-2560x900.jpg"
+    },
+    {
+      "page": "en/admission.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-admission.html-2560x900.jpg"
+    },
+    {
+      "page": "en/catalog.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-catalog.html-2560x900.jpg"
+    },
+    {
+      "page": "en/contacts.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-contacts.html-2560x900.jpg"
+    },
+    {
+      "page": "en/index.html",
+      "viewport": [
+        2560,
+        900
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-index.html-2560x900.jpg"
+    },
+    {
+      "page": "404.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/404.html-844x390.jpg"
+    },
+    {
+      "page": "Institute.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Institute.html-844x390.jpg"
+    },
+    {
+      "page": "Program.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Program.html-844x390.jpg"
+    },
+    {
+      "page": "about.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/about.html-844x390.jpg"
+    },
+    {
+      "page": "account.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/account.html-844x390.jpg"
+    },
+    {
+      "page": "admission.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/admission.html-844x390.jpg"
+    },
+    {
+      "page": "article.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/article.html-844x390.jpg"
+    },
+    {
+      "page": "campus.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/campus.html-844x390.jpg"
+    },
+    {
+      "page": "catalog.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/catalog.html-844x390.jpg"
+    },
+    {
+      "page": "concept.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/concept.html-844x390.jpg"
+    },
+    {
+      "page": "contacts.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/contacts.html-844x390.jpg"
+    },
+    {
+      "page": "events.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/events.html-844x390.jpg"
+    },
+    {
+      "page": "index.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/index.html-844x390.jpg"
+    },
+    {
+      "page": "institutes.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/institutes.html-844x390.jpg"
+    },
+    {
+      "page": "international.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/international.html-844x390.jpg"
+    },
+    {
+      "page": "life.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/life.html-844x390.jpg"
+    },
+    {
+      "page": "news.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/news.html-844x390.jpg"
+    },
+    {
+      "page": "partners.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/partners.html-844x390.jpg"
+    },
+    {
+      "page": "quiz.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/quiz.html-844x390.jpg"
+    },
+    {
+      "page": "room.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/room.html-844x390.jpg"
+    },
+    {
+      "page": "schedule.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/schedule.html-844x390.jpg"
+    },
+    {
+      "page": "science.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/science.html-844x390.jpg"
+    },
+    {
+      "page": "search.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/search.html-844x390.jpg"
+    },
+    {
+      "page": "student.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/student.html-844x390.jpg"
+    },
+    {
+      "page": "style.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/style.html-844x390.jpg"
+    },
+    {
+      "page": "en/admission.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-admission.html-844x390.jpg"
+    },
+    {
+      "page": "en/catalog.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-catalog.html-844x390.jpg"
+    },
+    {
+      "page": "en/contacts.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-contacts.html-844x390.jpg"
+    },
+    {
+      "page": "en/index.html",
+      "viewport": [
+        844,
+        390
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-index.html-844x390.jpg"
+    },
+    {
+      "page": "404.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/404.html-683x450.jpg"
+    },
+    {
+      "page": "Institute.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Institute.html-683x450.jpg"
+    },
+    {
+      "page": "Program.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Program.html-683x450.jpg"
+    },
+    {
+      "page": "about.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/about.html-683x450.jpg"
+    },
+    {
+      "page": "account.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/account.html-683x450.jpg"
+    },
+    {
+      "page": "admission.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/admission.html-683x450.jpg"
+    },
+    {
+      "page": "article.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/article.html-683x450.jpg"
+    },
+    {
+      "page": "campus.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/campus.html-683x450.jpg"
+    },
+    {
+      "page": "catalog.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/catalog.html-683x450.jpg"
+    },
+    {
+      "page": "concept.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/concept.html-683x450.jpg"
+    },
+    {
+      "page": "contacts.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/contacts.html-683x450.jpg"
+    },
+    {
+      "page": "events.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/events.html-683x450.jpg"
+    },
+    {
+      "page": "index.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/index.html-683x450.jpg"
+    },
+    {
+      "page": "institutes.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/institutes.html-683x450.jpg"
+    },
+    {
+      "page": "international.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/international.html-683x450.jpg"
+    },
+    {
+      "page": "life.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/life.html-683x450.jpg"
+    },
+    {
+      "page": "news.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/news.html-683x450.jpg"
+    },
+    {
+      "page": "partners.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/partners.html-683x450.jpg"
+    },
+    {
+      "page": "quiz.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/quiz.html-683x450.jpg"
+    },
+    {
+      "page": "room.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/room.html-683x450.jpg"
+    },
+    {
+      "page": "schedule.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/schedule.html-683x450.jpg"
+    },
+    {
+      "page": "science.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/science.html-683x450.jpg"
+    },
+    {
+      "page": "search.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/search.html-683x450.jpg"
+    },
+    {
+      "page": "student.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/student.html-683x450.jpg"
+    },
+    {
+      "page": "style.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/style.html-683x450.jpg"
+    },
+    {
+      "page": "en/admission.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-admission.html-683x450.jpg"
+    },
+    {
+      "page": "en/catalog.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-catalog.html-683x450.jpg"
+    },
+    {
+      "page": "en/contacts.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-contacts.html-683x450.jpg"
+    },
+    {
+      "page": "en/index.html",
+      "viewport": [
+        683,
+        450
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-index.html-683x450.jpg"
+    },
+    {
+      "page": "404.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/404.html-342x225.jpg"
+    },
+    {
+      "page": "Institute.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Institute.html-342x225.jpg"
+    },
+    {
+      "page": "Program.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/Program.html-342x225.jpg"
+    },
+    {
+      "page": "about.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/about.html-342x225.jpg"
+    },
+    {
+      "page": "account.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/account.html-342x225.jpg"
+    },
+    {
+      "page": "admission.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/admission.html-342x225.jpg"
+    },
+    {
+      "page": "article.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/article.html-342x225.jpg"
+    },
+    {
+      "page": "campus.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/campus.html-342x225.jpg"
+    },
+    {
+      "page": "catalog.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/catalog.html-342x225.jpg"
+    },
+    {
+      "page": "concept.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/concept.html-342x225.jpg"
+    },
+    {
+      "page": "contacts.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/contacts.html-342x225.jpg"
+    },
+    {
+      "page": "events.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/events.html-342x225.jpg"
+    },
+    {
+      "page": "index.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/index.html-342x225.jpg"
+    },
+    {
+      "page": "institutes.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/institutes.html-342x225.jpg"
+    },
+    {
+      "page": "international.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/international.html-342x225.jpg"
+    },
+    {
+      "page": "life.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/life.html-342x225.jpg"
+    },
+    {
+      "page": "news.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/news.html-342x225.jpg"
+    },
+    {
+      "page": "partners.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/partners.html-342x225.jpg"
+    },
+    {
+      "page": "quiz.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/quiz.html-342x225.jpg"
+    },
+    {
+      "page": "room.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/room.html-342x225.jpg"
+    },
+    {
+      "page": "schedule.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/schedule.html-342x225.jpg"
+    },
+    {
+      "page": "science.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/science.html-342x225.jpg"
+    },
+    {
+      "page": "search.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/search.html-342x225.jpg"
+    },
+    {
+      "page": "student.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/student.html-342x225.jpg"
+    },
+    {
+      "page": "style.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/style.html-342x225.jpg"
+    },
+    {
+      "page": "en/admission.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-admission.html-342x225.jpg"
+    },
+    {
+      "page": "en/catalog.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-catalog.html-342x225.jpg"
+    },
+    {
+      "page": "en/contacts.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-contacts.html-342x225.jpg"
+    },
+    {
+      "page": "en/index.html",
+      "viewport": [
+        342,
+        225
+      ],
+      "screenshot": "/tmp/urfu-check-screenshots/en-index.html-342x225.jpg"
+    }
+  ],
+  "failures": [],
+  "note": "683px and 342px viewports test CSS reflow equivalent to 200% and 400% at 1366px; browser toolbar zoom and physical phones unavailable."
+}

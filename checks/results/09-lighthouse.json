@@ -1,0 +1,453 @@
+{
+  "server": "Local gzip HTTP server; not public PageSpeed Insights",
+  "pages": [
+    {
+      "page": "index.html",
+      "runs": [
+        {
+          "scores": {
+            "performance": 99,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1812.9723,
+          "CLS": 4.487365497703737e-05,
+          "TBT": 95.51385000000005,
+          "transfer": 133954,
+          "time": "2026-10-25T15:08:42.170Z"
+        },
+        {
+          "scores": {
+            "performance": 99,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1770.4916,
+          "CLS": 4.487365497703737e-05,
+          "TBT": 118.81145000000015,
+          "transfer": 133954,
+          "time": "2026-10-25T15:08:56.011Z"
+        },
+        {
+          "scores": {
+            "performance": 99,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1808.8465,
+          "CLS": 0,
+          "TBT": 67,
+          "transfer": 133954,
+          "time": "2026-10-25T15:09:09.300Z"
+        }
+      ],
+      "median": {
+        "scores": {
+          "performance": 99,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "LCP": 1808.8465,
+        "CLS": 4.487365497703737e-05,
+        "TBT": 95.51385000000005,
+        "transfer": 133954
+      }
+    },
+    {
+      "page": "admission.html",
+      "runs": [
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1509.2653,
+          "CLS": 0,
+          "TBT": 42,
+          "transfer": 111438,
+          "time": "2026-10-25T15:09:23.656Z"
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1510.6405,
+          "CLS": 0,
+          "TBT": 0,
+          "transfer": 111438,
+          "time": "2026-10-25T15:09:35.384Z"
+        },
+        {
+          "scores": {
+            "performance": 70,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 2169.6404,
+          "CLS": 0,
+          "TBT": 2648.4532,
+          "transfer": 111438,
+          "time": "2026-10-25T15:09:47.849Z"
+        }
+      ],
+      "median": {
+        "scores": {
+          "performance": 100,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "LCP": 1510.6405,
+        "CLS": 0,
+        "TBT": 42,
+        "transfer": 111438
+      }
+    },
+    {
+      "page": "catalog.html",
+      "runs": [
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1512.6669,
+          "CLS": 0,
+          "TBT": 33,
+          "transfer": 117887,
+          "time": "2026-10-25T15:10:05.903Z"
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1516.9621000000002,
+          "CLS": 0,
+          "TBT": 1.5,
+          "transfer": 117887,
+          "time": "2026-10-25T15:10:18.988Z"
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1508.0648,
+          "CLS": 0,
+          "TBT": 23.5,
+          "transfer": 117887,
+          "time": "2026-10-25T15:10:32.613Z"
+        }
+      ],
+      "median": {
+        "scores": {
+          "performance": 100,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "LCP": 1512.6669,
+        "CLS": 0,
+        "TBT": 23.5,
+        "transfer": 117887
+      }
+    },
+    {
+      "page": "Program.html?id=9797",
+      "runs": [
+        {
+          "scores": {
+            "performance": 85,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1655.4141,
+          "CLS": 0,
+          "TBT": 599.79295,
+          "transfer": 112038,
+          "time": "2026-10-25T15:10:45.839Z"
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1663.5652,
+          "CLS": 0.04425082957562878,
+          "TBT": 19,
+          "transfer": 112038,
+          "time": "2026-10-25T15:11:00.912Z"
+        },
+        {
+          "scores": {
+            "performance": 99,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1659.7908000000002,
+          "CLS": 0.04425082957562878,
+          "TBT": 87.99999999999977,
+          "transfer": 112038,
+          "time": "2026-10-25T15:11:12.941Z"
+        }
+      ],
+      "median": {
+        "scores": {
+          "performance": 99,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "LCP": 1659.7908000000002,
+        "CLS": 0.04425082957562878,
+        "TBT": 87.99999999999977,
+        "transfer": 112038
+      }
+    },
+    {
+      "page": "campus.html",
+      "runs": [
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1510.4032000000002,
+          "CLS": 0,
+          "TBT": 12,
+          "transfer": 114307,
+          "time": "2026-10-25T15:11:25.628Z"
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1511.7208999999998,
+          "CLS": 0,
+          "TBT": 10,
+          "transfer": 114307,
+          "time": "2026-10-25T15:11:38.159Z"
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1508.0381000000002,
+          "CLS": 0,
+          "TBT": 8.5,
+          "transfer": 114307,
+          "time": "2026-10-25T15:11:50.481Z"
+        }
+      ],
+      "median": {
+        "scores": {
+          "performance": 100,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "LCP": 1510.4032000000002,
+        "CLS": 0,
+        "TBT": 10,
+        "transfer": 114307
+      }
+    },
+    {
+      "page": "schedule.html",
+      "runs": [
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1517.3134999999997,
+          "CLS": 0,
+          "TBT": 35,
+          "transfer": 110310,
+          "time": "2026-10-25T15:12:03.732Z"
+        },
+        {
+          "scores": {
+            "performance": 96,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1667.1795,
+          "CLS": 0,
+          "TBT": 224.2735,
+          "transfer": 110310,
+          "time": "2026-10-25T15:12:19.551Z"
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1512.4827,
+          "CLS": 0,
+          "TBT": 70,
+          "transfer": 110310,
+          "time": "2026-10-25T15:12:32.363Z"
+        }
+      ],
+      "median": {
+        "scores": {
+          "performance": 100,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "LCP": 1517.3134999999997,
+        "CLS": 0,
+        "TBT": 70,
+        "transfer": 110310
+      }
+    },
+    {
+      "page": "search.html?q=общага",
+      "runs": [
+        {
+          "scores": {
+            "performance": 99,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1667.3907,
+          "CLS": 0,
+          "TBT": 90,
+          "transfer": 111086,
+          "time": "2026-10-25T15:12:44.314Z"
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1674.4555,
+          "CLS": 0,
+          "TBT": 57,
+          "transfer": 111086,
+          "time": "2026-10-25T15:12:57.724Z"
+        },
+        {
+          "scores": {
+            "performance": 99,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1587.57125,
+          "CLS": 0,
+          "TBT": 115,
+          "transfer": 111086,
+          "time": "2026-10-25T15:13:10.039Z"
+        }
+      ],
+      "median": {
+        "scores": {
+          "performance": 99,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "LCP": 1667.3907,
+        "CLS": 0,
+        "TBT": 90,
+        "transfer": 111086
+      }
+    },
+    {
+      "page": "concept.html",
+      "runs": [
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1516.6358,
+          "CLS": 0,
+          "TBT": 5.5,
+          "transfer": 112124,
+          "time": "2026-10-25T15:13:22.456Z"
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1506.2516,
+          "CLS": 0,
+          "TBT": 9.5,
+          "transfer": 112124,
+          "time": "2026-10-25T15:13:34.413Z"
+        },
+        {
+          "scores": {
+            "performance": 100,
+            "accessibility": 100,
+            "best-practices": 100,
+            "seo": 100
+          },
+          "LCP": 1512.4096,
+          "CLS": 0,
+          "TBT": 87.79520000000002,
+          "transfer": 112124,
+          "time": "2026-10-25T15:13:48.154Z"
+        }
+      ],
+      "median": {
+        "scores": {
+          "performance": 100,
+          "accessibility": 100,
+          "best-practices": 100,
+          "seo": 100
+        },
+        "LCP": 1512.4096,
+        "CLS": 0,
+        "TBT": 9.5,
+        "transfer": 112124
+      }
+    }
+  ]
+}

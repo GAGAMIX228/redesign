@@ -1,0 +1,56 @@
+{
+  "pdf": {
+    "pages": 18,
+    "outside_elements_html": [],
+    "outside_text_pdf": [],
+    "links": [
+      "https://gagamix228.github.io/redesign/",
+      "https://gagamix228.github.io/redesign/",
+      "https://gagamix228.github.io/redesign/",
+      "https://gagamix228.github.io/redesign/",
+      "https://gagamix228.github.io/redesign/",
+      "https://gagamix228.github.io/redesign/",
+      "https://gagamix228.github.io/redesign/",
+      "https://gagamix228.github.io/redesign/",
+      "https://gagamix228.github.io/redesign/",
+      "https://gagamix228.github.io/redesign/",
+      "https://gagamix228.github.io/redesign/",
+      "https://gagamix228.github.io/redesign/",
+      "https://gagamix228.github.io/redesign/",
+      "https://gagamix228.github.io/redesign/",
+      "https://gagamix228.github.io/redesign/",
+      "https://gagamix228.github.io/redesign/",
+      "https://gagamix228.github.io/redesign/",
+      "https://gagamix228.github.io/redesign/",
+      "https://gagamix228.github.io/redesign/",
+      "https://gagamix228.github.io/redesign/"
+    ],
+    "has_98_programs": true,
+    "has_79_english": true,
+    "qr_payload": "https://gagamix228.github.io/redesign/",
+    "qr_image_present": true
+  },
+  "video": {
+    "probe": {
+      "programs": [],
+      "stream_groups": [],
+      "streams": [
+        {
+          "codec_name": "h264",
+          "width": 1920,
+          "height": 1080,
+          "pix_fmt": "yuv420p",
+          "r_frame_rate": "25/1"
+        }
+      ],
+      "format": {
+        "duration": "60.000000"
+      }
+    },
+    "decoded_frames": 1500,
+    "max_adjacent_brightness_change": 24.330347222222223,
+    "changes_over_25": [],
+    "expected_scene_crossfades_seconds": 0.5,
+    "compatibility": "H.264, yuv420p, MP4 faststart; actual Windows/Telegram/iPhone player sessions unavailable."
+  }
+}

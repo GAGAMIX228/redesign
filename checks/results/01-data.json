@@ -1,0 +1,738 @@
+{
+  "checked": "2026-10-25T13:36:02.025294+00:00",
+  "catalogue": {
+    "live_count": 98,
+    "saved_count": 98,
+    "missing": [],
+    "extra": []
+  },
+  "programs": [
+    {
+      "id": "10037",
+      "source": "https://programs.edu.urfu.ru/ru/10037/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9901",
+      "source": "https://programs.edu.urfu.ru/ru/9901/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9898",
+      "source": "https://programs.edu.urfu.ru/ru/9898/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9985",
+      "source": "https://programs.edu.urfu.ru/ru/9985/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9995",
+      "source": "https://programs.edu.urfu.ru/ru/9995/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10330",
+      "source": "https://programs.edu.urfu.ru/ru/10330/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9989",
+      "source": "https://programs.edu.urfu.ru/ru/9989/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9986",
+      "source": "https://programs.edu.urfu.ru/ru/9986/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9987",
+      "source": "https://programs.edu.urfu.ru/ru/9987/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9988",
+      "source": "https://programs.edu.urfu.ru/ru/9988/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9897",
+      "source": "https://programs.edu.urfu.ru/ru/9897/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10308",
+      "source": "https://programs.edu.urfu.ru/ru/10308/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9899",
+      "source": "https://programs.edu.urfu.ru/ru/9899/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10205",
+      "source": "https://programs.edu.urfu.ru/ru/10205/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10117",
+      "source": "https://programs.edu.urfu.ru/ru/10117/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10220",
+      "source": "https://programs.edu.urfu.ru/ru/10220/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10102",
+      "source": "https://programs.edu.urfu.ru/ru/10102/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10329",
+      "source": "https://programs.edu.urfu.ru/ru/10329/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10034",
+      "source": "https://programs.edu.urfu.ru/ru/10034/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10221",
+      "source": "https://programs.edu.urfu.ru/ru/10221/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10591",
+      "source": "https://programs.edu.urfu.ru/ru/10591/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10216",
+      "source": "https://programs.edu.urfu.ru/ru/10216/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9813",
+      "source": "https://programs.edu.urfu.ru/ru/9813/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9795",
+      "source": "https://programs.edu.urfu.ru/ru/9795/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10339",
+      "source": "https://programs.edu.urfu.ru/ru/10339/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10340",
+      "source": "https://programs.edu.urfu.ru/ru/10340/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9814",
+      "source": "https://programs.edu.urfu.ru/ru/9814/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9796",
+      "source": "https://programs.edu.urfu.ru/ru/9796/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10680",
+      "source": "https://programs.edu.urfu.ru/ru/10680/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9797",
+      "source": "https://programs.edu.urfu.ru/ru/9797/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9812",
+      "source": "https://programs.edu.urfu.ru/ru/9812/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9936",
+      "source": "https://programs.edu.urfu.ru/ru/9936/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9833",
+      "source": "https://programs.edu.urfu.ru/ru/9833/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9846",
+      "source": "https://programs.edu.urfu.ru/ru/9846/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9843",
+      "source": "https://programs.edu.urfu.ru/ru/9843/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9826",
+      "source": "https://programs.edu.urfu.ru/ru/9826/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9845",
+      "source": "https://programs.edu.urfu.ru/ru/9845/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9918",
+      "source": "https://programs.edu.urfu.ru/ru/9918/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9921",
+      "source": "https://programs.edu.urfu.ru/ru/9921/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10184",
+      "source": "https://programs.edu.urfu.ru/ru/10184/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9804",
+      "source": "https://programs.edu.urfu.ru/ru/9804/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10075",
+      "source": "https://programs.edu.urfu.ru/ru/10075/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10077",
+      "source": "https://programs.edu.urfu.ru/ru/10077/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10071",
+      "source": "https://programs.edu.urfu.ru/ru/10071/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10036",
+      "source": "https://programs.edu.urfu.ru/ru/10036/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10696",
+      "source": "https://programs.edu.urfu.ru/ru/10696/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10076",
+      "source": "https://programs.edu.urfu.ru/ru/10076/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9806",
+      "source": "https://programs.edu.urfu.ru/ru/9806/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10694",
+      "source": "https://programs.edu.urfu.ru/ru/10694/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10078",
+      "source": "https://programs.edu.urfu.ru/ru/10078/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10344",
+      "source": "https://programs.edu.urfu.ru/ru/10344/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10345",
+      "source": "https://programs.edu.urfu.ru/ru/10345/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10362",
+      "source": "https://programs.edu.urfu.ru/ru/10362/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10202",
+      "source": "https://programs.edu.urfu.ru/ru/10202/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10022",
+      "source": "https://programs.edu.urfu.ru/ru/10022/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10002",
+      "source": "https://programs.edu.urfu.ru/ru/10002/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10203",
+      "source": "https://programs.edu.urfu.ru/ru/10203/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10153",
+      "source": "https://programs.edu.urfu.ru/ru/10153/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10158",
+      "source": "https://programs.edu.urfu.ru/ru/10158/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10157",
+      "source": "https://programs.edu.urfu.ru/ru/10157/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9869",
+      "source": "https://programs.edu.urfu.ru/ru/9869/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9875",
+      "source": "https://programs.edu.urfu.ru/ru/9875/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10152",
+      "source": "https://programs.edu.urfu.ru/ru/10152/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10151",
+      "source": "https://programs.edu.urfu.ru/ru/10151/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10601",
+      "source": "https://programs.edu.urfu.ru/ru/10601/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10149",
+      "source": "https://programs.edu.urfu.ru/ru/10149/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10319",
+      "source": "https://programs.edu.urfu.ru/ru/10319/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10712",
+      "source": "https://programs.edu.urfu.ru/ru/10712/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10331",
+      "source": "https://programs.edu.urfu.ru/ru/10331/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10210",
+      "source": "https://programs.edu.urfu.ru/ru/10210/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10375",
+      "source": "https://programs.edu.urfu.ru/ru/10375/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10708",
+      "source": "https://programs.edu.urfu.ru/ru/10708/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10150",
+      "source": "https://programs.edu.urfu.ru/ru/10150/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10292",
+      "source": "https://programs.edu.urfu.ru/ru/10292/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10620",
+      "source": "https://programs.edu.urfu.ru/ru/10620/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10315",
+      "source": "https://programs.edu.urfu.ru/ru/10315/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10156",
+      "source": "https://programs.edu.urfu.ru/ru/10156/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10320",
+      "source": "https://programs.edu.urfu.ru/ru/10320/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10147",
+      "source": "https://programs.edu.urfu.ru/ru/10147/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10600",
+      "source": "https://programs.edu.urfu.ru/ru/10600/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10146",
+      "source": "https://programs.edu.urfu.ru/ru/10146/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10293",
+      "source": "https://programs.edu.urfu.ru/ru/10293/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9864",
+      "source": "https://programs.edu.urfu.ru/ru/9864/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10312",
+      "source": "https://programs.edu.urfu.ru/ru/10312/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9866",
+      "source": "https://programs.edu.urfu.ru/ru/9866/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10144",
+      "source": "https://programs.edu.urfu.ru/ru/10144/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10145",
+      "source": "https://programs.edu.urfu.ru/ru/10145/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10154",
+      "source": "https://programs.edu.urfu.ru/ru/10154/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9874",
+      "source": "https://programs.edu.urfu.ru/ru/9874/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9981",
+      "source": "https://programs.edu.urfu.ru/ru/9981/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9979",
+      "source": "https://programs.edu.urfu.ru/ru/9979/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9980",
+      "source": "https://programs.edu.urfu.ru/ru/9980/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10255",
+      "source": "https://programs.edu.urfu.ru/ru/10255/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9959",
+      "source": "https://programs.edu.urfu.ru/ru/9959/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10758",
+      "source": "https://programs.edu.urfu.ru/ru/10758/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9968",
+      "source": "https://programs.edu.urfu.ru/ru/9968/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "10139",
+      "source": "https://programs.edu.urfu.ru/ru/10139/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    },
+    {
+      "id": "9955",
+      "source": "https://programs.edu.urfu.ru/ru/9955/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "differences": [],
+      "status": "passed"
+    }
+  ],
+  "secondary": [
+    {
+      "pages": "Все страницы: контакт-центр",
+      "value": "8 800 100-50-44",
+      "source": "https://privet.urfu.ru/",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "official_text": "Главная — Навигатор первокурсника УрФУ (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date(); for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }} k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\"); ym(45814800, \"init\", { clickmap:true, trackLinks:true, accurateTrackBounce:true }); Навигатор первокурсника Уральского федерального университета Ты поступил правильно! Ты — в Уральском федеральном Перед тобой навигатор первокурсника Уральского федерального. Это ценный ресурс, к которому ты можешь обращаться бесконечное количество раз. Даже когда подрастешь и перейдешь на 2 курс:) На твоем студенческом пути будут возникать вопросы, сложные выборы, а еще тебя порадуют яркие события, победы, зачеты автоматом и очень-очень много НОВОГО. Не упускай возможности твоего студенчества, делай его красочнее и немножечко проще с навигатором первокурсника УрФУ. Мы очень рады, что ты поступил правильно. Поехали знакомиться с возможностями студенчества в УрФУ! Об университете Это база Про рейтинги Учеба За деньги да Поселение Как не заблудиться Айти-сервисы Крупные проекты Студенческие организации Воинская обязанность Безопасность Интересные факты Будь на связи с университетом Telegram Оперативные новости в телеграм-канале ВКонтакте Наша группа ВКонтакте с развлекательно-познавательным контентом для истинных студентов УрФУ УрФУ.Учеба Скачайте наше приложение и получите доступ к актуальному расписанию 8-800-100-50-44 Контакт-центр УрФУ на случай самых оперативных вопросов Нашли ошибку на сайте? Пишите — d.s.guzenko@urfu.ru { __sveltekit_9y8842 = { base: new URL(\".\", location).pathname.slice(0, -1), env: {\"PUBLIC_NODE_ENV\":\"production\",\"PUBLIC_DOMAIN_NAME\":\"privet.urfu.ru\"} }; const element = document.currentScript.parentElement; const data = [null,null,null]; Promise.all([ import(\"./_app/immutable/entry/start.D8q6vWxA.js\"), import(\"./_app/immutable/entry/app.BGSYbv8p.js\") ]).then(([kit, app]) => { kit.start(app, element, { node_ids: [0, 2, 3], data, form: null, error: null }); }); }"
+    },
+    {
+      "pages": "student.html: стипендии",
+      "value": "2 314,2; 3 008,2; 4 398 ₽, базовые суммы, 2026",
+      "source": "https://privet.urfu.ru/money",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "official_text": "За деньги — да — Навигатор первокурсника УрФУ (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date(); for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }} k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\"); ym(45814800, \"init\", { clickmap:true, trackLinks:true, accurateTrackBounce:true }); За деньги — да Стипендии в Уральском федеральном — это поддержка талантливой и активной студенческой молодежи, организованная не только государством и университетом, но и различными фондами и организациями. Ежегодно вуз тратит порядка 200 миллионов рублей на поддержку талантов. Одаренные студенты, помимо традиционной государственной стипендии, могут получать различные виды стипендий, например, для талантливых первокурсников, для обучающихся в военном учебном центре, именные стипендии, повышенные стипендии за достижения в учебной или научной деятельности и т. д. Академическая стипендия Социальная стипендия Оплата обучения Материальная помощь Студенты во время обучения могут получать стипендию. В первом семестре государственную академическую стипендию получают все студенты-бюджетники очной формы обучения. Дальше она будет назначаться по итогам каждой сданной сессии:на период с 1 февраля по 30 июня — по итогам зимней сессии;на период с 1 июля по 31 января — по итогам летней сессии.В случае проведения сессии по учебному плану в другие сроки стипендия назначается в срок с первого числа месяца, следующего за промежуточной аттестацией, до последнего числа месяца следующей промежуточной аттестации.Для получения государственной академической стипендии тебе достаточно сдать сессию на оценки «хорошо» и «отлично» без задолженностей. Если ты пересдашь зачет или экзамен в сроки сессии, при назначении стипендии будет зачтена новая оценка. Обрати внимание: пересдачи во время сессии разрешены в исключительных случаях с согласия преподавателя и директора института.Восстановленным и переведенным из других вузов, переведенным с заочной формы обучения на очную, с одного направления на другое, переведенным с платной формы обучения, государственная академическая стипендия назначается с первого числа месяца, следующего за датой ликвидации академической разницы, при отсутствии троек по итогам последней промежуточной аттестации. Также есть государственная академическая стипендия студентам-отличникам, она назначается отличникам учебы. 💡 Все суммы ниже указаны без учета Уральского районного коэффициента, поэтому фактический размер стипендии будет выше.Для студентов 1 курса бакалавриата, специалитета и базового высшего образования в период с начала учебного года по месяц окончания первой промежуточной аттестации в соответствии с календарным учебным графиком составит:— 2 314,2 руб. в месяц.Для студентов 2-6 курса и 1 курса по итогам прохождения первой промежуточной аттестации:— 3 008,2 руб. в месяц;— 4 398,0 руб. в месяц для отличников учебы.Для магистрантов и студентов СпецВО с 1 сентября 2026 года:— 4 398,0 руб. в месяц;— 6 480,6 руб. в месяц для отличников учебы. Вернуться на главную Будь на связи с университетом Telegram Оперативные новости в телеграм-канале ВКонтакте Наша группа ВКонтакте с развлекательно-познавательным контентом для истинных студентов УрФУ УрФУ.Учеба Скачайте наше приложение и получите доступ к актуальному расписанию 8-800-100-50-44 Контакт-центр УрФУ на случай самых оперативных вопросов Нашли ошибку на сайте? Пишите — d.s.guzenko@urfu.ru { __sveltekit_9y8842 = { base: new URL(\".\", location).pathname.slice(0, -1), env: {\"PUBLIC_NODE_ENV\":\"production\",\"PUBLIC_DOMAIN_NAME\":\"privet.urfu.ru\"} }; const element = document.currentScript.parentElement; const data = [null,null,{\"type\":\"data\",\"data\":{topic:{title:\"За деньги — да\",description:\"Стипендии в Уральском федеральном — это поддержка талантливой и активной студенческой молодежи, организованная не только государством и университетом, но и различными фондами и организациями.\\n\\nЕжегодно вуз тратит порядка 200 миллионов рублей на поддержку талантов. Одаренные студенты, помимо традиционной государственной стипендии, могут получать различные виды стипендий, например, для талантливых первокурсников, \\nдля обучающихся в военном учебном центре, именные стипендии, повышенные стипендии за достижения в учебной или научной деятельности и т. д.\",slug:\"money\",createdAt:\"2024-08-25T08:38:41.173Z\",updatedAt:\"2026-08-28T07:34:13.666Z\",publishedAt:\"2026-08-28T07:34:13.686Z\",subtopics:[{id:96,title:\"Академическая стипендия\",text:[{type:\"paragraph\",children:[{text:\"Студенты во время обучения могут получать стипендию. В первом семестре государственную академическую стипендию получают все студенты-бюджетники очной формы обучения. Дальше она будет назначаться по итогам каждой сданной сессии:\",type:\"text\"}]},{type:\"list\",format:\"unordered\",children:[{type:\"list-item\",children:[{text:\"на период с 1 февраля по 30 июня — по итогам зимней сессии;\",type:\"text\"}]},{type:\"list-item\",children:[{text:\"на период с 1 июля по 31 января — по итогам летней сессии.\",type:\"text\"}]}]},{type:\"paragraph\",children:[{text:\"В случае проведения сессии по учебному плану в другие сроки стипендия назначается в срок с первого числа месяца, следующего за промежуточной аттестацией, до последнего числа месяца следующей промежуточной аттестации.\",type:\"text\"}]},{type:\"paragraph\",children:[{text:\"Для получения государственной академической стипендии тебе достаточно сдать сессию на оценки «хорошо» и «отлично» без задолженностей. Если ты пересдашь зачет или экзамен в сроки сессии, при назначении стипендии будет зачтена новая оценка. Обрати внимание: пересдачи во время сессии разрешены в исключительных случаях с согласия преподавателя и директора института.\",type:\"text\"}]},{type:\"paragraph\",children:[{text:\"Восстановленным и переведенным из других вузов, переведенным с заочной формы обучения на очную, с одного направления на другое, переведенным с платной формы обучения, государственная академическая стипендия назначается с первого числа месяца, следующего за датой ликвидации академической разницы, при отсутствии троек по итогам последней промежуточной аттестации. \",type:\"text\"}]},{type:\"paragraph\",children:[{text:\"Также есть государственная академическая стипендия студентам-отличникам, она назначается отличникам учебы. \",type:\"text\"}]},{type:\"paragraph\",children:[{text:\"💡 Все суммы ниже указаны без учета Уральского районного коэффициента, поэтому фактический размер стипендии будет выше.\",type:\"text\"}]},{type:\"paragraph\",children:[{text:\"Для студентов 1 курса бакалавриата, специалитета и базового высшего образования в период с начала учебного года по месяц окончания первой промежуточной аттестации в соответствии с календарным учебным графиком составит:\",type:\"text\"}]},{type:\"paragraph\",children:[{text:\"— 2 314,2 руб. в месяц.\",type:\"text\"}]},{type:\"paragraph\",children:[{text:\"Для студентов 2-6 курса и 1 курса по итогам прохождения первой промежуточной аттестации:\",type:\"text\"}]},{type:\"paragraph\",children:[{text:\"— 3 008,2 руб. в месяц;\",type:\"text\"}]},{type:\"paragraph\",children:[{text:\"— 4 398,0 руб. в месяц для отличников учебы.\",type:\"text\"}]},{type:\"paragraph\",children:[{text:\"Для магистрантов и студентов СпецВО с 1 сентября 2026 года:\",type:\"text\"}]},{type:\"paragraph\",children:[{text:\"— 4 398,0 руб. в месяц;\",type:\"text\"}]},{type:\"paragraph\",children:[{text:\"— 6 480,6 руб. в месяц для отличников учебы.\",type:\"text\"}]}],image:{data:null}},{id:97,title:\"Социальная стипендия\",text:[{type:\"paragraph\",children:[{text:\"Студенты, относящиеся к льготным категориям, могут получить в университете социальную поддержку. Государственная социальная стипендия назначается независимо от наличия или отсутствия государственной академической стипендии.\",type:\"text\"}]},{type:\"paragraph\",children:[{text:\"Студенты, относящиеся к льготным категориям, могут получить в университете социальную поддержку. Государственная социальная стипендия назначается независимо от наличия или отсутствия государственной академической стипендии.\",type:\"text\"}]},{type:\"paragraph\",children:[{text:\"Претендовать на соцстипендию можно по ограниченному ряду весомых причин. К числу студентов федеральных льготных категорий относятся:\",type:\"text\"}]},{type:\"list\",format:\"unordered\",children:[{type:\"list-item\",children:[{text:\"дети-сироты и дети, оставшиеся без попечения родителей;\",type:\"text\"}]}]},{type:\"list\",format:\"unordered\",children:[{type:\"list-item\",children:[{text:\"лица, потерявшие в период обучения обоих родителей или единственного родителя;\",type:\"text\"}]}]},{type:\"list\",format:\"unordered\",children:[{type:\"list-item\",children:[{text:\"являющиеся детьми-инвалидами, инвалидами с детства либо признанные в установленном порядке инвалидами I или II групп;\",type:\"text\"}]}]},{type:\"list\",format:\"unordered\",children:[{type:\"list-item\",children:[{text:\"пострадавшие в результате аварии на Чернобыльской АЭС и в других радиационных катастрофах;\",type:\"text\"}]}]},{type:\"list\",format:\"unordered\",children:[{type:\"list-item\",children:[{text:\"проходившие военную службу по контракту не менее трех лет и уволенные по основаниям, предусмотренным отдельными пунктами Федерального закона «О воинской обязанности и военной службе» (от 28.03.1998).\",type:\"text\"}]}]},{type:\"paragraph\",children:[{text:\"Социальную стипендию студенту назначает администрация института при наличии подтверждающих льготный статус документов. Подробнее о вопросе социальной стипендии можно узнать в \",type:\"text\"},{url:\"https://drive.google.com/file/d/1i6fpU18V4wk9ic_eyKaeFsyV5DIRz4-e/view?usp=drive_link)\",type:\"link\",children:[{text:\"положении о стипендиальном обеспечении обучающихся.\",type:\"text\"}]},{text:\"\",type:\"text\"}]}],image:{data:null}},{id:98,title:\"Оплата обучения\",text:[{type:\"paragraph\",children:[{text:\"Абитуриенты могут заключить договор об обучении с возмещением затрат со скидкой. Размер скидки будет зависеть от направления подготовки, а также от суммы баллов за вступительные испытания. \",type:\"text\"}]},{type:\"paragraph\",children:[{text:\"Оплата за услуги, оказываемые УрФУ, осуществляется заказчиком/плательщиком по договору при наличии паспорта и договора.\",type:\"text\"}]},{type:\"paragraph\",children:[{bold:true,text:\"Произвести оплату без комиссии можно одним из указанных способов:\",type:\"text\"}]},{type:\"list\",format:\"unordered\",children:[{type:\"list-item\",children:[{text:\"в кассе УрФУ, в т.ч. наличный/безналичный расчет (ул. Мира, д. 19, левое крыло главного учебного корпуса). Приём платежей производится с 09:00 до 16:30, перерыв с 12:30 до 13:00 (понедельник-четверг), с 09:00 до 15:30, перерыв с 12:30 до 13:00 (пятница). \",type:\"text\"}]}]},{type:\"list\",format:\"unordered\",children:[{type:\"list-item\",children:[{text:\"в любом отделении ПАО «Банк Синара», в т. ч. наличный расчет или безналичный расчет при наличии карты ПАО «Банк Синара». При осуществлении оплаты картой, выпущенной другим банком, может быть удержана комиссия. Ближайшие отделения находятся по адресу ул. Мира, д. 19, правое крыло главного учебного корпуса УрФУ или ул. Карла Либкнехта, д. 32. Ознакомиться с подробной информацией о расположении и режиме работы доп.офисов ПАО «Банк Синара» вы можете на их официальном сайте.\",type:\"text\"}]}]},{type:\"list\",format:\"unordered\",children:[{type:\"list-item\",children:[{text:\"через сервис платежей \",type:\"text\"},{url:\"https://pay.urfu.ru/direct\",type:\"link\",children:[{text:\"https://pay.urfu.ru/direct\",type:\"text\"}]},{text:\" за образовательные услуги и услуги проживания в общежитии.\",type:\"text\"}]}]},{type:\"list\",format:\"unordered\",children:[{type:\"list-item\",children:[{text:\"с помощью QR-кода. Сервис доступен через приложение «Сбербанк-Онлайн» и «Банк Синара», оплату также можно произвести через банкомат ПАО «Сбербанк России». Сформировать код можно, воспользовавшись сервисом «Информация о состоянии расчетов по платным образовательным услугам» во вкладке «Финансовые сервисы» личного кабинета студента.\",type:\"text\"}]}]},{type:\"list\",format:\"unordered\",children:[{type:\"list-item\",children:[{text:\"через интернет-банкинг ПАО «Банк Синара» или ПАО «Сбербанк России» («Сбербанк Онлайн») по реквизитам, указанным в договоре. При оплате через указанные сервисы может быть удержана комиссия в соответствии с тарифами банка. \",type:\"text\"}]}]},{type:\"paragraph\",children:[{text:\"Также вы можете оплатить услуги, оказываемые УрФУ, в любом другом банке, но может быть удержана комиссия в соответствии с тарифами обслуживания данного банка. \",type:\"text\"},{bold:true,text:\"Обращаем ваше внимание, что оплату необходимо осуществлять в сроки, установленные по договору.\",type:\"text\"}]},{type:\"paragraph\",children:[{text:\"Каждый год студенты, обучающиеся по контракту, и их родители задумываются над тем, чтобы \",type:\"text\"},{url:\"https://ubu.urfu.ru/ru/studentu/zakazat-spravku-dlja-vycheta-ndfl/\",type:\"link\",children:[{text:\"оформить социальный налоговый вычет\",type:\"text\"}]},{text:\", так как это позволяет вернуть часть расходов на обучение. Вычеты предоставляются только тем гражданам РФ, которые ранее оплатили налог на доходы физических лиц по ставке 13%. Узнать более подробную информацию о том, как воспользоваться своим правом на налоговый вычет по расходам на оплату обучения вы можете на \",type:\"text\"},{url:\"https://www.nalog.ru/rn66/fl/interest/tax_deduction/fl_obrazov/#t1\",type:\"link\",children:[{text:\"сайте Федеральной налоговой службы России\",type:\"text\"}]},{text:\".\",type:\"text\"}]}],image:{data:null}},{id:99,title:\"Материальная помощь\",text:[{type:\"paragraph\",children:[{text:\"Если студент очной формы обучения, в том числе иностранный гражданин, внезапно заболел и потратил деньги на лечение, женился или у него появилась необходимость срочно съездить домой, он может претендовать на получение материальной помощи от университета.\",type:\"text\"}]},{type:\"paragraph\",children:[{text:\"Все подробности по получению материальной помощи можно найти в \",type:\"text\"},{url:\"https://vk.com/topic-24827886_49554978\",type:\"link\",children:[{text:\"памятке \",type:\"text\"}]},{text:\"от Союза студентов. Условия для студентов-бюджетников и контрактников немного отличаются.\",type:\"text\"}]},{type:\"paragraph\",children:[{text:\"Для получения матпомощи студент должен заполнить заявление по форме, которую можно найти на сайте, подготовить документы, подтверждающие необходимость получения денежных средств (справки, чеки, билеты и т. д.). Когда все необходимое у тебя на руках, это необходимо отнести:\",type:\"text\"}]},{type:\"list\",format:\"unordered\",children:[{type:\"list-item\",children:[{text:\"в профбюро института. Такое заявление рассматривается комиссией института, максимальный размер материальной поддержки — до 10 000 рублей, минимальная сумма расходов в заявлении — 2800 рублей. Бланк заявления заполняется на имя директора института;\",type:\"text\"}]}]},{type:\"list\",format:\"unordered\",children:[{type:\"list-item\",children:[{text:\"в профком студентов УрФУ, ГУК-309. Такое заявление рассматривается комиссией университета, минимальная сумма расходов в заявлении — 10000 рублей. Бланк заявления заполняется на имя ректора.\",type:\"text\"}]}]},{type:\"paragraph\",children:[{text:\"Частота подачи заявления для студентов бюджетной основы — раз в семестр, для студентов контрактной основы — раз в учебном году.\",type:\"text\"}]},{type:\"paragraph\",children:[{text:\"За оформление и начисление материальной помощи отвечает Союз студентов и администрация. Если все сделано правильно, можно ждать поступление на карту в следующем месяце. В случае возникновения вопросов или проблем обращайтесь к ответственному либо в профбюро, либо в профком, в зависимости от места подачи.\",type:\"text\"}]}],image:{data:null}}]}},\"uses\":{\"params\":[\"slug\"]}}]; Promise.all([ import(\"./_app/immutable/entry/start.D8q6vWxA.js\"), import(\"./_app/immutable/entry/app.BGSYbv8p.js\") ]).then(([kit, app]) => { kit.start(app, element, { node_ids: [0, 2, 4], data, form: null, error: null }); }); }"
+    },
+    {
+      "pages": "campus.html / room.html: адреса",
+      "value": "Мира, 19; Мира, 32",
+      "source": "https://privet.urfu.ru/navigation",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "official_text": "Как не заблудиться — Навигатор первокурсника УрФУ (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date(); for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }} k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\"); ym(45814800, \"init\", { clickmap:true, trackLinks:true, accurateTrackBounce:true }); Как не заблудиться Втузгородок Корпуса в центре города Куба Новокольцовский Навигатор Электрофак ул. Мира, 19 Учебный корпус, в котором обучаются в основном студенты ИНМТ, УралЭНИН и др. (левое крыло, если смотреть на ГУК) Коворкинг 5 этаж, левое крыло, ауд. М-524а Интересные места Подземный переход в стройфак Стройфак ул. Мира, 17 Учебный корпус, в котором в основном обучаются студенты ИСА. В нем находится еще один корпус-пристрой — СП, куда можно попасть по подземному переходу Столовая 1 этаж (временно не работает) Интересные места Выход к подземному переходу в ГУК Теплофак ул. Софьи Ковалевской, 5 Учебный корпус, в котором в основном обучаются студенты УралЭНИН, ИнФО Спортивные сооружения Баскетбольный зал Интересные места Переход в ГУК внутри корпуса Радиофак ул. Мира, 32 Учебный корпус, в котором в основном обучаются студенты ИРИТ-РТФ Столовая 1 этаж Коворкинг 1 этаж, правое крыло, Р-0441 этаж, левое крыло Интересные места Задний двор с граффити, созданным к юбилею института ГУК Мира, 19 Главный учебный корпус, в котором находятся кабинеты руководства университета, а также учебные аудитории, где проходят лекции у студентов ИНМТ, ИнЭУ, ИФКСиМП и других институтов Библиотека Б-202 (зал технической литературы)Б-203 (зал гуманитарной литературы) Столовая 1 этаж Коворкинг 4 этаж, правое крыло Интересные места паркетактовый зал УрФУ Физтех ул. Мира, 21 Учебный корпус, в котором в основном обучаются студенты ФТИ, УПИШ Коворкинг 4 этаж, ауд. Ф-411 Третий учебный корпус ул. Мира, 28 Учебный корпус, в котором в основном обучаются студенты ХТИ и ИНМТ Столовая 1 этаж Коворкинг 2 этаж, правое крыло, ауд. Мт-205а Интересные места Есть подземный переход в ГУК Зеленый коридор на 3 этаже в правом крыле Уральская передовая инженерная школа ул. Софи Ковалевской, 6Б Учебный корпус студентов УПИШ Спортивный манеж ул. Мира, 29 Спортивная площадка, на которой у многих проходят занятия по легкой атлетике, скалолазанию и др. Также в этом корпусе находятся кабинеты ИФКСиМП и несколько учебных аудиторий этого института Спортивные сооружения Рядом с манежем расположен стадион УрФУ, на котором проходят занятия по футболу, кросс-фиту и другим секциям СКИВС ул. Станислава Набойченко, 14 Спортивный комплекс игровых видов спорта, в котором проходят занятия по волейболу, футболу и др. Также в этом корпусе находятся кабинеты ИФКСиМП и несколько учебных аудиторий этого института ФОК ул. Фонвизина. 4 Физкультурно-оздоровительный комплекс, в котором проходят занятия по ОФП, ЛФК и др. Бассейн ул. Станислава Набойченко, 14а Корпус, в котором проходят занятия по плаванию и аквааэробике. Бассейн также можно посещать для личных тренировок по льготному прайсу Точка кипения УрФУ ул. Ленина, 66 Это пространство коллективной работы Уральского федерального университета. Здесь обсуждаются самые важные вопросы студенческой жизни, проходят подготовку студенческие отряды, обучаются волонтеры, проводят тренинги, обмениваются опытом тренеры и слушатели. Кстати, вы тоже можете провести в Точке свое мероприятие (это бесплатно). *кофе-брейки и офисные товары, необходимые для проведения, организуются силами заявителей мероприятий ВКонтакте Инжэк ул. Мира, 19 Учебный корпус, в котором обучаются в основном студенты ИнЭУ (правое крыло, если смотреть на ГУК) Столовая 3 этаж Коворкинг 5 этаж Интересные места Музейно-выставочный комплекс УрФУВыход к подземному переходу в ФТИ Вернуться на главную Будь на связи с университетом Telegram Оперативные новости в телеграм-канале ВКонтакте Наша группа ВКонтакте с развлекательно-познавательным контентом для истинных студентов УрФУ УрФУ.Учеба Скачайте наше приложение и получите доступ к актуальному расписанию 8-800-100-50-44 Контакт-центр УрФУ на случай самых оперативных вопросов Нашли ошибку на сайте? Пишите — d.s.guzenko@urfu.ru { __sveltekit_9y8842 = { base: new URL(\".\", location).pathname.slice(0, -1), env: {\"PUBLIC_NODE_ENV\":\"production\",\"PUBLIC_DOMAIN_NAME\":\"privet.urfu.ru\"} }; const element = document.currentScript.parentElement; const data = [null,null,{\"type\":\"data\",\"data\":{buildings:[{id:82,title:\"Электрофак\",address:\"ул. Мира, 19\",description:\"Учебный корпус, в котором обучаются в основном студенты ИНМТ, УралЭНИН и др. (левое крыло, если смотреть на ГУК)\",area:\"Втузгородок\",createdAt:\"2024-08-23T06:53:31.239Z\",updatedAt:\"2024-08-25T08:01:36.969Z\",publishedAt:\"2024-08-23T06:56:11.152Z\",features:[{id:124,title:\"Коворкинг\",text:\"5 этаж, левое крыло, ауд. М-524а\\n\"},{id:125,title:\"Интересные места\",text:\"Подземный переход в стройфак\"}],image:{data:null}},{id:83,title:\"Стройфак\",address:\"ул. Мира, 17\",description:\"Учебный корпус, в котором в основном обучаются студенты ИСА. В нем находится еще один корпус-пристрой — СП, куда можно попасть по подземному переходу\",area:\"Втузгородок\",createdAt:\"2024-08-23T06:55:53.668Z\",updatedAt:\"2024-08-26T11:07:41.458Z\",publishedAt:\"2024-08-23T06:56:06.023Z\",features:[{id:126,title:\"Столовая\",text:\"1 этаж (временно не работает)\"},{id:127,title:\"Интересные места\",text:\"Выход к подземному переходу в ГУК\"}],image:{data:{id:989,documentId:\"p2igiqjytigegluw3hjb68ze\",attributes:{name:\"5tGaG0gUd78.jpg\",alternativeText:null,caption:null,width:800,height:450,formats:{small:{ext:\".jpg\",url:\"/uploads/small_5t_Ga_G0g_Ud78_4aee6c3901.jpg\",hash:\"small_5t_Ga_G0g_Ud78_4aee6c3901\",mime:\"image/jpeg\",name:\"small_5tGaG0gUd78.jpg\",path:null,size:33.15,width:500,height:281,sizeInBytes:33145},medium:{ext:\".jpg\",url:\"/uploads/medium_5t_Ga_G0g_Ud78_4aee6c3901.jpg\",hash:\"medium_5t_Ga_G0g_Ud78_4aee6c3901\",mime:\"image/jpeg\",name:\"medium_5tGaG0gUd78.jpg\",path:null,size:66.79,width:750,height:422,sizeInBytes:66785},thumbnail:{ext:\".jpg\",url:\"/uploads/thumbnail_5t_Ga_G0g_Ud78_4aee6c3901.jpg\",hash:\"thumbnail_5t_Ga_G0g_Ud78_4aee6c3901\",mime:\"image/jpeg\",name:\"thumbnail_5tGaG0gUd78.jpg\",path:null,size:9.04,width:245,height:138,sizeInBytes:9039}},hash:\"5t_Ga_G0g_Ud78_4aee6c3901\",ext:\".jpg\",mime:\"image/jpeg\",size:75.4,url:\"/uploads/5t_Ga_G0g_Ud78_4aee6c3901.jpg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2024-08-26T11:07:37.654Z\",updatedAt:\"2025-09-30T10:32:03.059Z\",publishedAt:\"2025-09-30T10:39:02.005Z\",focalPoint:null}}}},{id:84,title:\"Теплофак\",address:\"ул. Софьи Ковалевской, 5\",description:\"Учебный корпус, в котором в основном обучаются студенты УралЭНИН, ИнФО\",area:\"Втузгородок\",createdAt:\"2024-08-23T07:04:15.448Z\",updatedAt:\"2024-08-26T11:06:09.345Z\",publishedAt:\"2024-08-23T07:04:26.059Z\",features:[{id:128,title:\"Спортивные сооружения\",text:\"Баскетбольный зал \"},{id:129,title:\"Интересные места\",text:\"Переход в ГУК внутри корпуса\"}],image:{data:{id:988,documentId:\"rc1l6x5uih87zozqigldq8r2\",attributes:{name:\"_ID48595.jpg\",alternativeText:null,caption:null,width:5656,height:3773,formats:{large:{ext:\".jpg\",url:\"/uploads/large_ID_48595_8d65a07bb8.jpg\",hash:\"large_ID_48595_8d65a07bb8\",mime:\"image/jpeg\",name:\"large__ID48595.jpg\",path:null,size:119.65,width:1000,height:667,sizeInBytes:119651},small:{ext:\".jpg\",url:\"/uploads/small_ID_48595_8d65a07bb8.jpg\",hash:\"small_ID_48595_8d65a07bb8\",mime:\"image/jpeg\",name:\"small__ID48595.jpg\",path:null,size:35.49,width:500,height:333,sizeInBytes:35485},medium:{ext:\".jpg\",url:\"/uploads/medium_ID_48595_8d65a07bb8.jpg\",hash:\"medium_ID_48595_8d65a07bb8\",mime:\"image/jpeg\",name:\"medium__ID48595.jpg\",path:null,size:72.79,width:750,height:500,sizeInBytes:72789},thumbnail:{ext:\".jpg\",url:\"/uploads/thumbnail_ID_48595_8d65a07bb8.jpg\",hash:\"thumbnail_ID_48595_8d65a07bb8\",mime:\"image/jpeg\",name:\"thumbnail__ID48595.jpg\",path:null,size:9.87,width:234,height:156,sizeInBytes:9874}},hash:\"ID_48595_8d65a07bb8\",ext:\".jpg\",mime:\"image/jpeg\",size:2974.68,url:\"/uploads/ID_48595_8d65a07bb8.jpg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2024-08-26T11:06:05.735Z\",updatedAt:\"2025-09-30T10:31:59.198Z\",publishedAt:\"2025-09-30T10:39:02.005Z\",focalPoint:null}}}},{id:85,title:\"Радиофак\",address:\"ул. Мира, 32\",description:\"Учебный корпус, в котором в основном обучаются студенты ИРИТ-РТФ\",area:\"Втузгородок\",createdAt:\"2024-08-23T07:48:02.525Z\",updatedAt:\"2024-08-26T04:00:18.717Z\",publishedAt:\"2024-08-23T07:48:09.121Z\",features:[{id:130,title:\"Столовая\",text:\"1 этаж\"},{id:131,title:\"Коворкинг\",text:\"1 этаж, правое крыло, Р-044\\n1 этаж, левое крыло\"},{id:132,title:\"Интересные места\",text:\"Задний двор с граффити, созданным к юбилею института\"}],image:{data:{id:952,documentId:\"l5plkz48xf8vcefxh3td70vf\",attributes:{name:\"_ID48632.jpg\",alternativeText:null,caption:null,width:4118,height:2747,formats:{large:{ext:\".jpg\",url:\"/uploads/large_ID_48632_8192dc76fd.jpg\",hash:\"large_ID_48632_8192dc76fd\",mime:\"image/jpeg\",name:\"large__ID48632.jpg\",path:null,size:160.6,width:1000,height:667,sizeInBytes:160598},small:{ext:\".jpg\",url:\"/uploads/small_ID_48632_8192dc76fd.jpg\",hash:\"small_ID_48632_8192dc76fd\",mime:\"image/jpeg\",name:\"small__ID48632.jpg\",path:null,size:44.41,width:500,height:333,sizeInBytes:44414},medium:{ext:\".jpg\",url:\"/uploads/medium_ID_48632_8192dc76fd.jpg\",hash:\"medium_ID_48632_8192dc76fd\",mime:\"image/jpeg\",name:\"medium__ID48632.jpg\",path:null,size:92.48,width:750,height:500,sizeInBytes:92481},thumbnail:{ext:\".jpg\",url:\"/uploads/thumbnail_ID_48632_8192dc76fd.jpg\",hash:\"thumbnail_ID_48632_8192dc76fd\",mime:\"image/jpeg\",name:\"thumbnail__ID48632.jpg\",path:null,size:11.06,width:234,height:156,sizeInBytes:11063}},hash:\"ID_48632_8192dc76fd\",ext:\".jpg\",mime:\"image/jpeg\",size:1703.3,url:\"/uploads/ID_48632_8192dc76fd.jpg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2024-08-26T04:00:12.158Z\",updatedAt:\"2025-09-30T10:29:25.684Z\",publishedAt:\"2025-09-30T10:39:02.005Z\",focalPoint:null}}}},{id:86,title:\"ГУК\",address:\"Мира, 19\",description:\"Главный учебный корпус, в котором находятся кабинеты руководства университета, а также учебные аудитории, где проходят лекции у студентов ИНМТ, ИнЭУ, ИФКСиМП \\nи других институтов\",area:\"Втузгородок\",createdAt:\"2024-08-22T06:01:04.792Z\",updatedAt:\"2024-08-29T11:51:55.300Z\",publishedAt:\"2024-08-28T07:24:31.992Z\",features:[{id:133,title:\"Библиотека\",text:\"Б-202 (зал технической литературы)\\nБ-203 (зал гуманитарной литературы)\"},{id:134,title:\"Столовая\",text:\"1 этаж\"},{id:135,title:\"Коворкинг\",text:\"4 этаж, правое крыло\"},{id:136,title:\"Интересные места\",text:\"паркет\\nактовый зал УрФУ\"}],image:{data:{id:951,documentId:\"ogauxs6c3ec4ussm24td3cv7\",attributes:{name:\"_ID43648 (1).jpg\",alternativeText:null,caption:null,width:5124,height:3414,formats:{large:{ext:\".jpg\",url:\"/uploads/large_ID_43648_1_02f8c46add.jpg\",hash:\"large_ID_43648_1_02f8c46add\",mime:\"image/jpeg\",name:\"large__ID43648 (1).jpg\",path:null,size:104.1,width:1000,height:666,sizeInBytes:104102},small:{ext:\".jpg\",url:\"/uploads/small_ID_43648_1_02f8c46add.jpg\",hash:\"small_ID_43648_1_02f8c46add\",mime:\"image/jpeg\",name:\"small__ID43648 (1).jpg\",path:null,size:30.13,width:500,height:333,sizeInBytes:30125},medium:{ext:\".jpg\",url:\"/uploads/medium_ID_43648_1_02f8c46add.jpg\",hash:\"medium_ID_43648_1_02f8c46add\",mime:\"image/jpeg\",name:\"medium__ID43648 (1).jpg\",path:null,size:62.9,width:750,height:499,sizeInBytes:62896},thumbnail:{ext:\".jpg\",url:\"/uploads/thumbnail_ID_43648_1_02f8c46add.jpg\",hash:\"thumbnail_ID_43648_1_02f8c46add\",mime:\"image/jpeg\",name:\"thumbnail__ID43648 (1).jpg\",path:null,size:8.24,width:234,height:156,sizeInBytes:8245}},hash:\"ID_43648_1_02f8c46add\",ext:\".jpg\",mime:\"image/jpeg\",size:1464.16,url:\"/uploads/ID_43648_1_02f8c46add.jpg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2024-08-26T03:59:36.281Z\",updatedAt:\"2025-09-30T10:29:21.357Z\",publishedAt:\"2025-09-30T10:39:02.005Z\",focalPoint:null}}}},{id:88,title:\"Физтех\",address:\"ул. Мира, 21\",description:\"Учебный корпус, в котором в основном обучаются студенты ФТИ, УПИШ\",area:\"Втузгородок\",createdAt:\"2024-08-23T07:00:06.875Z\",updatedAt:\"2025-08-14T07:07:39.486Z\",publishedAt:\"2024-08-23T07:00:08.316Z\",features:[{id:140,title:\"Коворкинг\",text:\"4 этаж, ауд. Ф-411\"}],image:{data:{id:944,documentId:\"lmmwzujqb0fbotni02vop094\",attributes:{name:\"_ID49162.jpg\",alternativeText:null,caption:null,width:5272,height:3517,formats:{large:{ext:\".jpg\",url:\"/uploads/large_ID_49162_87d89172ac.jpg\",hash:\"large_ID_49162_87d89172ac\",mime:\"image/jpeg\",name:\"large__ID49162.jpg\",path:null,size:166.99,width:1000,height:667,sizeInBytes:166994},small:{ext:\".jpg\",url:\"/uploads/small_ID_49162_87d89172ac.jpg\",hash:\"small_ID_49162_87d89172ac\",mime:\"image/jpeg\",name:\"small__ID49162.jpg\",path:null,size:46.13,width:500,height:333,sizeInBytes:46126},medium:{ext:\".jpg\",url:\"/uploads/medium_ID_49162_87d89172ac.jpg\",hash:\"medium_ID_49162_87d89172ac\",mime:\"image/jpeg\",name:\"medium__ID49162.jpg\",path:null,size:99.08,width:750,height:500,sizeInBytes:99082},thumbnail:{ext:\".jpg\",url:\"/uploads/thumbnail_ID_49162_87d89172ac.jpg\",hash:\"thumbnail_ID_49162_87d89172ac\",mime:\"image/jpeg\",name:\"thumbnail__ID49162.jpg\",path:null,size:11.91,width:234,height:156,sizeInBytes:11907}},hash:\"ID_49162_87d89172ac\",ext:\".jpg\",mime:\"image/jpeg\",size:3394.21,url:\"/uploads/ID_49162_87d89172ac.jpg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2024-08-23T06:59:42.569Z\",updatedAt:\"2025-09-30T10:28:51.191Z\",publishedAt:\"2025-09-30T10:39:02.005Z\",focalPoint:null}}}},{id:89,title:\"Третий учебный корпус\",address:\"ул. Мира, 28\",description:\"Учебный корпус, в котором в основном обучаются студенты ХТИ и ИНМТ\",area:\"Втузгородок\",createdAt:\"2024-08-23T07:11:56.113Z\",updatedAt:\"2025-08-14T07:07:52.524Z\",publishedAt:\"2024-08-23T07:11:57.893Z\",features:[{id:141,title:\"Столовая\",text:\"1 этаж\"},{id:142,title:\"Коворкинг\",text:\"2 этаж, правое крыло, ауд. Мт-205а\"},{id:143,title:\"Интересные места\",text:\"Есть подземный переход в ГУК \\nЗеленый коридор на 3 этаже в правом крыле\"}],image:{data:{id:945,documentId:\"qz9pmzj1hl4gl9x0klnopyn1\",attributes:{name:\"_ID49150.jpg\",alternativeText:null,caption:null,width:4325,height:2883,formats:{large:{ext:\".jpg\",url:\"/uploads/large_ID_49150_4e0927ef81.jpg\",hash:\"large_ID_49150_4e0927ef81\",mime:\"image/jpeg\",name:\"large__ID49150.jpg\",path:null,size:145.96,width:1000,height:667,sizeInBytes:145961},small:{ext:\".jpg\",url:\"/uploads/small_ID_49150_4e0927ef81.jpg\",hash:\"small_ID_49150_4e0927ef81\",mime:\"image/jpeg\",name:\"small__ID49150.jpg\",path:null,size:40.68,width:500,height:333,sizeInBytes:40679},medium:{ext:\".jpg\",url:\"/uploads/medium_ID_49150_4e0927ef81.jpg\",hash:\"medium_ID_49150_4e0927ef81\",mime:\"image/jpeg\",name:\"medium__ID49150.jpg\",path:null,size:84.82,width:750,height:500,sizeInBytes:84815},thumbnail:{ext:\".jpg\",url:\"/uploads/thumbnail_ID_49150_4e0927ef81.jpg\",hash:\"thumbnail_ID_49150_4e0927ef81\",mime:\"image/jpeg\",name:\"thumbnail__ID49150.jpg\",path:null,size:10.38,width:234,height:156,sizeInBytes:10383}},hash:\"ID_49150_4e0927ef81\",ext:\".jpg\",mime:\"image/jpeg\",size:2008.68,url:\"/uploads/ID_49150_4e0927ef81.jpg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2024-08-23T07:10:51.378Z\",updatedAt:\"2025-09-30T10:28:55.441Z\",publishedAt:\"2025-09-30T10:39:02.005Z\",focalPoint:null}}}},{id:90,title:\"Уральская передовая инженерная школа\",address:\"ул. Софи Ковалевской, 6Б\",description:\"Учебный корпус студентов УПИШ\",area:\"Втузгородок\",createdAt:\"2024-08-23T07:49:05.916Z\",updatedAt:\"2024-08-26T11:09:58.573Z\",publishedAt:\"2024-08-23T07:49:11.161Z\",features:[],image:{data:{id:990,documentId:\"a5z6ghcd0usl7iwnglpwdh7j\",attributes:{name:\"photo_2024-08-26 16.08.15.jpeg\",alternativeText:null,caption:null,width:583,height:520,formats:{small:{ext:\".jpeg\",url:\"/uploads/small_photo_2024_08_26_16_08_15_a7de23148a.jpeg\",hash:\"small_photo_2024_08_26_16_08_15_a7de23148a\",mime:\"image/jpeg\",name:\"small_photo_2024-08-26 16.08.15.jpeg\",path:null,size:32.54,width:500,height:446,sizeInBytes:32541},thumbnail:{ext:\".jpeg\",url:\"/uploads/thumbnail_photo_2024_08_26_16_08_15_a7de23148a.jpeg\",hash:\"thumbnail_photo_2024_08_26_16_08_15_a7de23148a\",mime:\"image/jpeg\",name:\"thumbnail_photo_2024-08-26 16.08.15.jpeg\",path:null,size:6.49,width:175,height:156,sizeInBytes:6491}},hash:\"photo_2024_08_26_16_08_15_a7de23148a\",ext:\".jpeg\",mime:\"image/jpeg\",size:40.94,url:\"/uploads/photo_2024_08_26_16_08_15_a7de23148a.jpeg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2024-08-26T11:09:55.897Z\",updatedAt:\"2025-09-30T10:32:05.868Z\",publishedAt:\"2025-09-30T10:39:02.005Z\",focalPoint:null}}}},{id:91,title:\"Спортивный манеж\",address:\"ул. Мира, 29\",description:\"Спортивная площадка, на которой у многих проходят занятия по легкой атлетике, скалолазанию и др. Также в этом корпусе находятся кабинеты ИФКСиМП и несколько учебных аудиторий этого института\",area:\"Втузгородок\",createdAt:\"2024-08-23T07:51:14.284Z\",updatedAt:\"2024-08-25T07:58:18.512Z\",publishedAt:\"2024-08-23T07:51:18.703Z\",features:[{id:144,title:\"Спортивные сооружения\",text:\"Рядом с манежем расположен стадион УрФУ, на котором проходят занятия по футболу, кросс-фиту и другим секциям\"}],image:{data:null}},{id:92,title:\"СКИВС\",address:\"ул. Станислава Набойченко, 14\",description:\"Спортивный комплекс игровых видов спорта, в котором проходят занятия по волейболу, футболу и др. Также в этом корпусе находятся кабинеты ИФКСиМП и несколько учебных аудиторий этого института\",area:\"Втузгородок\",createdAt:\"2024-08-23T07:52:37.885Z\",updatedAt:\"2024-08-25T07:55:43.570Z\",publishedAt:\"2024-08-23T07:52:39.400Z\",features:[],image:{data:null}},{id:93,title:\"ФОК\",address:\"ул. Фонвизина. 4\",description:\"Физкультурно-оздоровительный комплекс, в котором проходят занятия по ОФП, ЛФК и др.\",area:\"Втузгородок\",createdAt:\"2024-08-23T07:54:05.906Z\",updatedAt:\"2024-08-25T08:00:39.128Z\",publishedAt:\"2024-08-23T07:54:07.452Z\",features:[],image:{data:{id:947,documentId:\"wtdhvf2e7ii7ld7l1vpywawl\",attributes:{name:\"_ID44434.jpg\",alternativeText:null,caption:null,width:5013,height:3342,formats:{large:{ext:\".jpg\",url:\"/uploads/large_ID_44434_623da97cdd.jpg\",hash:\"large_ID_44434_623da97cdd\",mime:\"image/jpeg\",name:\"large__ID44434.jpg\",path:null,size:120.79,width:1000,height:666,sizeInBytes:120785},small:{ext:\".jpg\",url:\"/uploads/small_ID_44434_623da97cdd.jpg\",hash:\"small_ID_44434_623da97cdd\",mime:\"image/jpeg\",name:\"small__ID44434.jpg\",path:null,size:34.57,width:500,height:333,sizeInBytes:34565},medium:{ext:\".jpg\",url:\"/uploads/medium_ID_44434_623da97cdd.jpg\",hash:\"medium_ID_44434_623da97cdd\",mime:\"image/jpeg\",name:\"medium__ID44434.jpg\",path:null,size:72.66,width:750,height:500,sizeInBytes:72661},thumbnail:{ext:\".jpg\",url:\"/uploads/thumbnail_ID_44434_623da97cdd.jpg\",hash:\"thumbnail_ID_44434_623da97cdd\",mime:\"image/jpeg\",name:\"thumbnail__ID44434.jpg\",path:null,size:9.29,width:234,height:156,sizeInBytes:9288}},hash:\"ID_44434_623da97cdd\",ext:\".jpg\",mime:\"image/jpeg\",size:2806.47,url:\"/uploads/ID_44434_623da97cdd.jpg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2024-08-23T07:53:35.012Z\",updatedAt:\"2025-09-30T10:29:04.062Z\",publishedAt:\"2025-09-30T10:39:02.005Z\",focalPoint:null}}}},{id:94,title:\"Бассейн\",address:\"ул. Станислава Набойченко, 14а\",description:\"Корпус, в котором проходят занятия по плаванию и аквааэробике. Бассейн также можно посещать для личных тренировок по льготному прайсу\",area:\"Втузгородок\",createdAt:\"2024-08-23T07:54:58.038Z\",updatedAt:\"2024-08-25T07:49:22.911Z\",publishedAt:\"2024-08-23T07:55:01.193Z\",features:[],image:{data:null}},{id:95,title:\"Корпус на ул. Куйбышева, 48\",address:\"ул. Куйбышева, 48\",description:\"Учебный корпус, в котором обучаются студенты ИЕНиМ\",area:\"Куба\",createdAt:\"2024-08-26T04:14:22.778Z\",updatedAt:\"2024-08-26T04:14:29.251Z\",publishedAt:\"2024-08-26T04:14:29.241Z\",features:[{id:145,title:\"Библиотека\",text:\"450\"},{id:146,title:\"Столовая\",text:\"1 этаж\"},{id:147,title:\"Коворкинг\",text:\"3 и 4 этаж\"},{id:148,title:\"Интересные места\",text:\"Зеленые коридоры на 3 и 4 этажах корпуса\\n\\nНа фасаде здания расположен арт-объект, созданный проектом Стенография в 2023 году\"}],image:{data:{id:955,documentId:\"cqmyrmzi3l6xl1wlkog9d7wv\",attributes:{name:\"ИЕНиМ (1).jpg\",alternativeText:null,caption:null,width:1920,height:1080,formats:{large:{ext:\".jpg\",url:\"/uploads/large_IE_Ni_M_1_53f4ffe042.jpg\",hash:\"large_IE_Ni_M_1_53f4ffe042\",mime:\"image/jpeg\",name:\"large_ИЕНиМ (1).jpg\",path:null,size:137.98,width:1000,height:563,sizeInBytes:137982},small:{ext:\".jpg\",url:\"/uploads/small_IE_Ni_M_1_53f4ffe042.jpg\",hash:\"small_IE_Ni_M_1_53f4ffe042\",mime:\"image/jpeg\",name:\"small_ИЕНиМ (1).jpg\",path:null,size:42.16,width:500,height:281,sizeInBytes:42161},medium:{ext:\".jpg\",url:\"/uploads/medium_IE_Ni_M_1_53f4ffe042.jpg\",hash:\"medium_IE_Ni_M_1_53f4ffe042\",mime:\"image/jpeg\",name:\"medium_ИЕНиМ (1).jpg\",path:null,size:85.87,width:750,height:422,sizeInBytes:85873},thumbnail:{ext:\".jpg\",url:\"/uploads/thumbnail_IE_Ni_M_1_53f4ffe042.jpg\",hash:\"thumbnail_IE_Ni_M_1_53f4ffe042\",mime:\"image/jpeg\",name:\"thumbnail_ИЕНиМ (1).jpg\",path:null,size:12.15,width:245,height:138,sizeInBytes:12149}},hash:\"IE_Ni_M_1_53f4ffe042\",ext:\".jpg\",mime:\"image/jpeg\",size:311.5,url:\"/uploads/IE_Ni_M_1_53f4ffe042.jpg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2024-08-26T04:14:14.567Z\",updatedAt:\"2025-09-30T10:29:37.420Z\",publishedAt:\"2025-09-30T10:39:02.005Z\",focalPoint:null}}}},{id:96,title:\"Корпус на ул. Гоголя, 25\",address:\"ул. Гоголя, 25\",description:\"Учебный корпус, в котором обучаются студенты ИнЭУ\",area:\"Корпуса в центре города\",createdAt:\"2024-08-23T08:27:57.226Z\",updatedAt:\"2024-08-27T11:13:11.003Z\",publishedAt:\"2024-08-23T08:27:58.710Z\",features:[{id:149,title:\"Коворкинг\",text:\"Цокольный этаж, 013\"}],image:{data:null}},{id:97,title:\"Корпус на ул. Ленина, 13б\",address:\"ул. Ленина, 13б\",description:\"Учебный корпус, в котором обучаются студенты ИнЭУ\",area:\"Корпуса в центре города\",createdAt:\"2024-08-23T08:22:38.035Z\",updatedAt:\"2024-08-27T11:13:33.487Z\",publishedAt:\"2024-08-23T08:22:41.596Z\",features:[{id:150,title:\"Столовая\",text:\"1 этаж (буфет)\"},{id:151,title:\"Коворкинг\",text:\"1 этаж, 113\\n2 этаж, 205\"},{id:152,title:\"Интересные места\",text:\"Свой внутренний дворик\"}],image:{data:null}},{id:98,title:\"Корпус на ул. Чапаева, 16\",address:\"ул. Чапаева, 16 \",description:\"Учебный корпус, в котором обучаются студенты ИнЭУ и УГИ\",area:\"Корпуса в центре города\",createdAt:\"2024-08-26T04:10:06.617Z\",updatedAt:\"2024-08-27T11:13:48.366Z\",publishedAt:\"2024-08-26T04:10:53.161Z\",features:[{id:153,title:\"Столовая\",text:\"1 этаж\"}],image:{data:null}},{id:99,title:\"Аллея флагов\",address:\"ул. Универсиалы, 7\",description:\"Огромная площадь в сердце кампуса\",area:\"Новокольцовский\",createdAt:\"2024-08-26T04:16:28.501Z\",updatedAt:\"2024-08-29T04:29:50.307Z\",publishedAt:\"2024-08-26T04:16:29.931Z\",features:[],image:{data:{id:868,documentId:\"d2zpgcuhadnjlfqz1jdkdtpz\",attributes:{name:\"Аллея.jpg\",alternativeText:null,caption:null,width:4000,height:2667,formats:{large:{ext:\".jpg\",url:\"/uploads/large_Alleya_90bf8db94f.jpg\",hash:\"large_Alleya_90bf8db94f\",mime:\"image/jpeg\",name:\"large_Аллея.jpg\",path:null,size:125.81,width:1000,height:667,sizeInBytes:125807},small:{ext:\".jpg\",url:\"/uploads/small_Alleya_90bf8db94f.jpg\",hash:\"small_Alleya_90bf8db94f\",mime:\"image/jpeg\",name:\"small_Аллея.jpg\",path:null,size:40.81,width:500,height:333,sizeInBytes:40811},medium:{ext:\".jpg\",url:\"/uploads/medium_Alleya_90bf8db94f.jpg\",hash:\"medium_Alleya_90bf8db94f\",mime:\"image/jpeg\",name:\"medium_Аллея.jpg\",path:null,size:77.71,width:750,height:500,sizeInBytes:77705},thumbnail:{ext:\".jpg\",url:\"/uploads/thumbnail_Alleya_90bf8db94f.jpg\",hash:\"thumbnail_Alleya_90bf8db94f\",mime:\"image/jpeg\",name:\"thumbnail_Аллея.jpg\",path:null,size:11.42,width:234,height:156,sizeInBytes:11416}},hash:\"Alleya_90bf8db94f\",ext:\".jpg\",mime:\"image/jpeg\",size:1475.78,url:\"/uploads/Alleya_90bf8db94f.jpg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2024-08-29T04:29:47.054Z\",updatedAt:\"2025-09-30T10:25:46.201Z\",publishedAt:\"2025-09-30T10:39:02.005Z\",focalPoint:null}}}},{id:100,title:\"Амфитеатр\",address:\"ул. Универсиады, 7\",description:\"Уютное и камерное пространство около 4 и 5 общежития\",area:\"Новокольцовский\",createdAt:\"2024-08-26T04:17:07.426Z\",updatedAt:\"2024-08-29T04:30:04.807Z\",publishedAt:\"2024-08-26T05:33:57.395Z\",features:[],image:{data:{id:871,documentId:\"xecy0uljh4ldulckcwocc0qb\",attributes:{name:\"Амфитеатр.jpg\",alternativeText:null,caption:null,width:1582,height:1055,formats:{large:{ext:\".jpg\",url:\"/uploads/large_Amfiteatr_21719764b8.jpg\",hash:\"large_Amfiteatr_21719764b8\",mime:\"image/jpeg\",name:\"large_Амфитеатр.jpg\",path:null,size:180.44,width:1000,height:667,sizeInBytes:180443},small:{ext:\".jpg\",url:\"/uploads/small_Amfiteatr_21719764b8.jpg\",hash:\"small_Amfiteatr_21719764b8\",mime:\"image/jpeg\",name:\"small_Амфитеатр.jpg\",path:null,size:53.29,width:500,height:333,sizeInBytes:53286},medium:{ext:\".jpg\",url:\"/uploads/medium_Amfiteatr_21719764b8.jpg\",hash:\"medium_Amfiteatr_21719764b8\",mime:\"image/jpeg\",name:\"medium_Амфитеатр.jpg\",path:null,size:110.84,width:750,height:500,sizeInBytes:110839},thumbnail:{ext:\".jpg\",url:\"/uploads/thumbnail_Amfiteatr_21719764b8.jpg\",hash:\"thumbnail_Amfiteatr_21719764b8\",mime:\"image/jpeg\",name:\"thumbnail_Амфитеатр.jpg\",path:null,size:13.24,width:234,height:156,sizeInBytes:13240}},hash:\"Amfiteatr_21719764b8\",ext:\".jpg\",mime:\"image/jpeg\",size:399.76,url:\"/uploads/Amfiteatr_21719764b8.jpg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2024-08-29T04:30:02.017Z\",updatedAt:\"2025-09-30T10:25:57.727Z\",publishedAt:\"2025-09-30T10:39:02.005Z\",focalPoint:null}}}},{id:102,title:\"Общественный центр\",address:\"ул. Универсиады, 7\",description:\"Учебный корпус, в котором обучаются студенты ИФКСиМП и подготовительного факультета\",area:\"Новокольцовский\",createdAt:\"2024-08-26T04:15:51.843Z\",updatedAt:\"2024-08-29T04:30:49.878Z\",publishedAt:\"2024-08-26T04:15:53.397Z\",features:[{id:154,title:\"Столовая\",text:\"1 этаж\"},{id:155,title:\"Коворкинг\",text:\"Пространства в холлах на 2,3,4 и 5 этажах \"}],image:{data:{id:875,documentId:\"cg2viysin7yjaaq0893gb0ig\",attributes:{name:\"общ центр.jpg\",alternativeText:null,caption:null,width:4000,height:2667,formats:{large:{ext:\".jpg\",url:\"/uploads/large_obshh_czentr_85584ad8a8.jpg\",hash:\"large_obshh_czentr_85584ad8a8\",mime:\"image/jpeg\",name:\"large_общ центр.jpg\",path:null,size:88.85,width:1000,height:667,sizeInBytes:88853},small:{ext:\".jpg\",url:\"/uploads/small_obshh_czentr_85584ad8a8.jpg\",hash:\"small_obshh_czentr_85584ad8a8\",mime:\"image/jpeg\",name:\"small_общ центр.jpg\",path:null,size:28.76,width:500,height:333,sizeInBytes:28757},medium:{ext:\".jpg\",url:\"/uploads/medium_obshh_czentr_85584ad8a8.jpg\",hash:\"medium_obshh_czentr_85584ad8a8\",mime:\"image/jpeg\",name:\"medium_общ центр.jpg\",path:null,size:54.98,width:750,height:500,sizeInBytes:54979},thumbnail:{ext:\".jpg\",url:\"/uploads/thumbnail_obshh_czentr_85584ad8a8.jpg\",hash:\"thumbnail_obshh_czentr_85584ad8a8\",mime:\"image/jpeg\",name:\"thumbnail_общ центр.jpg\",path:null,size:8.61,width:234,height:156,sizeInBytes:8610}},hash:\"obshh_czentr_85584ad8a8\",ext:\".jpg\",mime:\"image/jpeg\",size:932.39,url:\"/uploads/obshh_czentr_85584ad8a8.jpg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2024-08-29T04:30:47.232Z\",updatedAt:\"2025-09-30T10:26:06.191Z\",publishedAt:\"2025-09-30T10:39:02.005Z\",focalPoint:null}}}},{id:103,title:\"Спортивное поле\",address:\"ул. Универсиады, 7\",description:\"Огромное поле с беговыми дорожками по периметру\",area:\"Новокольцовский\",createdAt:\"2024-08-26T04:19:53.737Z\",updatedAt:\"2024-08-29T04:31:06.918Z\",publishedAt:\"2024-08-26T04:19:55.103Z\",features:[{id:156,title:\"Спортивные сооружения\",text:\"Поблизости находятся площадка для тенниса, стритбола, есть волейбольная площадка и др.\"}],image:{data:{id:870,documentId:\"w9ot5pwnv763t321qmfwcziw\",attributes:{name:\"Поле.jpg\",alternativeText:null,caption:null,width:4000,height:2667,formats:{large:{ext:\".jpg\",url:\"/uploads/large_Pole_4be84d0d92.jpg\",hash:\"large_Pole_4be84d0d92\",mime:\"image/jpeg\",name:\"large_Поле.jpg\",path:null,size:117.23,width:1000,height:667,sizeInBytes:117228},small:{ext:\".jpg\",url:\"/uploads/small_Pole_4be84d0d92.jpg\",hash:\"small_Pole_4be84d0d92\",mime:\"image/jpeg\",name:\"small_Поле.jpg\",path:null,size:31.7,width:500,height:333,sizeInBytes:31701},medium:{ext:\".jpg\",url:\"/uploads/medium_Pole_4be84d0d92.jpg\",hash:\"medium_Pole_4be84d0d92\",mime:\"image/jpeg\",name:\"medium_Поле.jpg\",path:null,size:66.53,width:750,height:500,sizeInBytes:66527},thumbnail:{ext:\".jpg\",url:\"/uploads/thumbnail_Pole_4be84d0d92.jpg\",hash:\"thumbnail_Pole_4be84d0d92\",mime:\"image/jpeg\",name:\"thumbnail_Поле.jpg\",path:null,size:8.53,width:234,height:156,sizeInBytes:8530}},hash:\"Pole_4be84d0d92\",ext:\".jpg\",mime:\"image/jpeg\",size:1803.6,url:\"/uploads/Pole_4be84d0d92.jpg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2024-08-29T04:31:03.715Z\",updatedAt:\"2025-09-30T10:25:53.936Z\",publishedAt:\"2025-09-30T10:39:02.005Z\",focalPoint:null}}}},{id:104,title:\"Спортивный манеж\",address:\"ул. Универсиады, 7\",description:\"Более 5000 квадратных метров идеального спортивного покрытия для организации футбольных, волейбольных, баскетбольных и других соревнований\",area:\"Новокольцовский\",createdAt:\"2024-08-26T04:18:38.304Z\",updatedAt:\"2024-08-29T04:32:38.141Z\",publishedAt:\"2024-08-26T04:18:52.565Z\",features:[{id:157,title:\"Спортивные сооружения\",text:\"Также в блоке с манежем есть тренажерный зал\"}],image:{data:{id:876,documentId:\"z7sj3h6k9u4x9rzl8zkhxoqs\",attributes:{name:\"Манеж.jpg\",alternativeText:null,caption:null,width:2560,height:1707,formats:{large:{ext:\".jpg\",url:\"/uploads/large_Manezh_f8caf55c45.jpg\",hash:\"large_Manezh_f8caf55c45\",mime:\"image/jpeg\",name:\"large_Манеж.jpg\",path:null,size:157.42,width:1000,height:667,sizeInBytes:157423},small:{ext:\".jpg\",url:\"/uploads/small_Manezh_f8caf55c45.jpg\",hash:\"small_Manezh_f8caf55c45\",mime:\"image/jpeg\",name:\"small_Манеж.jpg\",path:null,size:43.14,width:500,height:333,sizeInBytes:43138},medium:{ext:\".jpg\",url:\"/uploads/medium_Manezh_f8caf55c45.jpg\",hash:\"medium_Manezh_f8caf55c45\",mime:\"image/jpeg\",name:\"medium_Манеж.jpg\",path:null,size:92.58,width:750,height:500,sizeInBytes:92578},thumbnail:{ext:\".jpg\",url:\"/uploads/thumbnail_Manezh_f8caf55c45.jpg\",hash:\"thumbnail_Manezh_f8caf55c45\",mime:\"image/jpeg\",name:\"thumbnail_Манеж.jpg\",path:null,size:10.49,width:234,height:156,sizeInBytes:10493}},hash:\"Manezh_f8caf55c45\",ext:\".jpg\",mime:\"image/jpeg\",size:917.47,url:\"/uploads/Manezh_f8caf55c45.jpg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2024-08-29T04:32:35.906Z\",updatedAt:\"2025-09-30T10:26:10.029Z\",publishedAt:\"2025-09-30T10:39:02.005Z\",focalPoint:null}}}},{id:105,title:\"Корпус на ул. Тургенева, 4\",address:\"ул. Тургенева, 4\",description:\"Учебный корпус, в котором обучаются студенты УГИ и ИЕНиМ\",area:\"Корпуса в центре города\",createdAt:\"2024-08-23T08:04:33.189Z\",updatedAt:\"2025-08-13T17:01:04.149Z\",publishedAt:\"2024-08-23T08:05:06.212Z\",features:[{id:158,title:\"Библиотека\",text:\"269, 356 (иностранная литература)\"},{id:159,title:\"Столовая\",text:\"1 этаж\"},{id:160,title:\"Коворкинг\",text:\"3 этаж в холле у Демидовского зала\"},{id:161,title:\"Интересные места\",text:\"Между корпусом ленина, 51 и Тургенева, 4 есть переход внутри корпуса\"}],image:{data:null}},{id:106,title:\"Первый учебный корпус\",address:\"ул. Ленина, 51\",description:\"Учебный корпус, в котором обучаются студенты УГИ\",area:\"Корпуса в центре города\",createdAt:\"2024-08-23T07:58:23.246Z\",updatedAt:\"2025-08-14T07:11:45.651Z\",publishedAt:\"2024-08-23T07:58:54.225Z\",features:[{id:162,title:\"Столовая\",text:\"Цокольный этаж\"},{id:163,title:\"Коворкинг\",text:\"Цокольный этаж\\n\\n2 этаж (в переходе между корпусами Ленина, 51 и Тургенева, 4)\\n\\n4 этаж\"},{id:164,title:\"Интересные места\",text:\"Между корпусом Ленина, 51 и Тургенева, 4 есть переход внутри корпуса\\nактовый зал (3 этаж)\\n\\n\\n\\u003Cbr/>свой внутренний дворик\"}],image:{data:{id:953,documentId:\"m377wmkr89wofgpkev1m5514\",attributes:{name:\"DJI_0143 (1) (1).jpg\",alternativeText:null,caption:null,width:3693,height:2461,formats:{large:{ext:\".jpg\",url:\"/uploads/large_DJI_0143_1_1_ff4f07d783.jpg\",hash:\"large_DJI_0143_1_1_ff4f07d783\",mime:\"image/jpeg\",name:\"large_DJI_0143 (1) (1).jpg\",path:null,size:140.77,width:1000,height:666,sizeInBytes:140766},small:{ext:\".jpg\",url:\"/uploads/small_DJI_0143_1_1_ff4f07d783.jpg\",hash:\"small_DJI_0143_1_1_ff4f07d783\",mime:\"image/jpeg\",name:\"small_DJI_0143 (1) (1).jpg\",path:null,size:39.11,width:500,height:333,sizeInBytes:39106},medium:{ext:\".jpg\",url:\"/uploads/medium_DJI_0143_1_1_ff4f07d783.jpg\",hash:\"medium_DJI_0143_1_1_ff4f07d783\",mime:\"image/jpeg\",name:\"medium_DJI_0143 (1) (1).jpg\",path:null,size:83.18,width:750,height:500,sizeInBytes:83175},thumbnail:{ext:\".jpg\",url:\"/uploads/thumbnail_DJI_0143_1_1_ff4f07d783.jpg\",hash:\"thumbnail_DJI_0143_1_1_ff4f07d783\",mime:\"image/jpeg\",name:\"thumbnail_DJI_0143 (1) (1).jpg\",path:null,size:10.26,width:234,height:156,sizeInBytes:10261}},hash:\"DJI_0143_1_1_ff4f07d783\",ext:\".jpg\",mime:\"image/jpeg\",size:1433.94,url:\"/uploads/DJI_0143_1_1_ff4f07d783.jpg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2024-08-26T04:01:34.891Z\",updatedAt:\"2025-09-30T10:29:30.219Z\",publishedAt:\"2025-09-30T10:39:02.005Z\",focalPoint:null}}}},{id:107,title:\"Точка кипения УрФУ\",address:\"ул. Ленина, 66\",description:\"Это пространство коллективной работы Уральского федерального университета. Здесь обсуждаются самые важные вопросы студенческой жизни, проходят подготовку студенческие отряды, обучаются волонтеры, проводят тренинги, обмениваются опытом тренеры и слушатели.\\nКстати, вы тоже можете провести в Точке свое мероприятие (это бесплатно). \\n*кофе-брейки и офисные товары, необходимые для проведения, организуются силами заявителей мероприятий\\nВКонтакте\",area:\"Втузгородок\",createdAt:\"2024-08-28T06:42:53.119Z\",updatedAt:\"2024-08-29T04:36:57.366Z\",publishedAt:\"2024-08-28T07:00:48.865Z\",features:[],image:{data:{id:867,documentId:\"p5qsfyfkagpb838vhj7qrr6w\",attributes:{name:\"60d3eb4bae5d4594994428-2.jpg\",alternativeText:null,caption:null,width:1686,height:900,formats:{large:{ext:\".jpg\",url:\"/uploads/large_60d3eb4bae5d4594994428_2_0d45612fb4.jpg\",hash:\"large_60d3eb4bae5d4594994428_2_0d45612fb4\",mime:\"image/jpeg\",name:\"large_60d3eb4bae5d4594994428-2.jpg\",path:null,size:85.48,width:1000,height:534,sizeInBytes:85481},small:{ext:\".jpg\",url:\"/uploads/small_60d3eb4bae5d4594994428_2_0d45612fb4.jpg\",hash:\"small_60d3eb4bae5d4594994428_2_0d45612fb4\",mime:\"image/jpeg\",name:\"small_60d3eb4bae5d4594994428-2.jpg\",path:null,size:27.18,width:500,height:267,sizeInBytes:27176},medium:{ext:\".jpg\",url:\"/uploads/medium_60d3eb4bae5d4594994428_2_0d45612fb4.jpg\",hash:\"medium_60d3eb4bae5d4594994428_2_0d45612fb4\",mime:\"image/jpeg\",name:\"medium_60d3eb4bae5d4594994428-2.jpg\",path:null,size:52.93,width:750,height:400,sizeInBytes:52933},thumbnail:{ext:\".jpg\",url:\"/uploads/thumbnail_60d3eb4bae5d4594994428_2_0d45612fb4.jpg\",hash:\"thumbnail_60d3eb4bae5d4594994428_2_0d45612fb4\",mime:\"image/jpeg\",name:\"thumbnail_60d3eb4bae5d4594994428-2.jpg\",path:null,size:8.65,width:245,height:131,sizeInBytes:8653}},hash:\"60d3eb4bae5d4594994428_2_0d45612fb4\",ext:\".jpg\",mime:\"image/jpeg\",size:167.67,url:\"/uploads/60d3eb4bae5d4594994428_2_0d45612fb4.jpg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2024-08-28T07:14:59.769Z\",updatedAt:\"2025-09-30T10:25:42.503Z\",publishedAt:\"2025-09-30T10:39:02.005Z\",focalPoint:null}}}},{id:164,title:\"Инжэк\",address:\"ул. Мира, 19\",description:\"Учебный корпус, в котором обучаются в основном студенты ИнЭУ (правое крыло, если смотреть на ГУК)\",area:\"Втузгородок\",createdAt:\"2024-08-23T06:49:30.441Z\",updatedAt:\"2026-08-10T12:42:04.753Z\",publishedAt:\"2026-08-10T12:42:04.767Z\",features:[{id:209,title:\"Столовая\",text:\"3 этаж\"},{id:210,title:\"Коворкинг\",text:\"5 этаж\"},{id:211,title:\"Интересные места\",text:\"Музейно-выставочный комплекс УрФУ\\nВыход к подземному переходу в ФТИ\"}],image:{data:null}},{id:167,title:\"Корпус ИнЭУ \",address:\"улица 100-летия Уральского университета, 7\",description:null,area:\"Новокольцовский\",createdAt:\"2026-08-10T12:46:39.025Z\",updatedAt:\"2026-08-10T12:46:39.025Z\",publishedAt:\"2026-08-10T12:46:39.035Z\",features:[],image:{data:{id:998,documentId:\"xo755zzh04fm559vco54xxho\",attributes:{name:\"R6__9888 (1).jpg\",alternativeText:null,caption:null,width:4000,height:2667,formats:{large:{ext:\".jpg\",url:\"/uploads/large_R6_9888_1_a1be402528.jpg\",hash:\"large_R6_9888_1_a1be402528\",mime:\"image/jpeg\",name:\"large_R6__9888 (1).jpg\",path:null,size:129.65,width:1000,height:667,sizeInBytes:129649},small:{ext:\".jpg\",url:\"/uploads/small_R6_9888_1_a1be402528.jpg\",hash:\"small_R6_9888_1_a1be402528\",mime:\"image/jpeg\",name:\"small_R6__9888 (1).jpg\",path:null,size:36.61,width:500,height:333,sizeInBytes:36612},medium:{ext:\".jpg\",url:\"/uploads/medium_R6_9888_1_a1be402528.jpg\",hash:\"medium_R6_9888_1_a1be402528\",mime:\"image/jpeg\",name:\"medium_R6__9888 (1).jpg\",path:null,size:74.49,width:750,height:500,sizeInBytes:74486},thumbnail:{ext:\".jpg\",url:\"/uploads/thumbnail_R6_9888_1_a1be402528.jpg\",hash:\"thumbnail_R6_9888_1_a1be402528\",mime:\"image/jpeg\",name:\"thumbnail_R6__9888 (1).jpg\",path:null,size:9.95,width:234,height:156,sizeInBytes:9948}},hash:\"R6_9888_1_a1be402528\",ext:\".jpg\",mime:\"image/jpeg\",size:1724.25,url:\"/uploads/R6_9888_1_a1be402528.jpg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2026-08-10T12:46:33.771Z\",updatedAt:\"2026-08-10T12:46:33.771Z\",publishedAt:\"2026-08-10T12:46:33.771Z\",focalPoint:null}}}},{id:168,title:\"Корпус ИРИТ-РТФ\",address:\"ул. 100-летия Уральского университета, 5\",description:\"Первые пары здесь пройдут осенью 2026 года\",area:\"Новокольцовский\",createdAt:\"2024-08-26T04:20:29.806Z\",updatedAt:\"2026-08-10T12:47:13.960Z\",publishedAt:\"2026-08-10T12:47:13.970Z\",features:[],image:{data:{id:997,documentId:\"ov5mxerfc5mj261un62ifgur\",attributes:{name:\"R6__9929.jpg\",alternativeText:null,caption:null,width:4000,height:2667,formats:{large:{ext:\".jpg\",url:\"/uploads/large_R6_9929_1346a244a3.jpg\",hash:\"large_R6_9929_1346a244a3\",mime:\"image/jpeg\",name:\"large_R6__9929.jpg\",path:null,size:150.38,width:1000,height:667,sizeInBytes:150381},small:{ext:\".jpg\",url:\"/uploads/small_R6_9929_1346a244a3.jpg\",hash:\"small_R6_9929_1346a244a3\",mime:\"image/jpeg\",name:\"small_R6__9929.jpg\",path:null,size:40.95,width:500,height:333,sizeInBytes:40948},medium:{ext:\".jpg\",url:\"/uploads/medium_R6_9929_1346a244a3.jpg\",hash:\"medium_R6_9929_1346a244a3\",mime:\"image/jpeg\",name:\"medium_R6__9929.jpg\",path:null,size:85.45,width:750,height:500,sizeInBytes:85446},thumbnail:{ext:\".jpg\",url:\"/uploads/thumbnail_R6_9929_1346a244a3.jpg\",hash:\"thumbnail_R6_9929_1346a244a3\",mime:\"image/jpeg\",name:\"thumbnail_R6__9929.jpg\",path:null,size:9.87,width:234,height:156,sizeInBytes:9867}},hash:\"R6_9929_1346a244a3\",ext:\".jpg\",mime:\"image/jpeg\",size:1791.09,url:\"/uploads/R6_9929_1346a244a3.jpg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2026-08-10T12:44:57.909Z\",updatedAt:\"2026-08-10T12:44:57.909Z\",publishedAt:\"2026-08-10T12:44:57.909Z\",focalPoint:null}}}}]},\"uses\":{}}]; Promise.all([ import(\"./_app/immutable/entry/start.D8q6vWxA.js\"), import(\"./_app/immutable/entry/app.BGSYbv8p.js\") ]).then(([kit, app]) => { kit.start(app, element, { node_ids: [0, 2, 10], data, form: null, error: null }); }); }"
+    },
+    {
+      "pages": "campus.html: оформление НВК",
+      "value": "100-летия УрГУ, 6/2",
+      "source": "https://privet.urfu.ru/accommodation",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "official_text": "Поселение — Навигатор первокурсника УрФУ (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date(); for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }} k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\"); ym(45814800, \"init\", { clickmap:true, trackLinks:true, accurateTrackBounce:true }); Поселение Рассказываем просто о сложном процессе в формате «книжки с картинками». Искренне верим, что ты со всем справишься! Прохождение медкомиссии Идем в регистратуру Медсанчасти УрФУ (ул. Комсомольская, 59, пн-пт: 8:00 - 18:00) Не забудь следующие документы: паспорт + копия медицинский полис + копия карта медосмотра (старшие курсы) или справка 086-у (первый курс) сертификат прививок флюорография (можно сделать в МСЧ) СНИЛС Оплачиваем стоимость прохождения медицинского обследования в кассе или через сервис pay.urfu.ru Код для оплаты граждан РФ: 394917 - 210₽. квитанцию об оплате предоставить терапевту Проходим осмотр у штатного терапевта Получение документов (договор, ордер, доп. соглашение) Выдача документов осуществляется институтами, они определяют место, время и условия выдачи! Информацию можно найти в группе вашего института Контакты ответственных за поселение институт группа УГИ vk.com/urgi_hostel ИЕНиМ vk.com/poselenie_ien_urfu ИФКСиМП vk.com/poselenifksimp ИНМТ vk.com/poselinmt ИнЭУ vk.com/poselenie_ineu ХТИ vk.com/hti_urfu ИРИТ-РТФ vk.com/irit_rtf ИСА vk.com/isa1924_urfu ФТИ vk.com/profburo_fti ИнФО vk.com/info_urfu УралЭНИН t.me/enin_poselenie УПИШ vk.com/upish_urfu Контакты ответственных за поселение Оплата общежития Ул. 100-летия Уральского университета 6/2 — для проживающих в студенческих корпусах НВК в отделениях Синара-Банка через электронные платежи УрФУ в отделениях Сбербанка через приложение «Сбербанк Онлайн» Код оплаты проживания смотри в нижней части ордера Код оплаты обеспечительного платежа смотри в п. 1 дополнительного соглашения Паспортный стол Необходимо оформить временную регистрацию по месту пребывания. Для этого проходим в паспортный отдел студгородка университета При себе необходимо иметь: паспорт договор найма жилого помещения выписка из протокола заседания комиссии университета (ордер) Сниматься с регистрационного учета по месту жительства не нужно! Разные общежития — разные адреса отделов: Ул. Коминтерна, 11 — для проживающих в студенческих корпусах № 3, 5, 7. 8, 9, 10, 11, 12, 13, 14, 15 Ул. Чапаева, 16 (вход с торца) — для проживающих в студенческих корпусах № 1, 2, 4, 6 Ул. 100-летия Уральского университета 6/2 — НВК№ 1 и НВК№ 2 Оформить проживание Идем в общежитие, указанное в выписке из протокола заседания комиссии университета (ордере) и в договоре найма жилого помещения При себе необходимо иметь: выписку из протокола заседания комиссии университета (ордер) договор найма жилого помещения в 2-х экземплярах (один, с отметкой паспортного стола, передается заведующему общежитием, второй — остается на руках у студента) оформленную медицинскую карту фотографии 3×4 см в количестве 6 штук; также фотографии необходимо иметь в электронном виде на любом носителе, фото обязательно на белом фоне квитанцию об оплате общежития доп. соглашение об обеспечительном платеже доп. соглашение к договору найма жилого помещения в общежитии для проживающих в общежитиях кампуса «Новокольцовский» Срок оформления документов на поселение в общежитие — 7 рабочих дней с момента получения ордера и договора найма жилого помещения в общежитии! По истечении указанного срока договор может быть аннулирован при отсутствии уважительной причины — болезнь, прохождение практики (необходимо сообщить в жилищную комиссию своего института). в этом случае студент утрачивает право на поселение по данным документам Получение электронных пропусков Электронный пропуск выдается в дирекции института (деканате). О начале выдачи пропусков вы узнаете от старосты своей группы В случае, если пропуск не работает, необходимо обратиться в бюро пропусков (И-104). При себе иметь электронный пропуск, студенческий билет и договор найма жилого помещения Допуск в общежитие до момента выдачи пропусков осуществляется по ордеру или договору найма жилого помещения при наличии документа, удостоверяющего личность (студенческий билет или паспорт) Для студентов старших курсов активация электронных пропусков произойдет в автоматическом режиме до 18 сентября Навигационный справочник Общежития пн-чт: 9:00–16:00 пт: 9:00–15:00 обед: 12:00–13:00 Медсанчасть УрФУ ул. Комсомольская, 59 пн-пт: 8:00–18:00 Отделение Банка Синара ул. Мира, 19, ГУК, правое крыло пн-пт: 9:00–19:00, сб: 10:00–16:00 ул. Куйбышева, 75 пн-пт: 9:00–20:00, сб: 10:00–17:00 Паспортные отделы студгородка ул. Коминтерна, 11 — с/к № 3, 5, 7, 8, 9, 10, 11, 12, 13, 14, 15 ул. Чапаева, 16 — с/к № 1, 2, 4, 6 ул. 100-летия Уральского университета 6/2 — корпусах НВК№ 1 и НВК№ 2 пн-чт: 8:30 — 17:00, сб: 8:30 — 16:00 перерыв: 12:30 — 13: 00 Отделение сбербанка ул. Мира, 19, ГУК, 1 этаж пн-пт: 9:00 — 17:00 Главный учебный корпус ул. Мира, 19 Будь на связи с университетом Telegram Оперативные новости в телеграм-канале ВКонтакте Наша группа ВКонтакте с развлекательно-познавательным контентом для истинных студентов УрФУ УрФУ.Учеба Скачайте наше приложение и получите доступ к актуальному расписанию 8-800-100-50-44 Контакт-центр УрФУ на случай самых оперативных вопросов Нашли ошибку на сайте? Пишите — d.s.guzenko@urfu.ru { __sveltekit_9y8842 = { base: new URL(\".\", location).pathname.slice(0, -1), env: {\"PUBLIC_NODE_ENV\":\"production\",\"PUBLIC_DOMAIN_NAME\":\"privet.urfu.ru\"} }; const element = document.currentScript.parentElement; const data = [null,null,null]; Promise.all([ import(\"./_app/immutable/entry/start.D8q6vWxA.js\"), import(\"./_app/immutable/entry/app.BGSYbv8p.js\") ]).then(([kit, app]) => { kit.start(app, element, { node_ids: [0, 2, 6], data, form: null, error: null }); }); }"
+    },
+    {
+      "pages": "about.html: история и руководство",
+      "value": "1920, 2009, 2023; Обабков; rector@urfu.ru",
+      "source": "https://privet.urfu.ru/about",
+      "checked": "2026-10-25T13:36:02.025294+00:00",
+      "official_text": "Об университете — Навигатор первокурсника УрФУ (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)}; m[i].l=1*new Date(); for (var j = 0; j < document.scripts.length; j++) {if (document.scripts[j].src === r) { return; }} k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)}) (window, document, \"script\", \"https://mc.yandex.ru/metrika/tag.js\", \"ym\"); ym(45814800, \"init\", { clickmap:true, trackLinks:true, accurateTrackBounce:true }); Об университете Что такое УрФУ? Уральский федеральный университет — это крупнейший вуз на Урале. Студенчество здесь по-настоящему уникально. Поверь на слово, оно оставит тебе самые теплые воспоминания. Про настоящую крепкую дружбу, про сладкий вкус победы после заветного «отлично» на сложном экзамене, про любовь, про бессоные ночи за написанием курсовых и рефератов, про яркую внеучебную жизнь, про единомышленников, которые будут тебя окружать в университете. Важные даты 1920 Основан Уральский государствнный университет 2009 Создан федеральный вуз УрФУ имени первого Президента России Б. Н. Ельцина на базе УГТУ-УПИ и УрГУ 2023 Открыт новый кампус УрФУ «Центр цифровой трансформации» в Новокольцовском районе Екатеринбурга. В нем расположены три учебных корпуса (ИРИТ-РТФ и ИнЭУ, СУНЦ УрФУ) общежития на 6 тысяч студентов, медицинский центр и спортивные объекты международного уровня. Люди, которых нужно запомнить Обабков Илья Николаевич Ректор ул. Мира, 19, ауд. ГУК-300 rector@urfu.ru Кортов Сергей Всеволодович Первый проректор ул. Мира, 19, ауд. ГУК-300 +7 (343) 375-45-09; 375-93-79 s.v.kortov@urfu.ru Сандлер Даниил Геннадьевич Первый проректор по экономике и стратегическому развитию ул. Мира, 19, ауд. ГУК-313 +7 (343) 375-46-45 d.g.sandler@urfu.ru Тушин Сергей Геннадьевич Проректор по международным связям ул. Мира, 19, ауд. ГУК-208 +7 (343) 374-54-34 s.g.tushin@urfu.ru Мезенцев Павел Валерьевич Проректор по общим вопросам ул. Мира, 19, М-227 +7 (343) 375-95-55 p.v.mezentsev@urfu.ru Обухов Олег Владимирович Проректор по образовательной деятельности ул. Мира, 19, ГУК-301 +7 (343) 375-45-26 o.v.obukhov@urfu.ru Иванов Александр Леонидович Проректор по воспитательной работе ул. Мира, 19, ГУК-216 +7 (343) 375-93-05 a.l.ivanov@urfu.ru Виткин Владимир Владимирович Проректор по цифровой трансформации v.v.vitkin@urfu.ru Обабков Илья Николаевич Ректор ул. Мира, 19, ауд. ГУК-300 rector@urfu.ru Кортов Сергей Всеволодович Первый проректор ул. Мира, 19, ауд. ГУК-300 +7 (343) 375-45-09; 375-93-79 s.v.kortov@urfu.ru Сандлер Даниил Геннадьевич Первый проректор по экономике и стратегическому развитию ул. Мира, 19, ауд. ГУК-313 +7 (343) 375-46-45 d.g.sandler@urfu.ru Тушин Сергей Геннадьевич Проректор по международным связям ул. Мира, 19, ауд. ГУК-208 +7 (343) 374-54-34 s.g.tushin@urfu.ru Мезенцев Павел Валерьевич Проректор по общим вопросам ул. Мира, 19, М-227 +7 (343) 375-95-55 p.v.mezentsev@urfu.ru Обухов Олег Владимирович Проректор по образовательной деятельности ул. Мира, 19, ГУК-301 +7 (343) 375-45-26 o.v.obukhov@urfu.ru Иванов Александр Леонидович Проректор по воспитательной работе ул. Мира, 19, ГУК-216 +7 (343) 375-93-05 a.l.ivanov@urfu.ru Виткин Владимир Владимирович Проректор по цифровой трансформации v.v.vitkin@urfu.ru Институты УрФУ Институт естественных наук и математики Институт новых материалов и технологий Институт радиоэлектроники и информационных технологий — РТФ Институт строительства и архитектуры Институт технологий открытого образования Институт физической культуры, спорта и молодежной политики Институт фундаментального образования Институт экономики и управления Уральская передовая инженерная школа Уральский гуманитарный институт Уральский энергетический институт Физико-технологический институт Химико-технологический институт Наши традиции Гаудеамус — гимн студенчества Впервые вы услышите его на празднике «День первый в Уральском федеральном», а дальше — на множестве событий университета. У нас есть добрая традиция исполнять и слушать его стоя. В этот момент можно почувствовать сопричастность к сообществу, в котором тебя понимают с полуслова и всегда готовы идти навстречу. Погнали учить, чтобы к моменту Выпускного гордо исполнить его всем вместе Gaudeamus igitur, Juvenes dum sumus! Post jucundam juventutem, Post molestam senectutem Nos habebit humus. Nos habebit humus. Ubi sunt qui ante nos In mundo fueri? Vadite ad superos Transite ad inferos, Ubi jam fuere, Ubi jam fuere. Vita nostra brevis est, Brevi finietur; Venit mors velociter, Rapit nos atrociter, Nemini parcetur, Nemini parcetur. Vivat Academia, Vivant professores! Vivat membrum quodlibet, Vivat membra quaelibet Semper sint in flore, Semper sint in flore! Гаудеамус радуйтесь Все студенты вуза Гаудеамус радуйтесь Все студенты вуза Пусть счастливые мгновенья Озаряет свет ученья Вдохновляет муза Вдохновляет муза Vivat Academia, Vivant professores! Эндаумент-фонд УрФУ В университете есть свой фонд по формированию целевого капитала на развитие УрФУ. Многие выпускники поддерживают университет после завершения обучения. Благодаря Эндаумент-фонду УрФУ реализуется множество событий для студентов, в том числе благодаря фонду у университета есть возможность подарить выпускникам мантии и академические шапочки Наставники первокурсников Наставник первокурсника — это специально обученный человек, который помогает адаптироваться в большом вузе и готов ответить на самые разные вопросы. Ежегодно весной Союзы студентов институтов проводят набор среди желающих стать наставниками, организуют для них обучение и образовательный выезд за город летом перед стартом учебного года. Надеемся, что ты уже на связи со своим наставником и помогать в адаптации тебе будет не только этот навигатор, но и твой первый человечек в УрФУ. На языке урфуши паркет — сердце главного корпуса УрФУ Паркет Место притяжения студентов в Главном учебном корпусе (фойе 2 этажа). Здесь можно переждать большак (см. ниже), наслаждаясь архитектурой университета *У нас есть информация, что, если здесь сфотографироваться и опубликовать фото в социальных сетях, все сразу узнают, что ты студент крупнейшего вуза на Урале:) Большак Перемена между 3 и 4 парой, которая длится 40 минут на площадке Ленина, 51 и 45 минут на площадке Мира, 19 *Как правило, в это время студенты отправлятся на обед и очереди не избежать не только в столовых, но и в ближайших кафе около корпусов (ищите наш гайд с местами для обеда в разделе «интересные факты» ) пекусы, пора по парам? Пекус Это ты *Если что — это не обидное слово, оно пропитано любовью и заботой, честно ГУК Главный учебный корпус УрФУ, расположенный по адресу ул. Мира, 19 альма-матер всех студентов УрФУ кодовое название: Куба. возраст: 91 год Куба Учебный корпус УрФУ, расположенный по адресу ул. Куйбышева, 48 *Студенты института естественных наук и математики ласково прозвали его «куба», и у них есть возможность ездить туда хоть КАЖДЫЙ ДЕНЬ ПОС Союз студентов УрФУ, комьюнити активистов, которое задействовано во всех крупных событиях университета и нацелено на защиту прав студентов *Приходи в ГУК-309 — тут тебе помогут с любым вопросом ПБ Профбюро (это союз студентов института) *Тут тебе тоже помогут с любым вопросом. Контакты выше — в разделе «институты» Хвостовка Такая бумажечка, которую нужно взять перед тем, как отправиться на пересдачу *Приятного мало, но если провести обряд на успех перед встречей с преподавателем — все будет хорошо БРС Балльно-рейтинговая система, проще говоря — это ваши баллы, которые превращаются в зачеты и оценочки, подробнее в разделе «про рейтинги» *для подсчета баллов, которых не хватает до зачета, обычно обращаются как минимум к кандидатам математических наук Стипа Стипендия, приходит в конце месяца и примерно в это же время заканчивается:) Вектан, сопромат, термех Векторный анализ, сопротивление материалов, теоретическая механика *Это сокращенные названия ряда предметов, которые необходимо использовать для того, чтобы разговаривать с инженерами на одном языке ну, что, сопромат-то сдал? Деканат Пункт управления департаментом, в котором вы обучаетесь *Вопросы про учебу и расписание — это точно туда Вернуться на главную Будь на связи с университетом Telegram Оперативные новости в телеграм-канале ВКонтакте Наша группа ВКонтакте с развлекательно-познавательным контентом для истинных студентов УрФУ УрФУ.Учеба Скачайте наше приложение и получите доступ к актуальному расписанию 8-800-100-50-44 Контакт-центр УрФУ на случай самых оперативных вопросов Нашли ошибку на сайте? Пишите — d.s.guzenko@urfu.ru { __sveltekit_9y8842 = { base: new URL(\".\", location).pathname.slice(0, -1), env: {\"PUBLIC_NODE_ENV\":\"production\",\"PUBLIC_DOMAIN_NAME\":\"privet.urfu.ru\"} }; const element = document.currentScript.parentElement; const data = [null,null,{\"type\":\"data\",\"data\":{managers:[{name:\"Обабков Илья Николаевич \",position:\"Ректор\",address:\"ул. Мира, 19, ауд. ГУК-300\",phone:null,email:\"rector@urfu.ru\",createdAt:\"2024-08-26T07:42:46.720Z\",updatedAt:\"2026-04-09T10:38:25.159Z\",publishedAt:\"2026-04-09T10:38:25.170Z\",sortOrder:0,image:{data:{id:839,documentId:\"yirnwfjds71q7k2spasyj65i\",attributes:{name:\"6W5A9018.jpg\",alternativeText:null,caption:null,width:1280,height:853,formats:{large:{ext:\".jpg\",url:\"/uploads/large_6_W5_A9018_035bf4c019.jpg\",hash:\"large_6_W5_A9018_035bf4c019\",mime:\"image/jpeg\",name:\"large_6W5A9018.jpg\",path:null,size:30.26,width:1000,height:666,sizeInBytes:30262},small:{ext:\".jpg\",url:\"/uploads/small_6_W5_A9018_035bf4c019.jpg\",hash:\"small_6_W5_A9018_035bf4c019\",mime:\"image/jpeg\",name:\"small_6W5A9018.jpg\",path:null,size:10.6,width:500,height:333,sizeInBytes:10598},medium:{ext:\".jpg\",url:\"/uploads/medium_6_W5_A9018_035bf4c019.jpg\",hash:\"medium_6_W5_A9018_035bf4c019\",mime:\"image/jpeg\",name:\"medium_6W5A9018.jpg\",path:null,size:20.2,width:750,height:500,sizeInBytes:20204},thumbnail:{ext:\".jpg\",url:\"/uploads/thumbnail_6_W5_A9018_035bf4c019.jpg\",hash:\"thumbnail_6_W5_A9018_035bf4c019\",mime:\"image/jpeg\",name:\"thumbnail_6W5A9018.jpg\",path:null,size:4.13,width:234,height:156,sizeInBytes:4134}},hash:\"6_W5_A9018_035bf4c019\",ext:\".jpg\",mime:\"image/jpeg\",size:66.16,url:\"/uploads/6_W5_A9018_035bf4c019.jpg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2024-08-27T10:59:30.053Z\",updatedAt:\"2025-10-01T10:07:27.144Z\",publishedAt:\"2025-09-30T10:39:02.005Z\",focalPoint:null}}}},{name:\"Кортов Сергей Всеволодович \",position:\"Первый проректор\",address:\"ул. Мира, 19, ауд. ГУК-300\",phone:\"+7 (343) 375-45-09; 375-93-79\",email:\"s.v.kortov@urfu.ru\",createdAt:\"2024-08-26T07:48:59.519Z\",updatedAt:\"2026-04-09T10:39:25.410Z\",publishedAt:\"2026-04-09T10:39:25.417Z\",sortOrder:1,image:{data:{id:980,documentId:\"ihz0g1wuzqrmog1det5x4eab\",attributes:{name:\"a0a892836c793241b273f41a4288458c.png\",alternativeText:null,caption:null,width:1280,height:853,formats:{large:{ext:\".png\",url:\"/uploads/large_a0a892836c793241b273f41a4288458c_370cc6d899.png\",hash:\"large_a0a892836c793241b273f41a4288458c_370cc6d899\",mime:\"image/png\",name:\"large_a0a892836c793241b273f41a4288458c.png\",path:null,size:1205.53,width:1000,height:666,sizeInBytes:1205530},small:{ext:\".png\",url:\"/uploads/small_a0a892836c793241b273f41a4288458c_370cc6d899.png\",hash:\"small_a0a892836c793241b273f41a4288458c_370cc6d899\",mime:\"image/png\",name:\"small_a0a892836c793241b273f41a4288458c.png\",path:null,size:312.48,width:500,height:333,sizeInBytes:312484},medium:{ext:\".png\",url:\"/uploads/medium_a0a892836c793241b273f41a4288458c_370cc6d899.png\",hash:\"medium_a0a892836c793241b273f41a4288458c_370cc6d899\",mime:\"image/png\",name:\"medium_a0a892836c793241b273f41a4288458c.png\",path:null,size:683.47,width:750,height:500,sizeInBytes:683466},thumbnail:{ext:\".png\",url:\"/uploads/thumbnail_a0a892836c793241b273f41a4288458c_370cc6d899.png\",hash:\"thumbnail_a0a892836c793241b273f41a4288458c_370cc6d899\",mime:\"image/png\",name:\"thumbnail_a0a892836c793241b273f41a4288458c.png\",path:null,size:81.24,width:234,height:156,sizeInBytes:81235}},hash:\"a0a892836c793241b273f41a4288458c_370cc6d899\",ext:\".png\",mime:\"image/png\",size:387.06,url:\"/uploads/a0a892836c793241b273f41a4288458c_370cc6d899.png\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2024-08-26T07:48:55.535Z\",updatedAt:\"2025-09-30T10:31:24.264Z\",publishedAt:\"2025-09-30T10:39:02.005Z\",focalPoint:null}}}},{name:\"Сандлер Даниил Геннадьевич \",position:\"Первый проректор по экономике и стратегическому развитию\",address:\"ул. Мира, 19, ауд. ГУК-313\",phone:\"+7 (343) 375-46-45\",email:\"d.g.sandler@urfu.ru\",createdAt:\"2024-08-26T07:52:12.712Z\",updatedAt:\"2026-04-09T10:39:58.123Z\",publishedAt:\"2026-04-09T10:39:58.146Z\",sortOrder:2,image:{data:{id:981,documentId:\"i4feybaj5fkg1ssl6isy542z\",attributes:{name:\"fe9d96aee50713944191e1e90e370ef0.jpeg\",alternativeText:null,caption:null,width:4000,height:2667,formats:{large:{ext:\".jpeg\",url:\"/uploads/large_fe9d96aee50713944191e1e90e370ef0_4acb8a4bff.jpeg\",hash:\"large_fe9d96aee50713944191e1e90e370ef0_4acb8a4bff\",mime:\"image/jpeg\",name:\"large_fe9d96aee50713944191e1e90e370ef0.jpeg\",path:null,size:57.3,width:1000,height:667,sizeInBytes:57303},small:{ext:\".jpeg\",url:\"/uploads/small_fe9d96aee50713944191e1e90e370ef0_4acb8a4bff.jpeg\",hash:\"small_fe9d96aee50713944191e1e90e370ef0_4acb8a4bff\",mime:\"image/jpeg\",name:\"small_fe9d96aee50713944191e1e90e370ef0.jpeg\",path:null,size:19.68,width:500,height:333,sizeInBytes:19676},medium:{ext:\".jpeg\",url:\"/uploads/medium_fe9d96aee50713944191e1e90e370ef0_4acb8a4bff.jpeg\",hash:\"medium_fe9d96aee50713944191e1e90e370ef0_4acb8a4bff\",mime:\"image/jpeg\",name:\"medium_fe9d96aee50713944191e1e90e370ef0.jpeg\",path:null,size:36.66,width:750,height:500,sizeInBytes:36661},thumbnail:{ext:\".jpeg\",url:\"/uploads/thumbnail_fe9d96aee50713944191e1e90e370ef0_4acb8a4bff.jpeg\",hash:\"thumbnail_fe9d96aee50713944191e1e90e370ef0_4acb8a4bff\",mime:\"image/jpeg\",name:\"thumbnail_fe9d96aee50713944191e1e90e370ef0.jpeg\",path:null,size:6.67,width:234,height:156,sizeInBytes:6673}},hash:\"fe9d96aee50713944191e1e90e370ef0_4acb8a4bff\",ext:\".jpeg\",mime:\"image/jpeg\",size:1474.37,url:\"/uploads/fe9d96aee50713944191e1e90e370ef0_4acb8a4bff.jpeg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2024-08-26T07:52:09.014Z\",updatedAt:\"2025-09-30T10:31:28.959Z\",publishedAt:\"2025-09-30T10:39:02.005Z\",focalPoint:null}}}},{name:\"Тушин Сергей Геннадьевич \",position:\"Проректор по международным связям\",address:\"ул. Мира, 19, ауд. ГУК-208\",phone:\"+7 (343) 374-54-34\",email:\"s.g.tushin@urfu.ru\",createdAt:\"2024-08-26T07:58:45.803Z\",updatedAt:\"2026-04-09T10:40:04.393Z\",publishedAt:\"2026-04-09T10:40:04.402Z\",sortOrder:9,image:{data:{id:967,documentId:\"d53ogav1vmsfdc5shq0oepis\",attributes:{name:\"image.png\",alternativeText:null,caption:null,width:860,height:899,formats:{small:{ext:\".png\",url:\"/uploads/small_image_192c33de24.png\",hash:\"small_image_192c33de24\",mime:\"image/png\",name:\"small_image.png\",path:null,size:438.1,width:478,height:500,sizeInBytes:438098},medium:{ext:\".png\",url:\"/uploads/medium_image_192c33de24.png\",hash:\"medium_image_192c33de24\",mime:\"image/png\",name:\"medium_image.png\",path:null,size:917.97,width:717,height:750,sizeInBytes:917969},thumbnail:{ext:\".png\",url:\"/uploads/thumbnail_image_192c33de24.png\",hash:\"thumbnail_image_192c33de24\",mime:\"image/png\",name:\"thumbnail_image.png\",path:null,size:56.33,width:149,height:156,sizeInBytes:56333}},hash:\"image_192c33de24\",ext:\".png\",mime:\"image/png\",size:240.5,url:\"/uploads/image_192c33de24.png\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2024-08-26T07:58:38.143Z\",updatedAt:\"2025-09-30T10:30:23.510Z\",publishedAt:\"2025-09-30T10:39:02.005Z\",focalPoint:null}}}},{name:\"Мезенцев Павел Валерьевич \",position:\"Проректор по общим вопросам\",address:\"ул. Мира, 19, М-227\",phone:\"+7 (343) 375-95-55\",email:\"p.v.mezentsev@urfu.ru\",createdAt:\"2024-08-26T08:25:00.812Z\",updatedAt:\"2026-04-09T10:40:10.015Z\",publishedAt:\"2026-04-09T10:40:10.022Z\",sortOrder:10,image:{data:{id:827,documentId:\"kpq7uh6ovm92s0481mzs7b4e\",attributes:{name:\"Мезенцев.jpg\",alternativeText:null,caption:null,width:4000,height:2667,formats:{large:{ext:\".jpg\",url:\"/uploads/large_Mezenczev_d9dee3494a.jpg\",hash:\"large_Mezenczev_d9dee3494a\",mime:\"image/jpeg\",name:\"large_Мезенцев.jpg\",path:null,size:47.05,width:1000,height:667,sizeInBytes:47051},small:{ext:\".jpg\",url:\"/uploads/small_Mezenczev_d9dee3494a.jpg\",hash:\"small_Mezenczev_d9dee3494a\",mime:\"image/jpeg\",name:\"small_Мезенцев.jpg\",path:null,size:15.48,width:500,height:333,sizeInBytes:15479},medium:{ext:\".jpg\",url:\"/uploads/medium_Mezenczev_d9dee3494a.jpg\",hash:\"medium_Mezenczev_d9dee3494a\",mime:\"image/jpeg\",name:\"medium_Мезенцев.jpg\",path:null,size:29.11,width:750,height:500,sizeInBytes:29109},thumbnail:{ext:\".jpg\",url:\"/uploads/thumbnail_Mezenczev_d9dee3494a.jpg\",hash:\"thumbnail_Mezenczev_d9dee3494a\",mime:\"image/jpeg\",name:\"thumbnail_Мезенцев.jpg\",path:null,size:5.24,width:234,height:156,sizeInBytes:5237}},hash:\"Mezenczev_d9dee3494a\",ext:\".jpg\",mime:\"image/jpeg\",size:1085.41,url:\"/uploads/Mezenczev_d9dee3494a.jpg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2025-08-15T12:08:10.459Z\",updatedAt:\"2025-09-30T10:24:21.666Z\",publishedAt:\"2025-09-30T10:39:02.005Z\",focalPoint:null}}}},{name:\"Обухов Олег Владимирович\",position:\"Проректор по образовательной деятельности\",address:\"ул. Мира, 19, ГУК-301\",phone:\"+7 (343) 375-45-26\",email:\"o.v.obukhov@urfu.ru\",createdAt:\"2025-10-28T09:23:23.479Z\",updatedAt:\"2026-04-09T10:40:24.594Z\",publishedAt:\"2026-04-09T10:40:24.600Z\",sortOrder:13,image:{data:{id:994,documentId:\"r3klv8q2vpsthy8oy3ot6tuz\",attributes:{name:\"VIP_8276 (1).png\",alternativeText:null,caption:null,width:4287,height:4483,formats:{large:{ext:\".png\",url:\"/uploads/large_VIP_8276_1_769d9b6ead.png\",hash:\"large_VIP_8276_1_769d9b6ead\",mime:\"image/png\",name:\"large_VIP_8276 (1).png\",path:null,size:1761.1,width:956,height:1000,sizeInBytes:1761101},small:{ext:\".png\",url:\"/uploads/small_VIP_8276_1_769d9b6ead.png\",hash:\"small_VIP_8276_1_769d9b6ead\",mime:\"image/png\",name:\"small_VIP_8276 (1).png\",path:null,size:447.51,width:478,height:500,sizeInBytes:447514},medium:{ext:\".png\",url:\"/uploads/medium_VIP_8276_1_769d9b6ead.png\",hash:\"medium_VIP_8276_1_769d9b6ead\",mime:\"image/png\",name:\"medium_VIP_8276 (1).png\",path:null,size:987.99,width:717,height:750,sizeInBytes:987994},thumbnail:{ext:\".png\",url:\"/uploads/thumbnail_VIP_8276_1_769d9b6ead.png\",hash:\"thumbnail_VIP_8276_1_769d9b6ead\",mime:\"image/png\",name:\"thumbnail_VIP_8276 (1).png\",path:null,size:51.16,width:149,height:156,sizeInBytes:51158}},hash:\"VIP_8276_1_769d9b6ead\",ext:\".png\",mime:\"image/png\",size:8179.36,url:\"/uploads/VIP_8276_1_769d9b6ead.png\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2025-10-28T09:30:32.027Z\",updatedAt:\"2025-10-28T09:30:32.027Z\",publishedAt:\"2025-10-28T09:30:32.027Z\",focalPoint:null}}}},{name:\"Иванов Александр Леонидович\",position:\"Проректор по воспитательной работе \",address:\"ул. Мира, 19, ГУК-216\",phone:\"+7 (343) 375-93-05\",email:\"a.l.ivanov@urfu.ru\",createdAt:\"2025-10-28T09:24:49.607Z\",updatedAt:\"2026-04-09T10:40:33.858Z\",publishedAt:\"2026-04-09T10:40:33.865Z\",sortOrder:14,image:{data:{id:995,documentId:\"dgdbondrsjuc9z8l6djllyrw\",attributes:{name:\"VIP_8394 (1).png\",alternativeText:null,caption:null,width:4058,height:3952,formats:{large:{ext:\".png\",url:\"/uploads/large_VIP_8394_1_e11af660fc.png\",hash:\"large_VIP_8394_1_e11af660fc\",mime:\"image/png\",name:\"large_VIP_8394 (1).png\",path:null,size:1851.28,width:1000,height:974,sizeInBytes:1851276},small:{ext:\".png\",url:\"/uploads/small_VIP_8394_1_e11af660fc.png\",hash:\"small_VIP_8394_1_e11af660fc\",mime:\"image/png\",name:\"small_VIP_8394 (1).png\",path:null,size:471.39,width:500,height:487,sizeInBytes:471393},medium:{ext:\".png\",url:\"/uploads/medium_VIP_8394_1_e11af660fc.png\",hash:\"medium_VIP_8394_1_e11af660fc\",mime:\"image/png\",name:\"medium_VIP_8394 (1).png\",path:null,size:1044.66,width:750,height:730,sizeInBytes:1044657},thumbnail:{ext:\".png\",url:\"/uploads/thumbnail_VIP_8394_1_e11af660fc.png\",hash:\"thumbnail_VIP_8394_1_e11af660fc\",mime:\"image/png\",name:\"thumbnail_VIP_8394 (1).png\",path:null,size:56.41,width:160,height:156,sizeInBytes:56408}},hash:\"VIP_8394_1_e11af660fc\",ext:\".png\",mime:\"image/png\",size:6738.02,url:\"/uploads/VIP_8394_1_e11af660fc.png\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2025-10-28T09:34:54.175Z\",updatedAt:\"2025-10-28T09:34:54.175Z\",publishedAt:\"2025-10-28T09:34:54.175Z\",focalPoint:null}}}},{name:\"Виткин Владимир Владимирович\",position:\"Проректор по цифровой трансформации\",address:null,phone:null,email:\"v.v.vitkin@urfu.ru\",createdAt:\"2026-10-06T09:16:36.619Z\",updatedAt:\"2026-10-06T09:21:55.912Z\",publishedAt:\"2026-10-06T09:21:55.921Z\",sortOrder:15,image:{data:{id:1001,documentId:\"asucymmqte7qu1aglhadv1qe\",attributes:{name:\"виткин.jpg\",alternativeText:null,caption:null,width:2493,height:2493,formats:{large:{ext:\".jpg\",url:\"/uploads/large_vitkin_04eca4c7c2.jpg\",hash:\"large_vitkin_04eca4c7c2\",mime:\"image/jpeg\",name:\"large_виткин.jpg\",path:null,size:77.96,width:1000,height:1000,sizeInBytes:77955},small:{ext:\".jpg\",url:\"/uploads/small_vitkin_04eca4c7c2.jpg\",hash:\"small_vitkin_04eca4c7c2\",mime:\"image/jpeg\",name:\"small_виткин.jpg\",path:null,size:22.34,width:500,height:500,sizeInBytes:22339},medium:{ext:\".jpg\",url:\"/uploads/medium_vitkin_04eca4c7c2.jpg\",hash:\"medium_vitkin_04eca4c7c2\",mime:\"image/jpeg\",name:\"medium_виткин.jpg\",path:null,size:44.74,width:750,height:750,sizeInBytes:44738},thumbnail:{ext:\".jpg\",url:\"/uploads/thumbnail_vitkin_04eca4c7c2.jpg\",hash:\"thumbnail_vitkin_04eca4c7c2\",mime:\"image/jpeg\",name:\"thumbnail_виткин.jpg\",path:null,size:4.09,width:156,height:156,sizeInBytes:4090}},hash:\"vitkin_04eca4c7c2\",ext:\".jpg\",mime:\"image/jpeg\",size:644.82,url:\"/uploads/vitkin_04eca4c7c2.jpg\",previewUrl:null,provider:\"local\",provider_metadata:null,createdAt:\"2026-10-06T09:21:52.812Z\",updatedAt:\"2026-10-06T09:21:52.812Z\",publishedAt:\"2026-10-06T09:21:52.813Z\",focalPoint:null}}}}],institutes:[{id:56,documentId:\"rgkf22sjmnwsjb1g899kf9eq\",attributes:{titleFull:\"Институт естественных наук и математики\"}},{id:43,documentId:\"oep8ctp4fvdivzhn7o50z6pa\",attributes:{titleFull:\"Институт новых материалов и технологий\"}},{id:47,documentId:\"wprzsek8v0otrrg3qmsenqjd\",attributes:{titleFull:\"Институт радиоэлектроники и информационных технологий — РТФ\"}},{id:44,documentId:\"e0azfq999xjs2elqps6hi6d8\",attributes:{titleFull:\"Институт строительства и архитектуры\"}},{id:46,documentId:\"eazzwhm5lnw9lw1lqny9f1nu\",attributes:{titleFull:\"Институт технологий открытого образования\"}},{id:55,documentId:\"x1wx58mcyp66brydo5fjr4wp\",attributes:{titleFull:\"Институт физической культуры, спорта и молодежной политики\"}},{id:45,documentId:\"dcazjn8z5ldjz2o9bouv9c5x\",attributes:{titleFull:\"Институт фундаментального образования\"}},{id:53,documentId:\"ahegmmtcni9lc3vkowuk1ni4\",attributes:{titleFull:\"Институт экономики и управления\"}},{id:50,documentId:\"g46njk2g7zh7nk6aoti6tfd5\",attributes:{titleFull:\"Уральская передовая инженерная школа\"}},{id:51,documentId:\"sp359cr74iv02tyum2kmfogh\",attributes:{titleFull:\"Уральский гуманитарный институт\"}},{id:48,documentId:\"r647rjrqieur0r7sa2x1s0fr\",attributes:{titleFull:\"Уральский энергетический институт\"}},{id:52,documentId:\"xcx2sk6819v74udtw0xlwe98\",attributes:{titleFull:\"Физико-технологический институт\"}},{id:54,documentId:\"fsmqpg49e4yj86jnndy6tftg\",attributes:{titleFull:\"Химико-технологический институт\"}}]},\"uses\":{}}]; Promise.all([ import(\"./_app/immutable/entry/start.D8q6vWxA.js\"), import(\"./_app/immutable/entry/app.BGSYbv8p.js\") ]).then(([kit, app]) => { kit.start(app, element, { node_ids: [0, 2, 5], data, form: null, error: null }); }); }"
+    }
+  ],
+  "limitations": [
+    "Official photographs are publicly accessible, but an explicit redistribution licence has not been established. Source credit is not permission.",
+    "Admissions 2027 dates, dormitory tariffs, historical passing scores and future events are not confirmed and are not invented."
+  ]
+}

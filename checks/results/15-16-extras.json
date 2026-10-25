@@ -1,0 +1,38 @@
+{
+  "checks": [
+    "Map/list/campus selection and all roles at all 14 requested widths",
+    "New campus UI axe at 320px: normal, dark and five enlarged contrast schemes",
+    "Both physics and informatics find the same officially allowed program",
+    "Three tuition arithmetic examples, including discount, checked independently",
+    "ICS: 16 demo entries, 09:00 Ekaterinburg converted to 04:00 UTC",
+    "Nested HTTP 404 has navigation, local CSS and search",
+    "Offline after service-worker installation: all 29 pages, search, filter and dynamic program details"
+  ],
+  "failures": [],
+  "print": [
+    {
+      "page": "Program.html?id=9797",
+      "pages": 3,
+      "outside_text": [],
+      "contains_address": true
+    },
+    {
+      "page": "campus.html",
+      "pages": 3,
+      "outside_text": [],
+      "contains_address": true
+    },
+    {
+      "page": "schedule.html?day=0",
+      "pages": 2,
+      "outside_text": [],
+      "contains_address": true
+    },
+    {
+      "page": "admission.html",
+      "pages": 3,
+      "outside_text": [],
+      "contains_address": true
+    }
+  ]
+}

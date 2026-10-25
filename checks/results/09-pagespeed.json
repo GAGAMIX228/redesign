@@ -1,0 +1,6 @@
+{
+  "url": "https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url=https%3A%2F%2Fgagamix228.github.io%2Fredesign%2F&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo",
+  "status": "unavailable",
+  "reason": "HTTP Error 429: Too Many Requests",
+  "manual_report": "https://pagespeed.web.dev/analysis?url=https%3A%2F%2Fgagamix228.github.io%2Fredesign%2F&form_factor=mobile"
+}

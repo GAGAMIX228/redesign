@@ -1,0 +1,1868 @@
+{
+  "axe_version": "4.14.0",
+  "runs": 310,
+  "results": [
+    {
+      "state": "375/404.html/top",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "375/404.html/middle",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "375/Institute.html/top",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "375/Institute.html/middle",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "375/Program.html/top",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "375/Program.html/middle",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "375/about.html/top",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "375/about.html/middle",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "375/account.html/top",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "375/account.html/middle",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "375/admission.html/top",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "375/admission.html/middle",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "375/article.html/top",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "375/article.html/middle",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "375/campus.html/top",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "375/campus.html/middle",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "375/catalog.html/top",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "375/catalog.html/middle",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "375/concept.html/top",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "375/concept.html/middle",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "375/contacts.html/top",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "375/contacts.html/middle",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "375/events.html/top",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "375/events.html/middle",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "375/index.html/top",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "375/index.html/middle",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "375/institutes.html/top",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "375/institutes.html/middle",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "375/international.html/top",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "375/international.html/middle",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "375/life.html/top",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "375/life.html/middle",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "375/news.html/top",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "375/news.html/middle",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "375/partners.html/top",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "375/partners.html/middle",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "375/quiz.html/top",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "375/quiz.html/middle",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "375/room.html/top",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "375/room.html/middle",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "375/schedule.html/top",
+      "overflow": false,
+      "passes": 26,
+      "violations": []
+    },
+    {
+      "state": "375/schedule.html/middle",
+      "overflow": false,
+      "passes": 26,
+      "violations": []
+    },
+    {
+      "state": "375/science.html/top",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "375/science.html/middle",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "375/search.html/top",
+      "overflow": false,
+      "passes": 26,
+      "violations": []
+    },
+    {
+      "state": "375/search.html/middle",
+      "overflow": false,
+      "passes": 26,
+      "violations": []
+    },
+    {
+      "state": "375/student.html/top",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "375/student.html/middle",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "375/style.html/top",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "375/style.html/middle",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "375/en/admission.html/top",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "375/en/admission.html/middle",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "375/en/catalog.html/top",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "375/en/catalog.html/middle",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "375/en/contacts.html/top",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "375/en/contacts.html/middle",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "375/en/index.html/top",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "375/en/index.html/middle",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "1366/404.html/top",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "1366/404.html/middle",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "1366/Institute.html/top",
+      "overflow": false,
+      "passes": 24,
+      "violations": []
+    },
+    {
+      "state": "1366/Institute.html/middle",
+      "overflow": false,
+      "passes": 24,
+      "violations": []
+    },
+    {
+      "state": "1366/Program.html/top",
+      "overflow": false,
+      "passes": 31,
+      "violations": []
+    },
+    {
+      "state": "1366/Program.html/middle",
+      "overflow": false,
+      "passes": 31,
+      "violations": []
+    },
+    {
+      "state": "1366/about.html/top",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "1366/about.html/middle",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "1366/account.html/top",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "1366/account.html/middle",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "1366/admission.html/top",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "1366/admission.html/middle",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "1366/article.html/top",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "1366/article.html/middle",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "1366/campus.html/top",
+      "overflow": false,
+      "passes": 30,
+      "violations": []
+    },
+    {
+      "state": "1366/campus.html/middle",
+      "overflow": false,
+      "passes": 30,
+      "violations": []
+    },
+    {
+      "state": "1366/catalog.html/top",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "1366/catalog.html/middle",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "1366/concept.html/top",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "1366/concept.html/middle",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "1366/contacts.html/top",
+      "overflow": false,
+      "passes": 24,
+      "violations": []
+    },
+    {
+      "state": "1366/contacts.html/middle",
+      "overflow": false,
+      "passes": 24,
+      "violations": []
+    },
+    {
+      "state": "1366/events.html/top",
+      "overflow": false,
+      "passes": 25,
+      "violations": []
+    },
+    {
+      "state": "1366/events.html/middle",
+      "overflow": false,
+      "passes": 25,
+      "violations": []
+    },
+    {
+      "state": "1366/index.html/top",
+      "overflow": false,
+      "passes": 30,
+      "violations": []
+    },
+    {
+      "state": "1366/index.html/middle",
+      "overflow": false,
+      "passes": 30,
+      "violations": []
+    },
+    {
+      "state": "1366/institutes.html/top",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "1366/institutes.html/middle",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "1366/international.html/top",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "1366/international.html/middle",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "1366/life.html/top",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "1366/life.html/middle",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "1366/news.html/top",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "1366/news.html/middle",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "1366/partners.html/top",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "1366/partners.html/middle",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "1366/quiz.html/top",
+      "overflow": false,
+      "passes": 24,
+      "violations": []
+    },
+    {
+      "state": "1366/quiz.html/middle",
+      "overflow": false,
+      "passes": 24,
+      "violations": []
+    },
+    {
+      "state": "1366/room.html/top",
+      "overflow": false,
+      "passes": 24,
+      "violations": []
+    },
+    {
+      "state": "1366/room.html/middle",
+      "overflow": false,
+      "passes": 24,
+      "violations": []
+    },
+    {
+      "state": "1366/schedule.html/top",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "1366/schedule.html/middle",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "1366/science.html/top",
+      "overflow": false,
+      "passes": 25,
+      "violations": []
+    },
+    {
+      "state": "1366/science.html/middle",
+      "overflow": false,
+      "passes": 25,
+      "violations": []
+    },
+    {
+      "state": "1366/search.html/top",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "1366/search.html/middle",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "1366/student.html/top",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "1366/student.html/middle",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "1366/style.html/top",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "1366/style.html/middle",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "1366/en/admission.html/top",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "1366/en/admission.html/middle",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "1366/en/catalog.html/top",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "1366/en/catalog.html/middle",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "1366/en/contacts.html/top",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "1366/en/contacts.html/middle",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "1366/en/index.html/top",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "1366/en/index.html/middle",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "bw/404.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "bw/Institute.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "bw/Program.html",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "bw/about.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "bw/account.html",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "bw/admission.html",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "bw/article.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "bw/campus.html",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "bw/catalog.html",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "bw/concept.html",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "bw/contacts.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "bw/events.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "bw/index.html",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "bw/institutes.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "bw/international.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "bw/life.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "bw/news.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "bw/partners.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "bw/quiz.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "bw/room.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "bw/schedule.html",
+      "overflow": false,
+      "passes": 26,
+      "violations": []
+    },
+    {
+      "state": "bw/science.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "bw/search.html",
+      "overflow": false,
+      "passes": 26,
+      "violations": []
+    },
+    {
+      "state": "bw/student.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "bw/style.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "bw/en/admission.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "bw/en/catalog.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "bw/en/contacts.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "bw/en/index.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "wb/404.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "wb/Institute.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "wb/Program.html",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "wb/about.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "wb/account.html",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "wb/admission.html",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "wb/article.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "wb/campus.html",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "wb/catalog.html",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "wb/concept.html",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "wb/contacts.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "wb/events.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "wb/index.html",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "wb/institutes.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "wb/international.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "wb/life.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "wb/news.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "wb/partners.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "wb/quiz.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "wb/room.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "wb/schedule.html",
+      "overflow": false,
+      "passes": 26,
+      "violations": []
+    },
+    {
+      "state": "wb/science.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "wb/search.html",
+      "overflow": false,
+      "passes": 26,
+      "violations": []
+    },
+    {
+      "state": "wb/student.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "wb/style.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "wb/en/admission.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "wb/en/catalog.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "wb/en/contacts.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "wb/en/index.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "blue/404.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "blue/Institute.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "blue/Program.html",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "blue/about.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "blue/account.html",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "blue/admission.html",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "blue/article.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "blue/campus.html",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "blue/catalog.html",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "blue/concept.html",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "blue/contacts.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "blue/events.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "blue/index.html",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "blue/institutes.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "blue/international.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "blue/life.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "blue/news.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "blue/partners.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "blue/quiz.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "blue/room.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "blue/schedule.html",
+      "overflow": false,
+      "passes": 26,
+      "violations": []
+    },
+    {
+      "state": "blue/science.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "blue/search.html",
+      "overflow": false,
+      "passes": 26,
+      "violations": []
+    },
+    {
+      "state": "blue/student.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "blue/style.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "blue/en/admission.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "blue/en/catalog.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "blue/en/contacts.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "blue/en/index.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "beige/404.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "beige/Institute.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "beige/Program.html",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "beige/about.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "beige/account.html",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "beige/admission.html",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "beige/article.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "beige/campus.html",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "beige/catalog.html",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "beige/concept.html",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "beige/contacts.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "beige/events.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "beige/index.html",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "beige/institutes.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "beige/international.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "beige/life.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "beige/news.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "beige/partners.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "beige/quiz.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "beige/room.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "beige/schedule.html",
+      "overflow": false,
+      "passes": 26,
+      "violations": []
+    },
+    {
+      "state": "beige/science.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "beige/search.html",
+      "overflow": false,
+      "passes": 26,
+      "violations": []
+    },
+    {
+      "state": "beige/student.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "beige/style.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "beige/en/admission.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "beige/en/catalog.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "beige/en/contacts.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "beige/en/index.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "green/404.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "green/Institute.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "green/Program.html",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "green/about.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "green/account.html",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "green/admission.html",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "green/article.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "green/campus.html",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "green/catalog.html",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "green/concept.html",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "green/contacts.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "green/events.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "green/index.html",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "green/institutes.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "green/international.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "green/life.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "green/news.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "green/partners.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "green/quiz.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "green/room.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "green/schedule.html",
+      "overflow": false,
+      "passes": 26,
+      "violations": []
+    },
+    {
+      "state": "green/science.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "green/search.html",
+      "overflow": false,
+      "passes": 26,
+      "violations": []
+    },
+    {
+      "state": "green/student.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "green/style.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "green/en/admission.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "green/en/catalog.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "green/en/contacts.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "green/en/index.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "dark/404.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "dark/Institute.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "dark/Program.html",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "dark/about.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "dark/account.html",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "dark/admission.html",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "dark/article.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "dark/campus.html",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "dark/catalog.html",
+      "overflow": false,
+      "passes": 27,
+      "violations": []
+    },
+    {
+      "state": "dark/concept.html",
+      "overflow": false,
+      "passes": 29,
+      "violations": []
+    },
+    {
+      "state": "dark/contacts.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "dark/events.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "dark/index.html",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "dark/institutes.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "dark/international.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "dark/life.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "dark/news.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "dark/partners.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "dark/quiz.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "dark/room.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "dark/schedule.html",
+      "overflow": false,
+      "passes": 26,
+      "violations": []
+    },
+    {
+      "state": "dark/science.html",
+      "overflow": false,
+      "passes": 23,
+      "violations": []
+    },
+    {
+      "state": "dark/search.html",
+      "overflow": false,
+      "passes": 26,
+      "violations": []
+    },
+    {
+      "state": "dark/student.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "dark/style.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "dark/en/admission.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "dark/en/catalog.html",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "dark/en/contacts.html",
+      "overflow": false,
+      "passes": 20,
+      "violations": []
+    },
+    {
+      "state": "dark/en/index.html",
+      "overflow": false,
+      "passes": 21,
+      "violations": []
+    },
+    {
+      "state": "menu-open/375",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "a11y-dialog/375",
+      "overflow": false,
+      "passes": 15,
+      "violations": []
+    },
+    {
+      "state": "comparison/375",
+      "overflow": false,
+      "passes": 19,
+      "violations": []
+    },
+    {
+      "state": "empty-catalog/375",
+      "overflow": false,
+      "passes": 25,
+      "violations": []
+    },
+    {
+      "state": "invalid-number/375",
+      "overflow": false,
+      "passes": 25,
+      "violations": []
+    },
+    {
+      "state": "search-results/375",
+      "overflow": false,
+      "passes": 26,
+      "violations": []
+    },
+    {
+      "state": "quiz-step-1/375",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "quiz-step-2/375",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "quiz-step-3/375",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "quiz-result/375",
+      "overflow": false,
+      "passes": 22,
+      "violations": []
+    },
+    {
+      "state": "menu-open/1366",
+      "overflow": false,
+      "passes": 30,
+      "violations": []
+    },
+    {
+      "state": "a11y-dialog/1366",
+      "overflow": false,
+      "passes": 16,
+      "violations": []
+    },
+    {
+      "state": "comparison/1366",
+      "overflow": false,
+      "passes": 19,
+      "violations": []
+    },
+    {
+      "state": "empty-catalog/1366",
+      "overflow": false,
+      "passes": 26,
+      "violations": []
+    },
+    {
+      "state": "invalid-number/1366",
+      "overflow": false,
+      "passes": 26,
+      "violations": []
+    },
+    {
+      "state": "search-results/1366",
+      "overflow": false,
+      "passes": 28,
+      "violations": []
+    },
+    {
+      "state": "quiz-step-1/1366",
+      "overflow": false,
+      "passes": 24,
+      "violations": []
+    },
+    {
+      "state": "quiz-step-2/1366",
+      "overflow": false,
+      "passes": 24,
+      "violations": []
+    },
+    {
+      "state": "quiz-step-3/1366",
+      "overflow": false,
+      "passes": 24,
+      "violations": []
+    },
+    {
+      "state": "quiz-result/1366",
+      "overflow": false,
+      "passes": 24,
+      "violations": []
+    }
+  ],
+  "violations": 0,
+  "overflow_states": []
+}

@@ -9,6 +9,16 @@ from io import BytesIO
 import argparse,gzip
 R=Path(__file__).resolve().parents[1]
 class Handler(SimpleHTTPRequestHandler):
+ def translate_path(self,path):
+  # Also reproduce the repository prefix used by GitHub Pages, including 404 assets.
+  if path.startswith('/redesign/'):path=path[len('/redesign'):]
+  return super().translate_path(path)
+ def send_error(self,code,message=None,explain=None):
+  if code==404:
+   data=(R/'404.html').read_bytes();self.send_response(404);self.send_header('Content-type','text/html; charset=utf-8');self.send_header('Content-Length',str(len(data)));self.end_headers()
+   if self.command!='HEAD':self.wfile.write(data)
+   return
+  super().send_error(code,message,explain)
  def send_head(self):
   p=Path(self.translate_path(self.path))
   if p.is_dir():p=p/'index.html'

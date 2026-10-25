@@ -1,0 +1,1025 @@
+{
+  "pairs": [
+    {
+      "foreground": "#f6f5ed",
+      "background": "#172321",
+      "required": "4.5:1",
+      "ratio": 14.78,
+      "passed": true,
+      "examples": [
+        "404.html ['.container > span:nth-child(1)']",
+        "404.html ['.container > span:nth-child(2)']",
+        "404.html ['.btn[href=\"index.html\"]']"
+      ]
+    },
+    {
+      "foreground": "#172321",
+      "background": "#f6f5ed",
+      "required": "3:1",
+      "ratio": 14.78,
+      "passed": true,
+      "examples": [
+        "404.html ['.brand-link > .brand > .brand-name']",
+        "Institute.html ['.brand-link > .brand > .brand-name']",
+        "Program.html ['.brand-link > .brand > .brand-name']"
+      ]
+    },
+    {
+      "foreground": "#172321",
+      "background": "#f6f5ed",
+      "required": "4.5:1",
+      "ratio": 14.78,
+      "passed": true,
+      "examples": [
+        "404.html ['.brand-link > .brand > .brand-name > .brand-caption']",
+        "404.html ['details:nth-child(1) > summary']",
+        "404.html ['details:nth-child(2) > summary']"
+      ]
+    },
+    {
+      "foreground": "#d5f64b",
+      "background": "#172321",
+      "required": "3:1",
+      "ratio": 13.17,
+      "passed": true,
+      "examples": [
+        "404.html ['.footer-signature']",
+        "Institute.html ['.footer-signature']",
+        "Program.html ['.footer-signature']"
+      ]
+    },
+    {
+      "foreground": "#f6f5ed",
+      "background": "#172321",
+      "required": "3:1",
+      "ratio": 14.78,
+      "passed": true,
+      "examples": [
+        "404.html ['div:nth-child(1) > .brand > .brand-name']",
+        "Institute.html ['div:nth-child(1) > .brand > .brand-name']",
+        "Program.html ['div:nth-child(1) > .brand > .brand-name']"
+      ]
+    },
+    {
+      "foreground": "#c9cbc4",
+      "background": "#172321",
+      "required": "4.5:1",
+      "ratio": 9.87,
+      "passed": true,
+      "examples": [
+        "404.html ['small']",
+        "404.html ['a[href$=\"privet.urfu.ru/\"]']",
+        "Institute.html ['div:nth-child(1) > small']"
+      ]
+    },
+    {
+      "foreground": "#d5f64b",
+      "background": "#172321",
+      "required": "4.5:1",
+      "ratio": 13.17,
+      "passed": true,
+      "examples": [
+        "404.html ['.footer-links:nth-child(2) > h3']",
+        "404.html ['.footer-links:nth-child(3) > h3']",
+        "404.html ['.footer-links:nth-child(4) > h3']"
+      ]
+    },
+    {
+      "foreground": "#b3b6b0",
+      "background": "#172321",
+      "required": "4.5:1",
+      "ratio": 7.88,
+      "passed": true,
+      "examples": [
+        "404.html ['.small']",
+        "404.html ['a[href$=\"sveden/\"]']",
+        "404.html ['a[target=\"_blank\"][rel=\"noopener\"]:nth-child(2)']"
+      ]
+    },
+    {
+      "foreground": "#172321",
+      "background": "#fffef9",
+      "required": "4.5:1",
+      "ratio": 16.01,
+      "passed": true,
+      "examples": [
+        "Institute.html ['.notice']",
+        "Institute.html ['.notice > a[href$=\"contacts.html\"]']",
+        "Program.html ['.stat:nth-child(1) > span']"
+      ]
+    },
+    {
+      "foreground": "#172321",
+      "background": "#fffef9",
+      "required": "3:1",
+      "ratio": 16.01,
+      "passed": true,
+      "examples": [
+        "Institute.html ['a[href=\"Program.html?id=9826\"]']",
+        "Institute.html ['a[href=\"Program.html?id=9845\"]']",
+        "Program.html ['.stat:nth-child(1) > strong']"
+      ]
+    },
+    {
+      "foreground": "#454f4c",
+      "background": "#fffef9",
+      "required": "4.5:1",
+      "ratio": 8.39,
+      "passed": true,
+      "examples": [
+        "Program.html ['.stat:nth-child(1) > .source']",
+        "Program.html ['.stat:nth-child(1) > .source > a[target=\"_blank\"][rel=\"noopener\"]']",
+        "Program.html ['.stat:nth-child(2) > .source']"
+      ]
+    },
+    {
+      "foreground": "#444d4a",
+      "background": "#f6f5ed",
+      "required": "4.5:1",
+      "ratio": 7.98,
+      "passed": true,
+      "examples": [
+        "Program.html ['.source:nth-child(7)']",
+        "Program.html ['.source:nth-child(7) > a[target=\"_blank\"][rel=\"noopener\"]']",
+        "Program.html ['.source:nth-child(10)']"
+      ]
+    },
+    {
+      "foreground": "#56625b",
+      "background": "#fffef9",
+      "required": "4.5:1",
+      "ratio": 6.31,
+      "passed": true,
+      "examples": [
+        "Program.html ['article[data-id=\"9985\"] > .institute']",
+        "Program.html ['article[data-id=\"9995\"] > .institute']",
+        "Program.html ['article[data-id=\"10330\"] > .institute']"
+      ]
+    },
+    {
+      "foreground": "#07584b",
+      "background": "#f6f5ed",
+      "required": "3:1",
+      "ratio": 7.66,
+      "passed": true,
+      "examples": [
+        "about.html ['article:nth-child(1) > strong']",
+        "about.html ['article:nth-child(2) > strong']",
+        "about.html ['article:nth-child(3) > strong']"
+      ]
+    },
+    {
+      "foreground": "#172321",
+      "background": "#d5f64b",
+      "required": "4.5:1",
+      "ratio": 13.17,
+      "passed": true,
+      "examples": [
+        "account.html ['.demo-badge']",
+        "account.html ['.bg-lime.card > .tag']",
+        "account.html ['.bg-lime.card > p']"
+      ]
+    },
+    {
+      "foreground": "#172321",
+      "background": "#d5f64b",
+      "required": "3:1",
+      "ratio": 13.17,
+      "passed": true,
+      "examples": [
+        "account.html ['.bg-lime.card > h3']",
+        "account.html ['.bg-lime.card > strong']",
+        "campus.html ['.card > h3']"
+      ]
+    },
+    {
+      "foreground": "#172321",
+      "background": "#f3a6ca",
+      "required": "4.5:1",
+      "ratio": 8.56,
+      "passed": true,
+      "examples": [
+        "account.html ['.bg-pink > .tag']",
+        "account.html ['.bg-pink > p']",
+        "index.html ['a[data-motion-order=\"3\"] > .shortcut-top > .shortcut-number']"
+      ]
+    },
+    {
+      "foreground": "#172321",
+      "background": "#f3a6ca",
+      "required": "3:1",
+      "ratio": 8.56,
+      "passed": true,
+      "examples": [
+        "account.html ['.bg-pink > h3']",
+        "account.html ['.bg-pink > strong']",
+        "index.html ['.ticker[aria-hidden=\"true\"]:nth-child(4) > .ticker-track > span:nth-child(1)']"
+      ]
+    },
+    {
+      "foreground": "#172321",
+      "background": "#b9a9ed",
+      "required": "3:1",
+      "ratio": 7.66,
+      "passed": true,
+      "examples": [
+        "account.html ['.bg-purple > h3']",
+        "index.html ['a[data-motion-order=\"6\"] > h3']",
+        "index.html ['h2[data-motion-order=\"7\"]']"
+      ]
+    },
+    {
+      "foreground": "#172321",
+      "background": "#b9a9ed",
+      "required": "4.5:1",
+      "ratio": 7.66,
+      "passed": true,
+      "examples": [
+        "account.html ['.check:nth-child(1)']",
+        "account.html ['.check:nth-child(2)']",
+        "account.html ['.check:nth-child(3)']"
+      ]
+    },
+    {
+      "foreground": "#56625b",
+      "background": "#f6f5ed",
+      "required": "4.5:1",
+      "ratio": 5.82,
+      "passed": true,
+      "examples": [
+        "article.html ['.muted']",
+        "catalog.html ['#catalog-explanation']",
+        "index.html ['figcaption']"
+      ]
+    },
+    {
+      "foreground": "#3d4d29",
+      "background": "#d5f64b",
+      "required": "4.5:1",
+      "ratio": 7.46,
+      "passed": true,
+      "examples": [
+        "campus.html ['.card > small']",
+        "campus.html ['.card > small > a[target=\"_blank\"][rel=\"noopener\"]']",
+        "index.html ['.help-actions > .source']"
+      ]
+    },
+    {
+      "foreground": "#172321",
+      "background": "#ff956d",
+      "required": "4.5:1",
+      "ratio": 7.52,
+      "passed": true,
+      "examples": [
+        "index.html ['.bg-orange > .shortcut-top > .shortcut-number']",
+        "life.html ['.bg-orange > p']",
+        "life.html ['a[href$=\"events.html\"]']"
+      ]
+    },
+    {
+      "foreground": "#172321",
+      "background": "#ff956d",
+      "required": "3:1",
+      "ratio": 7.52,
+      "passed": true,
+      "examples": [
+        "index.html ['.bg-orange > h3']",
+        "life.html ['.bg-orange > h3']",
+        "dark ['.bg-orange > h3']"
+      ]
+    },
+    {
+      "foreground": "#f6f5ed",
+      "background": "#07584b",
+      "required": "4.5:1",
+      "ratio": 7.66,
+      "passed": true,
+      "examples": [
+        "index.html ['.bg-green > .shortcut-top > .shortcut-number']",
+        "style.html ['.bg-green.logo-demo > .brand > .brand-name > .brand-caption']",
+        "style.html ['.bg-green.swatch']"
+      ]
+    },
+    {
+      "foreground": "#f6f5ed",
+      "background": "#07584b",
+      "required": "3:1",
+      "ratio": 7.66,
+      "passed": true,
+      "examples": [
+        "index.html ['.ticker-alt > .ticker-track > span:nth-child(1)']",
+        "style.html ['.bg-green.logo-demo > .brand > .brand-name']",
+        "dark ['.ticker-alt > .ticker-track > span:nth-child(1)']"
+      ]
+    },
+    {
+      "foreground": "#433d43",
+      "background": "#f3a6ca",
+      "required": "4.5:1",
+      "ratio": 5.59,
+      "passed": true,
+      "examples": [
+        "room.html ['.card > .source']",
+        "room.html ['.card > .source > a[target=\"_blank\"][rel=\"noopener\"]']"
+      ]
+    },
+    {
+      "foreground": "#f6f5ed",
+      "background": "#0c1714",
+      "required": "4.5:1",
+      "ratio": 16.72,
+      "passed": true,
+      "examples": [
+        "dark ['.topline > .container > span:nth-child(1)']",
+        "dark ['.container > span:nth-child(2)']",
+        "dark ['.story-science > .feature-copy > .eyebrow']"
+      ]
+    },
+    {
+      "foreground": "#f6f5ed",
+      "background": "#064538",
+      "required": "4.5:1",
+      "ratio": 10.02,
+      "passed": true,
+      "examples": [
+        "dark ['.score-copy > .eyebrow']",
+        "dark ['.score-copy > .lead']",
+        "dark ['a[href$=\"admission.html#ege\"]']"
+      ]
+    },
+    {
+      "foreground": "#f6f5ed",
+      "background": "#064538",
+      "required": "3:1",
+      "ratio": 10.02,
+      "passed": true,
+      "examples": [
+        "dark ['.score-copy > h2']"
+      ]
+    },
+    {
+      "foreground": "#d5f64b",
+      "background": "#064538",
+      "required": "3:1",
+      "ratio": 8.93,
+      "passed": true,
+      "examples": [
+        "dark ['.score-copy > h2 > span:nth-child(4)']"
+      ]
+    },
+    {
+      "foreground": "#f6f5ed",
+      "background": "#22332e",
+      "required": "4.5:1",
+      "ratio": 12.14,
+      "passed": true,
+      "examples": [
+        "dark ['.calc-eyebrow']",
+        "dark ['label[for=\"home-score\"]']",
+        "dark ['.calc-panel > .field > span']"
+      ]
+    },
+    {
+      "foreground": "#f6f5ed",
+      "background": "#22332e",
+      "required": "3:1",
+      "ratio": 12.14,
+      "passed": true,
+      "examples": [
+        "dark ['#score-value']"
+      ]
+    },
+    {
+      "foreground": "#b4c2b9",
+      "background": "#22332e",
+      "required": "4.5:1",
+      "ratio": 7.18,
+      "passed": true,
+      "examples": [
+        "dark ['.range-ends > span:nth-child(1)']",
+        "dark ['.range-ends > span:nth-child(2)']"
+      ]
+    },
+    {
+      "foreground": "#cccec7",
+      "background": "#22332e",
+      "required": "4.5:1",
+      "ratio": 8.36,
+      "passed": true,
+      "examples": [
+        "dark ['.source:nth-child(8)']",
+        "dark ['.source:nth-child(9)']",
+        "dark ['.source:nth-child(9) > a[target=\"_blank\"][rel=\"noopener\"]']"
+      ]
+    },
+    {
+      "foreground": "#f6f5ed",
+      "background": "#0c1714",
+      "required": "3:1",
+      "ratio": 16.72,
+      "passed": true,
+      "examples": [
+        "dark ['.story-science > .feature-copy > h2']",
+        "dark ['div:nth-child(1) > .brand > .brand-name']"
+      ]
+    },
+    {
+      "foreground": "#d5f64b",
+      "background": "#0c1714",
+      "required": "3:1",
+      "ratio": 14.9,
+      "passed": true,
+      "examples": [
+        "dark ['.feature-accent']",
+        "dark ['.footer-signature']"
+      ]
+    },
+    {
+      "foreground": "#b4c2b9",
+      "background": "#172321",
+      "required": "4.5:1",
+      "ratio": 8.74,
+      "passed": true,
+      "examples": [
+        "dark ['figcaption']",
+        "dark ['article[data-motion-order=\"13\"] > time']",
+        "dark ['article[data-motion-order=\"14\"] > time']"
+      ]
+    },
+    {
+      "foreground": "#c7c9c2",
+      "background": "#0c1714",
+      "required": "4.5:1",
+      "ratio": 10.93,
+      "passed": true,
+      "examples": [
+        "dark ['.footer-top > div:nth-child(1) > .source']",
+        "dark ['div:nth-child(1) > .source > a[href$=\"privet.urfu.ru/\"][target=\"_blank\"][rel=\"noopener\"]']"
+      ]
+    },
+    {
+      "foreground": "#d5f64b",
+      "background": "#0c1714",
+      "required": "4.5:1",
+      "ratio": 14.9,
+      "passed": true,
+      "examples": [
+        "dark ['.footer-links:nth-child(2) > h3']",
+        "dark ['.footer-links:nth-child(3) > h3']",
+        "dark ['.footer-links:nth-child(4) > h3']"
+      ]
+    },
+    {
+      "foreground": "#b0b2ac",
+      "background": "#0c1714",
+      "required": "4.5:1",
+      "ratio": 8.54,
+      "passed": true,
+      "examples": [
+        "dark ['.container > .small']",
+        "dark ['a[href$=\"sveden/\"]']",
+        "dark ['a[target=\"_blank\"][rel=\"noopener\"]:nth-child(2)']"
+      ]
+    },
+    {
+      "foreground": "#f6f5ed",
+      "background": "#f3a6ca",
+      "required": "3:1",
+      "ratio": 1.72,
+      "passed": false,
+      "examples": [
+        "dark ['.ticker[aria-hidden=\"true\"]:nth-child(4) > .ticker-track > span:nth-child(1)']"
+      ]
+    },
+    {
+      "foreground": "#000000",
+      "background": "#ffffff",
+      "required": "4.5:1",
+      "ratio": 21,
+      "passed": true,
+      "examples": [
+        "bw ['.topline > .container > span:nth-child(1)']",
+        "bw ['.container > span:nth-child(2)']",
+        "bw ['.brand-link > .brand > .brand-name > .brand-caption']"
+      ]
+    },
+    {
+      "foreground": "#000000",
+      "background": "#ffffff",
+      "required": "3:1",
+      "ratio": 21,
+      "passed": true,
+      "examples": [
+        "bw ['.headline-line:nth-child(1)']",
+        "bw ['.headline-line:nth-child(2)']",
+        "bw ['h2[data-motion-order=\"0\"]']"
+      ]
+    },
+    {
+      "foreground": "#ffffff",
+      "background": "#000000",
+      "required": "4.5:1",
+      "ratio": 21,
+      "passed": true,
+      "examples": [
+        "wb ['.topline > .container > span:nth-child(1)']",
+        "wb ['.container > span:nth-child(2)']",
+        "wb ['.brand-link > .brand > .brand-name > .brand-caption']"
+      ]
+    },
+    {
+      "foreground": "#ffffff",
+      "background": "#000000",
+      "required": "3:1",
+      "ratio": 21,
+      "passed": true,
+      "examples": [
+        "wb ['.headline-line:nth-child(1)']",
+        "wb ['.headline-line:nth-child(2)']",
+        "wb ['h2[data-motion-order=\"0\"]']"
+      ]
+    },
+    {
+      "foreground": "#102b55",
+      "background": "#cde8ff",
+      "required": "4.5:1",
+      "ratio": 11.06,
+      "passed": true,
+      "examples": [
+        "blue ['.topline > .container > span:nth-child(1)']",
+        "blue ['.container > span:nth-child(2)']",
+        "blue ['.brand-link > .brand > .brand-name > .brand-caption']"
+      ]
+    },
+    {
+      "foreground": "#102b55",
+      "background": "#cde8ff",
+      "required": "3:1",
+      "ratio": 11.06,
+      "passed": true,
+      "examples": [
+        "blue ['.headline-line:nth-child(1)']",
+        "blue ['.headline-line:nth-child(2)']",
+        "blue ['h2[data-motion-order=\"0\"]']"
+      ]
+    },
+    {
+      "foreground": "#4c2e18",
+      "background": "#f4e8c9",
+      "required": "4.5:1",
+      "ratio": 10.07,
+      "passed": true,
+      "examples": [
+        "beige ['.topline > .container > span:nth-child(1)']",
+        "beige ['.container > span:nth-child(2)']",
+        "beige ['.brand-link > .brand > .brand-name > .brand-caption']"
+      ]
+    },
+    {
+      "foreground": "#4c2e18",
+      "background": "#f4e8c9",
+      "required": "3:1",
+      "ratio": 10.07,
+      "passed": true,
+      "examples": [
+        "beige ['.headline-line:nth-child(1)']",
+        "beige ['.headline-line:nth-child(2)']",
+        "beige ['h2[data-motion-order=\"0\"]']"
+      ]
+    },
+    {
+      "foreground": "#b8ed82",
+      "background": "#241b10",
+      "required": "4.5:1",
+      "ratio": 12.48,
+      "passed": true,
+      "examples": [
+        "green ['.topline > .container > span:nth-child(1)']",
+        "green ['.container > span:nth-child(2)']",
+        "green ['.brand-link > .brand > .brand-name > .brand-caption']"
+      ]
+    },
+    {
+      "foreground": "#b8ed82",
+      "background": "#241b10",
+      "required": "3:1",
+      "ratio": 12.48,
+      "passed": true,
+      "examples": [
+        "green ['.headline-line:nth-child(1)']",
+        "green ['.headline-line:nth-child(2)']",
+        "green ['h2[data-motion-order=\"0\"]']"
+      ]
+    }
+  ],
+  "incomplete": [
+    {
+      "state": "404.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "state": "Institute.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 33
+        }
+      ]
+    },
+    {
+      "state": "Program.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 30
+        }
+      ]
+    },
+    {
+      "state": "about.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "state": "account.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "state": "admission.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "state": "article.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "state": "campus.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "state": "catalog.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 936
+        }
+      ]
+    },
+    {
+      "state": "concept.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "state": "contacts.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "state": "events.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "state": "index.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "state": "institutes.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "state": "international.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "state": "life.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "state": "news.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 8
+        }
+      ]
+    },
+    {
+      "state": "partners.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "state": "quiz.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "state": "room.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "state": "schedule.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 7
+        }
+      ]
+    },
+    {
+      "state": "science.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "state": "search.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "state": "student.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "state": "style.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "state": "en/admission.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "state": "en/catalog.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 516
+        }
+      ]
+    },
+    {
+      "state": "en/contacts.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "state": "en/index.html",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 5
+        }
+      ]
+    },
+    {
+      "state": "dark",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "state": "bw",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "state": "wb",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "state": "blue",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "state": "beige",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "state": "green",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 11
+        }
+      ]
+    },
+    {
+      "state": "hover .hero-actions .btn",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "state": "focus .hero-actions .btn",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "state": "hover [data-role=student]",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "state": "focus [data-role=student]",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "state": "hover .shortcut",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "state": "focus .shortcut",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "state": "hover .text-link",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "state": "focus .text-link",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 32
+        }
+      ]
+    },
+    {
+      "state": "hover .footer-tools button",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 31
+        }
+      ]
+    },
+    {
+      "state": "focus .footer-tools button",
+      "items": [
+        {
+          "id": "color-contrast",
+          "count": 31
+        }
+      ]
+    }
+  ],
+  "limitations": [
+    "Text over images and anti-aliased glyph pixels cannot be fully certified by computed-color extraction. Two-color focus rings use dark ink and cream."
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "404.html",
+    "Institute.html",
+    "Program.html",
+    "about.html",
+    "account.html",
+    "admission.html",
+    "article.html",
+    "campus.html",
+    "catalog.html",
+    "concept.html",
+    "contacts.html",
+    "events.html",
+    "index.html",
+    "institutes.html",
+    "international.html",
+    "life.html",
+    "news.html",
+    "partners.html",
+    "quiz.html",
+    "room.html",
+    "schedule.html",
+    "science.html",
+    "search.html",
+    "student.html",
+    "style.html",
+    "en/admission.html",
+    "en/catalog.html",
+    "en/contacts.html",
+    "en/index.html"
+  ],
+  "console": [],
+  "failed_responses": [],
+  "external_requests": [],
+  "fallback_failures": [],
+  "file": {
+    "status": "blocked_by_browser_policy",
+    "reason": "Page.goto: net::ERR_BLOCKED_BY_ADMINISTRATOR at file:///workspace/redesign/index.html"
+  },
+  "cookies": []
+}

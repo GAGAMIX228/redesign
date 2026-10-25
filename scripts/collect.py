@@ -5,6 +5,7 @@ Run: python scripts/collect.py. Never infer absent prices or passing scores.
 import argparse, concurrent.futures, datetime, gzip, json, re, urllib.request
 from pathlib import Path
 from lxml import html
+from catalogue_normalize import normalize
 ROOT=Path(__file__).resolve().parents[1]
 BASE='https://programs.edu.urfu.ru'
 URL=BASE+'/ru/?year=2026&lvl=bac&lvl=spc&frm=ft'
@@ -62,7 +63,7 @@ def collect():
   except Exception as e:p['error']=str(e);print('ERROR',p['id'],e,flush=True)
   return p
  with concurrent.futures.ThreadPoolExecutor(max_workers=5) as ex:items=list(ex.map(detail,items))
- payload={'collected':STAMP,'source':URL,'year':2026,'programs':items,'institutes':[text(x) for x in doc.xpath('//select[@name="inst"]/option[@value!=""]')]}
+ payload={'collected':STAMP,'source':URL,'year':2026,'programs':normalize(items),'institutes':[text(x) for x in doc.xpath('//select[@name="inst"]/option[@value!=""]')]}
  (ROOT/'data/programs.js').write_text('window.URFU_DATA = '+json.dumps(payload,ensure_ascii=False,separators=(',',':'))+';\n')
  (ROOT/'data/catalogue.json').write_text(json.dumps(payload,ensure_ascii=False,indent=2))
  print('Saved',len(items),'programs')

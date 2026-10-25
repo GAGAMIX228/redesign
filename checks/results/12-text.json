@@ -1,0 +1,578 @@
+{
+  "dictionary_words": 1712,
+  "dictionary_candidates": [
+    {
+      "word": "волонтёрство",
+      "pages": [
+        "index.html"
+      ]
+    },
+    {
+      "word": "втузгородок",
+      "pages": [
+        "campus.html"
+      ]
+    },
+    {
+      "word": "демо",
+      "pages": [
+        "account.html",
+        "concept.html",
+        "contacts.html",
+        "student.html"
+      ]
+    },
+    {
+      "word": "коуровской",
+      "pages": [
+        "science.html"
+      ]
+    },
+    {
+      "word": "межбуквенный",
+      "pages": [
+        "404.html",
+        "Institute.html",
+        "Program.html",
+        "about.html",
+        "account.html",
+        "admission.html",
+        "article.html",
+        "campus.html",
+        "catalog.html",
+        "concept.html",
+        "contacts.html",
+        "events.html",
+        "index.html",
+        "institutes.html",
+        "international.html",
+        "life.html",
+        "news.html",
+        "partners.html",
+        "quiz.html",
+        "room.html",
+        "schedule.html",
+        "science.html",
+        "search.html",
+        "student.html",
+        "style.html"
+      ]
+    },
+    {
+      "word": "набойченко",
+      "pages": [
+        "life.html"
+      ]
+    },
+    {
+      "word": "новокольцовский",
+      "pages": [
+        "campus.html"
+      ]
+    },
+    {
+      "word": "новокольцовском",
+      "pages": [
+        "about.html"
+      ]
+    },
+    {
+      "word": "однотонной",
+      "pages": [
+        "style.html"
+      ]
+    },
+    {
+      "word": "радиофак",
+      "pages": [
+        "campus.html"
+      ]
+    },
+    {
+      "word": "радиофаке",
+      "pages": [
+        "room.html"
+      ]
+    },
+    {
+      "word": "специалитет",
+      "pages": [
+        "catalog.html",
+        "institutes.html"
+      ]
+    },
+    {
+      "word": "специалитета",
+      "pages": [
+        "catalog.html",
+        "student.html"
+      ]
+    },
+    {
+      "word": "стипуха",
+      "pages": [
+        "search.html"
+      ]
+    },
+    {
+      "word": "тёмно",
+      "pages": [
+        "404.html",
+        "Institute.html",
+        "Program.html",
+        "about.html",
+        "account.html",
+        "admission.html",
+        "article.html",
+        "campus.html",
+        "catalog.html",
+        "concept.html",
+        "contacts.html",
+        "events.html",
+        "index.html",
+        "institutes.html",
+        "international.html",
+        "life.html",
+        "news.html",
+        "partners.html",
+        "quiz.html",
+        "room.html",
+        "schedule.html",
+        "science.html",
+        "search.html",
+        "student.html",
+        "style.html"
+      ]
+    },
+    {
+      "word": "химико",
+      "pages": [
+        "catalog.html",
+        "institutes.html"
+      ]
+    },
+    {
+      "word": "чёрно",
+      "pages": [
+        "404.html",
+        "Institute.html",
+        "Program.html",
+        "about.html",
+        "account.html",
+        "admission.html",
+        "article.html",
+        "campus.html",
+        "catalog.html",
+        "concept.html",
+        "contacts.html",
+        "events.html",
+        "index.html",
+        "institutes.html",
+        "international.html",
+        "life.html",
+        "news.html",
+        "partners.html",
+        "quiz.html",
+        "room.html",
+        "schedule.html",
+        "science.html",
+        "search.html",
+        "student.html",
+        "style.html"
+      ]
+    }
+  ],
+  "plurals": [
+    {
+      "n": 1,
+      "word": "программа",
+      "expected": "программа",
+      "passed": true
+    },
+    {
+      "n": 2,
+      "word": "программы",
+      "expected": "программы",
+      "passed": true
+    },
+    {
+      "n": 3,
+      "word": "программы",
+      "expected": "программы",
+      "passed": true
+    },
+    {
+      "n": 4,
+      "word": "программы",
+      "expected": "программы",
+      "passed": true
+    },
+    {
+      "n": 5,
+      "word": "программ",
+      "expected": "программ",
+      "passed": true
+    },
+    {
+      "n": 11,
+      "word": "программ",
+      "expected": "программ",
+      "passed": true
+    },
+    {
+      "n": 12,
+      "word": "программ",
+      "expected": "программ",
+      "passed": true
+    },
+    {
+      "n": 14,
+      "word": "программ",
+      "expected": "программ",
+      "passed": true
+    },
+    {
+      "n": 21,
+      "word": "программа",
+      "expected": "программа",
+      "passed": true
+    },
+    {
+      "n": 22,
+      "word": "программы",
+      "expected": "программы",
+      "passed": true
+    },
+    {
+      "n": 25,
+      "word": "программ",
+      "expected": "программ",
+      "passed": true
+    },
+    {
+      "n": 101,
+      "word": "программа",
+      "expected": "программа",
+      "passed": true
+    },
+    {
+      "n": 111,
+      "word": "программ",
+      "expected": "программ",
+      "passed": true
+    },
+    {
+      "n": 1,
+      "word": "место",
+      "expected": "место",
+      "passed": true
+    },
+    {
+      "n": 2,
+      "word": "места",
+      "expected": "места",
+      "passed": true
+    },
+    {
+      "n": 3,
+      "word": "места",
+      "expected": "места",
+      "passed": true
+    },
+    {
+      "n": 4,
+      "word": "места",
+      "expected": "места",
+      "passed": true
+    },
+    {
+      "n": 5,
+      "word": "мест",
+      "expected": "мест",
+      "passed": true
+    },
+    {
+      "n": 11,
+      "word": "мест",
+      "expected": "мест",
+      "passed": true
+    },
+    {
+      "n": 12,
+      "word": "мест",
+      "expected": "мест",
+      "passed": true
+    },
+    {
+      "n": 14,
+      "word": "мест",
+      "expected": "мест",
+      "passed": true
+    },
+    {
+      "n": 21,
+      "word": "место",
+      "expected": "место",
+      "passed": true
+    },
+    {
+      "n": 22,
+      "word": "места",
+      "expected": "места",
+      "passed": true
+    },
+    {
+      "n": 25,
+      "word": "мест",
+      "expected": "мест",
+      "passed": true
+    },
+    {
+      "n": 101,
+      "word": "место",
+      "expected": "место",
+      "passed": true
+    },
+    {
+      "n": 111,
+      "word": "мест",
+      "expected": "мест",
+      "passed": true
+    },
+    {
+      "n": 1,
+      "word": "день",
+      "expected": "день",
+      "passed": true
+    },
+    {
+      "n": 2,
+      "word": "дня",
+      "expected": "дня",
+      "passed": true
+    },
+    {
+      "n": 3,
+      "word": "дня",
+      "expected": "дня",
+      "passed": true
+    },
+    {
+      "n": 4,
+      "word": "дня",
+      "expected": "дня",
+      "passed": true
+    },
+    {
+      "n": 5,
+      "word": "дней",
+      "expected": "дней",
+      "passed": true
+    },
+    {
+      "n": 11,
+      "word": "дней",
+      "expected": "дней",
+      "passed": true
+    },
+    {
+      "n": 12,
+      "word": "дней",
+      "expected": "дней",
+      "passed": true
+    },
+    {
+      "n": 14,
+      "word": "дней",
+      "expected": "дней",
+      "passed": true
+    },
+    {
+      "n": 21,
+      "word": "день",
+      "expected": "день",
+      "passed": true
+    },
+    {
+      "n": 22,
+      "word": "дня",
+      "expected": "дня",
+      "passed": true
+    },
+    {
+      "n": 25,
+      "word": "дней",
+      "expected": "дней",
+      "passed": true
+    },
+    {
+      "n": 101,
+      "word": "день",
+      "expected": "день",
+      "passed": true
+    },
+    {
+      "n": 111,
+      "word": "дней",
+      "expected": "дней",
+      "passed": true
+    },
+    {
+      "n": 1,
+      "word": "балл",
+      "expected": "балл",
+      "passed": true
+    },
+    {
+      "n": 2,
+      "word": "балла",
+      "expected": "балла",
+      "passed": true
+    },
+    {
+      "n": 3,
+      "word": "балла",
+      "expected": "балла",
+      "passed": true
+    },
+    {
+      "n": 4,
+      "word": "балла",
+      "expected": "балла",
+      "passed": true
+    },
+    {
+      "n": 5,
+      "word": "баллов",
+      "expected": "баллов",
+      "passed": true
+    },
+    {
+      "n": 11,
+      "word": "баллов",
+      "expected": "баллов",
+      "passed": true
+    },
+    {
+      "n": 12,
+      "word": "баллов",
+      "expected": "баллов",
+      "passed": true
+    },
+    {
+      "n": 14,
+      "word": "баллов",
+      "expected": "баллов",
+      "passed": true
+    },
+    {
+      "n": 21,
+      "word": "балл",
+      "expected": "балл",
+      "passed": true
+    },
+    {
+      "n": 22,
+      "word": "балла",
+      "expected": "балла",
+      "passed": true
+    },
+    {
+      "n": 25,
+      "word": "баллов",
+      "expected": "баллов",
+      "passed": true
+    },
+    {
+      "n": 101,
+      "word": "балл",
+      "expected": "балл",
+      "passed": true
+    },
+    {
+      "n": 111,
+      "word": "баллов",
+      "expected": "баллов",
+      "passed": true
+    },
+    {
+      "n": 1,
+      "word": "год",
+      "expected": "год",
+      "passed": true
+    },
+    {
+      "n": 2,
+      "word": "года",
+      "expected": "года",
+      "passed": true
+    },
+    {
+      "n": 3,
+      "word": "года",
+      "expected": "года",
+      "passed": true
+    },
+    {
+      "n": 4,
+      "word": "года",
+      "expected": "года",
+      "passed": true
+    },
+    {
+      "n": 5,
+      "word": "лет",
+      "expected": "лет",
+      "passed": true
+    },
+    {
+      "n": 11,
+      "word": "лет",
+      "expected": "лет",
+      "passed": true
+    },
+    {
+      "n": 12,
+      "word": "лет",
+      "expected": "лет",
+      "passed": true
+    },
+    {
+      "n": 14,
+      "word": "лет",
+      "expected": "лет",
+      "passed": true
+    },
+    {
+      "n": 21,
+      "word": "год",
+      "expected": "год",
+      "passed": true
+    },
+    {
+      "n": 22,
+      "word": "года",
+      "expected": "года",
+      "passed": true
+    },
+    {
+      "n": 25,
+      "word": "лет",
+      "expected": "лет",
+      "passed": true
+    },
+    {
+      "n": 101,
+      "word": "год",
+      "expected": "год",
+      "passed": true
+    },
+    {
+      "n": 111,
+      "word": "лет",
+      "expected": "лет",
+      "passed": true
+    }
+  ],
+  "note": "Dictionary candidates include proper names, colloquialisms and technical terms; they require editorial review, not automatic replacement. Official program titles retain their source spelling."
+}
