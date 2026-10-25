@@ -4,7 +4,7 @@
 
 Приложение работает без сборки и зависимостей. Инструменты ниже нужны только для аудита.
 
-1. Python 3.12+, Node 22+ и Chromium. Для Python: `pip install playwright lxml pillow pymupdf numpy pymorphy3 qrcode`.
+1. Python 3.12+, Node 22+ и Chromium. Для Python: `pip install playwright lxml pillow pymupdf numpy pymorphy3 qrcode zxing-cpp`.
 2. Запустить из корня: `python scripts/serve.py --port 4175`.
 3. По умолчанию проверки открывают локальный сервер на порту 4175. Другой адрес задаётся `CHECK_BASE`. Путь к Chromium — `CHECK_CHROMIUM`; стандартный путь облачной среды `/usr/bin/chromium`. Firefox/WebKit — `python -m playwright install firefox webkit`, с системными библиотеками Playwright.
 4. Для Lighthouse: `npm install --prefix /tmp/urfu-audit lighthouse`. При другой установке задать полный путь `LIGHTHOUSE_CLI` к `lighthouse/cli/index.js`. Время и метрики относятся к конкретному запуску и серверу.
@@ -13,6 +13,7 @@
 
 ```sh
 python checks/data_audit.py
+python checks/affiliations.py
 python checks/dates.py
 python checks/links.py
 python checks/browser.py buttons
@@ -34,6 +35,7 @@ python checks/extras.py
 python scripts/presentation.py
 python scripts/video.py
 python checks/materials.py
+python checks/qr.py
 python checks/report.py
 ```
 

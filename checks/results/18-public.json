@@ -1,0 +1,984 @@
+{
+  "status": "passed",
+  "url": "https://gagamix228.github.io/redesign/",
+  "https_checked": 161,
+  "results": [
+    {
+      "path": "404.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13871
+    },
+    {
+      "path": "Institute.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13622
+    },
+    {
+      "path": "Institute.html?id=0",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13622
+    },
+    {
+      "path": "Institute.html?id=1",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13622
+    },
+    {
+      "path": "Institute.html?id=10",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13622
+    },
+    {
+      "path": "Institute.html?id=11",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13622
+    },
+    {
+      "path": "Institute.html?id=12",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13622
+    },
+    {
+      "path": "Institute.html?id=13",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13622
+    },
+    {
+      "path": "Institute.html?id=14",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13622
+    },
+    {
+      "path": "Institute.html?id=15",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13622
+    },
+    {
+      "path": "Institute.html?id=16",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13622
+    },
+    {
+      "path": "Institute.html?id=2",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13622
+    },
+    {
+      "path": "Institute.html?id=3",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13622
+    },
+    {
+      "path": "Institute.html?id=4",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13622
+    },
+    {
+      "path": "Institute.html?id=5",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13622
+    },
+    {
+      "path": "Institute.html?id=6",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13622
+    },
+    {
+      "path": "Institute.html?id=7",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13622
+    },
+    {
+      "path": "Institute.html?id=8",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13622
+    },
+    {
+      "path": "Institute.html?id=9",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13622
+    },
+    {
+      "path": "Program.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10002",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10022",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10034",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10036",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10037",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10071",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10075",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10076",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10077",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10078",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10102",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10117",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10139",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10144",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10145",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10146",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10147",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10149",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10150",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10151",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10152",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10153",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10154",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10156",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10157",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10158",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10184",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10202",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10203",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10205",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10210",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10216",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10220",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10221",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10255",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10292",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10293",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10308",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10312",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10315",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10319",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10320",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10329",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10330",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10331",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10339",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10340",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10344",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10345",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10362",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10375",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10591",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10600",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10601",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10620",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10680",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10694",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10696",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10708",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10712",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=10758",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9795",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9796",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9797",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9804",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9806",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9812",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9813",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9814",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9826",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9833",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9843",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9845",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9846",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9864",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9866",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9869",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9874",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9875",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9897",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9898",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9899",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9901",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9918",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9921",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9936",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9955",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9959",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9968",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9979",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9980",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9981",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9985",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9986",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9987",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9988",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9989",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "Program.html?id=9995",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15442
+    },
+    {
+      "path": "about.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 16451
+    },
+    {
+      "path": "account.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 16287
+    },
+    {
+      "path": "admission.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 20797
+    },
+    {
+      "path": "article.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13582
+    },
+    {
+      "path": "article.html?id=1",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13582
+    },
+    {
+      "path": "article.html?id=2",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13582
+    },
+    {
+      "path": "article.html?id=3",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13582
+    },
+    {
+      "path": "article.html?id=4",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13582
+    },
+    {
+      "path": "article.html?id=5",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13582
+    },
+    {
+      "path": "article.html?id=6",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 13582
+    },
+    {
+      "path": "assets/apple-touch-icon.png",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 4882
+    },
+    {
+      "path": "assets/site-qr.png",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 1468
+    },
+    {
+      "path": "campus.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 32500
+    },
+    {
+      "path": "catalog.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 118449
+    },
+    {
+      "path": "catalog.html?area=IT+%D0%B8+%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 118449
+    },
+    {
+      "path": "catalog.html?my=220",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 118449
+    },
+    {
+      "path": "concept.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 21910
+    },
+    {
+      "path": "contacts.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 19898
+    },
+    {
+      "path": "css/evolution.css",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 48913
+    },
+    {
+      "path": "css/site.css",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 38905
+    },
+    {
+      "path": "en/admission.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 11189
+    },
+    {
+      "path": "en/catalog.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 62151
+    },
+    {
+      "path": "en/contacts.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 11022
+    },
+    {
+      "path": "en/index.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 11930
+    },
+    {
+      "path": "events.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 14990
+    },
+    {
+      "path": "index.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 37654
+    },
+    {
+      "path": "institutes.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 19853
+    },
+    {
+      "path": "international.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 14003
+    },
+    {
+      "path": "js/app.js",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 54115
+    },
+    {
+      "path": "js/motion.js",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 7801
+    },
+    {
+      "path": "life.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15970
+    },
+    {
+      "path": "news.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 17833
+    },
+    {
+      "path": "partners.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15817
+    },
+    {
+      "path": "quiz.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 17037
+    },
+    {
+      "path": "robots.txt",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 91
+    },
+    {
+      "path": "room.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15046
+    },
+    {
+      "path": "schedule.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 15440
+    },
+    {
+      "path": "science.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 16653
+    },
+    {
+      "path": "search.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 14737
+    },
+    {
+      "path": "sitemap.xml",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 11775
+    },
+    {
+      "path": "student.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 19675
+    },
+    {
+      "path": "style.html",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 17033
+    },
+    {
+      "path": "sw.js",
+      "status": 200,
+      "matches_local": true,
+      "bytes": 5102
+    }
+  ],
+  "failures": [],
+  "nested_404": {
+    "path": "not-a-page/deep/missing.html",
+    "status": 404,
+    "matches_local": true,
+    "bytes": 13871
+  },
+  "direct_browser": {
+    "status": "unavailable",
+    "reason": "Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://gagamix228.github.io/redesign/"
+  }
+}
