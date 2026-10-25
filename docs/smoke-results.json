@@ -1,0 +1,9 @@
+{
+  "javascript_errors": [],
+  "horizontal_overflow": [],
+  "external_requests": [],
+  "functional_checks": "passed",
+  "limitations": [
+    "The managed Chromium policy blocks file:// navigation; direct file opening could not be browser-tested here."
+  ]
+}

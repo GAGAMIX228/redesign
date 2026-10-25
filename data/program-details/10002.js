@@ -1,0 +1,1 @@
+window.URFU_DETAILS = {"10002":{"description":[],"head":"Дворецкая Александра Юрьевна"}};

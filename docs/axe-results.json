@@ -1,0 +1,147 @@
+[
+  {
+    "page": "404.html",
+    "violations": [],
+    "passes": 20
+  },
+  {
+    "page": "Institute.html",
+    "violations": [],
+    "passes": 23
+  },
+  {
+    "page": "Program.html",
+    "violations": [],
+    "passes": 29
+  },
+  {
+    "page": "about.html",
+    "violations": [],
+    "passes": 20
+  },
+  {
+    "page": "account.html",
+    "violations": [],
+    "passes": 27
+  },
+  {
+    "page": "admission.html",
+    "violations": [],
+    "passes": 27
+  },
+  {
+    "page": "article.html",
+    "violations": [],
+    "passes": 20
+  },
+  {
+    "page": "campus.html",
+    "violations": [],
+    "passes": 30
+  },
+  {
+    "page": "catalog.html",
+    "violations": [],
+    "passes": 27
+  },
+  {
+    "page": "concept.html",
+    "violations": [],
+    "passes": 28
+  },
+  {
+    "page": "contacts.html",
+    "violations": [],
+    "passes": 23
+  },
+  {
+    "page": "events.html",
+    "violations": [],
+    "passes": 23
+  },
+  {
+    "page": "index.html",
+    "violations": [],
+    "passes": 28
+  },
+  {
+    "page": "institutes.html",
+    "violations": [],
+    "passes": 21
+  },
+  {
+    "page": "international.html",
+    "violations": [],
+    "passes": 20
+  },
+  {
+    "page": "life.html",
+    "violations": [],
+    "passes": 21
+  },
+  {
+    "page": "news.html",
+    "violations": [],
+    "passes": 20
+  },
+  {
+    "page": "partners.html",
+    "violations": [],
+    "passes": 20
+  },
+  {
+    "page": "quiz.html",
+    "violations": [],
+    "passes": 22
+  },
+  {
+    "page": "room.html",
+    "violations": [],
+    "passes": 22
+  },
+  {
+    "page": "schedule.html",
+    "violations": [],
+    "passes": 26
+  },
+  {
+    "page": "science.html",
+    "violations": [],
+    "passes": 23
+  },
+  {
+    "page": "search.html",
+    "violations": [],
+    "passes": 26
+  },
+  {
+    "page": "student.html",
+    "violations": [],
+    "passes": 21
+  },
+  {
+    "page": "style.html",
+    "violations": [],
+    "passes": 20
+  },
+  {
+    "page": "en/admission.html",
+    "violations": [],
+    "passes": 22
+  },
+  {
+    "page": "en/catalog.html",
+    "violations": [],
+    "passes": 22
+  },
+  {
+    "page": "en/contacts.html",
+    "violations": [],
+    "passes": 20
+  },
+  {
+    "page": "en/index.html",
+    "violations": [],
+    "passes": 21
+  }
+]

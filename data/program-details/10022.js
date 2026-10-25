@@ -1,0 +1,1 @@
+window.URFU_DETAILS = {"10022":{"description":[],"head":"Андреева Татьяна Николаевна"}};
