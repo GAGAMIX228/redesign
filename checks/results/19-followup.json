@@ -1,0 +1,108 @@
+{
+  "status": "passed",
+  "sharing": [
+    {
+      "width": 375,
+      "clipboard": "denied",
+      "url_and_selection": true,
+      "tab_keeps_background_inert": true,
+      "escape_restores_focus": true,
+      "backdrop_closes": true
+    },
+    {
+      "width": 375,
+      "clipboard": "missing",
+      "url_and_selection": true,
+      "tab_keeps_background_inert": true,
+      "escape_restores_focus": true,
+      "backdrop_closes": true
+    },
+    {
+      "width": 375,
+      "clipboard": "allowed",
+      "copied_exact_url": true
+    },
+    {
+      "width": 375,
+      "nested_dialog_focus_and_scroll": true,
+      "repeated_open_restores_original_overflow": true
+    },
+    {
+      "width": 1440,
+      "clipboard": "denied",
+      "url_and_selection": true,
+      "tab_keeps_background_inert": true,
+      "escape_restores_focus": true,
+      "backdrop_closes": true
+    },
+    {
+      "width": 1440,
+      "clipboard": "missing",
+      "url_and_selection": true,
+      "tab_keeps_background_inert": true,
+      "escape_restores_focus": true,
+      "backdrop_closes": true
+    },
+    {
+      "width": 1440,
+      "clipboard": "allowed",
+      "copied_exact_url": true
+    },
+    {
+      "width": 1440,
+      "nested_dialog_focus_and_scroll": true,
+      "repeated_open_restores_original_overflow": true
+    }
+  ],
+  "axe": [
+    {
+      "width": 375,
+      "clipboard": "denied",
+      "passes": 16,
+      "violations": []
+    },
+    {
+      "width": 375,
+      "clipboard": "missing",
+      "passes": 16,
+      "violations": []
+    },
+    {
+      "width": 1440,
+      "clipboard": "denied",
+      "passes": 16,
+      "violations": []
+    },
+    {
+      "width": 1440,
+      "clipboard": "missing",
+      "passes": 16,
+      "violations": []
+    }
+  ],
+  "animation_tracking": [
+    {
+      "filter_changes": 120,
+      "observers": [
+        {
+          "observed": 1,
+          "detached": 0
+        },
+        {
+          "observed": 7,
+          "detached": 0
+        }
+      ],
+      "detached_targets": 0
+    },
+    {
+      "motion_pause_and_reduced_motion": true,
+      "content_still_visible": true
+    }
+  ],
+  "shared_dialog_pages": 29,
+  "console_errors": [],
+  "limitations": [
+    "Clipboard outcomes are simulated to exercise permission fallbacks; no clipboard permission or browser policy was bypassed. Direct file navigation remains unverified."
+  ]
+}

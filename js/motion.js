@@ -35,18 +35,19 @@
   for(const e of entries)e.target.classList.toggle('is-in-view',e.isIntersecting);
  },{rootMargin:'60px 0px',threshold:0});sections.forEach(s=>sectionObserver.observe(s));
  // Entrances are brief position changes. Content is never transparent or withheld.
+ const pendingEntrances=new Set();
  const entrance=new IntersectionObserver(entries=>{
-  for(const e of entries){if(!e.isIntersecting)continue;entrance.unobserve(e.target);if(enabled){const index=Number(e.target.dataset.motionOrder)||0;animate(e.target,[{transform:'translateY(20px)'},{transform:'translateY(0)'}],{duration:460,delay:Math.min(index%4*45,135)});}}
+  for(const e of entries){if(!e.isIntersecting)continue;entrance.unobserve(e.target);pendingEntrances.delete(e.target);if(enabled){const index=Number(e.target.dataset.motionOrder)||0;animate(e.target,[{transform:'translateY(20px)'},{transform:'translateY(0)'}],{duration:460,delay:Math.min(index%4*45,135)});}}
  },{rootMargin:'0px 0px 12% 0px',threshold:.02});
  function observeContent(root=document){
   const els=$$('.shortcut,.route-step,.section-head h2,.news-card,.help-banner,.page-hero h1,.page-hero .lead',root);
   // The first screen and at most twelve new program cards get movement.
   if(root!==document)els.push(...$$('.program-card,.card,.result',root).slice(0,12));
-  els.forEach((el,i)=>{if(seenRoots.has(el))return;seenRoots.add(el);el.dataset.motionOrder=String(i);entrance.observe(el);});
+  els.forEach((el,i)=>{if(seenRoots.has(el))return;seenRoots.add(el);el.dataset.motionOrder=String(i);pendingEntrances.add(el);entrance.observe(el);});
  }
  observeContent();
  let mutationFrame=0;const dynamicRoots=$$('#catalog-list,#program-content,#institute-content,#quiz-results,#search-results');
- const contentObserver=new MutationObserver(()=>{if(mutationFrame)return;mutationFrame=requestAnimationFrame(()=>{mutationFrame=0;dynamicRoots.forEach(observeContent);schedule();});});
+ const contentObserver=new MutationObserver(()=>{if(mutationFrame)return;mutationFrame=requestAnimationFrame(()=>{mutationFrame=0;for(const el of pendingEntrances){if(!el.isConnected){entrance.unobserve(el);pendingEntrances.delete(el);}}dynamicRoots.forEach(observeContent);schedule();});});
  dynamicRoots.forEach(root=>contentObserver.observe(root,{childList:true}));
  if(enabled&&hero){
   $$('.headline-line',hero).forEach((el,i)=>animate(el,[{transform:'translateY(28px)'},{transform:'translateY(0)'}],{duration:700,delay:i*75}));
