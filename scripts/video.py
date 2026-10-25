@@ -14,7 +14,7 @@ R=Path(__file__).resolve().parents[1]
 async def main():
  async with async_playwright() as pw:
   b=await pw.chromium.launch(executable_path='/usr/bin/chromium',headless=True,args=['--no-sandbox'])
-  ctx=await b.new_context(viewport={'width':1280,'height':800},record_video_dir='/tmp/urfu-video',record_video_size={'width':1280,'height':800},reduced_motion='no-preference');p=await ctx.new_page()
+  ctx=await b.new_context(viewport={'width':1440,'height':900},record_video_dir='/tmp/urfu-video',record_video_size={'width':1440,'height':900},reduced_motion='no-preference');p=await ctx.new_page()
   async def caption(text):
    await p.evaluate('''text=>{document.getElementById('video-caption')?.remove();const x=document.createElement('div');x.id='video-caption';x.textContent=text;Object.assign(x.style,{position:'fixed',bottom:'20px',left:'20px',right:'20px',zIndex:100000,padding:'18px 24px',background:'#172321',color:'#f6f5ed',font:'600 24px/1.3 Golos,Arial,sans-serif',border:'1px solid #d5f64b',borderRadius:'12px',pointerEvents:'none'});document.body.append(x);}''',text)
   async def go(path,text):

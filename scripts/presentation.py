@@ -34,7 +34,7 @@ async def main():
   if (D/'lighthouse-compressed.json').exists():
    data=json.loads((D/'lighthouse-compressed.json').read_text());lh={k:round(v['score']*100) for k,v in data['categories'].items()}
   slides=[]
-  def add(title,text='',image=None,color='',eyebrow='УРФУ · СВОЙ МАРШРУТ'):
+  def add(title,text='',image=None,color='',eyebrow='УРФУ · СВОЙ МАРШРУТ / ВИЗУАЛЬНАЯ РЕДАКЦИЯ 02'):
    n=len(slides)+1;body='<div class="copy">'+text+'</div>'
    if image:body='<div class="layout">'+body+'<img src="screenshots/'+image+'.png" alt="Экран работающего прототипа"></div>'
    slides.append(f'<section class="slide {color}"><div class="eyebrow">{eyebrow}</div><h1>{title}</h1>{body}<footer><span>Независимый конкурсный прототип · 25.10.2026</span><span>{n:02d} / 18</span></footer></section>')

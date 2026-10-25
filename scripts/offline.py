@@ -8,7 +8,7 @@ for item in sorted(p for p in files if p!='./'):
 version=digest.hexdigest()[:10]
 (R/'sw.js').write_text('''/* Offline shell. Only same-origin GET requests; official external links are never cached. */
 const VERSION = 'urfu-'''+version+"';\nconst ASSETS = "+json.dumps(files)+''';
-self.addEventListener('install',e=>e.waitUntil(caches.open(VERSION).then(c=>c.addAll(ASSETS)).then(()=>self.skipWaiting())));
+self.addEventListener('install',e=>e.waitUntil(caches.open(VERSION).then(c=>c.addAll(ASSETS.map(url=>new Request(url,{cache:'reload'})))).then(()=>self.skipWaiting())));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('urfu-')&&k!==VERSION).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
 self.addEventListener('fetch',e=>{
  const url=new URL(e.request.url);if(url.origin!==location.origin||e.request.method!=='GET')return;

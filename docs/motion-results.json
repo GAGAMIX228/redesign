@@ -1,0 +1,14 @@
+{
+  "checks": [
+    "Decorative motion is active when allowed",
+    "All role headlines fit at five screen widths",
+    "Global pause stops real animation timelines",
+    "Reduced-motion disables effects while leaving content visible",
+    "Off-screen decorative animation is paused",
+    "Accessibility mode disables motion",
+    "Primary content and navigation remain visible without JavaScript",
+    "Blocked local storage does not break roles or initialization"
+  ],
+  "javascript_errors": [],
+  "clipped_content": []
+}

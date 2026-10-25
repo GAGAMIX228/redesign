@@ -21,3 +21,5 @@ Oswald и Golos Text — Google Fonts, лицензия SIL Open Font License 1.
 - https://dejavu-fonts.github.io/License.html
 
 Логотип, SVG-иконки, схема кампуса и графика маршрута созданы для этого прототипа. Логотип — конкурсная интерпретация, не официальный утверждённый знак УрФУ.
+
+- `news-ai.webp`: иллюстрация к новости об ИИ-компаньоне, https://rtf.urfu.ru/fileadmin/_processed_/4/4/csm_Yandeks_2_ff06e0935c.png. Фотография не подменяет событие; использована именно иллюстрация из официальной ленты.
