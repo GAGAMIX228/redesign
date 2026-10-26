@@ -15,8 +15,13 @@ async def main():
             if result['incomplete']:unknown.append({'state':label,'items':result['incomplete']})
         for f in PAGES:
             await p.goto(BASE+route(f));await scroll_all(p);await collect(f)
+        await p.goto(BASE)
+        for role in ['applicant','student','employee','partner']:
+            await p.locator('[data-role="'+role+'"]').click();await collect('hero-role '+role)
+        await p.locator('.footer-tools').scroll_into_view_if_needed();await collect('footer light')
         for theme in ['dark','bw','wb','blue','beige','green']:
             await p.goto(BASE);await p.evaluate("s=>{localStorage.setItem('urfu:theme',JSON.stringify(s==='dark'?'dark':'light'));localStorage.setItem('urfu:a11y',JSON.stringify(s==='dark'?{}:{scheme:s}));}",theme);await p.reload();await collect(theme)
+            await p.locator('.footer-tools').scroll_into_view_if_needed();await collect('footer '+theme)
         await p.evaluate('localStorage.clear()');await p.goto(BASE)
         for selector in ['.hero-actions .btn','[data-role=student]','.shortcut','.text-link','.footer-tools button']:
             await p.locator(selector).first.hover();await collect('hover '+selector)

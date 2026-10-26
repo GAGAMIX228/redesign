@@ -204,7 +204,7 @@
       "status": "passed",
       "evidence": {
         "limit": 3,
-        "shared_url": "http://127.0.0.1:4175/catalog.html?compare=10037%2C9901%2C9898"
+        "shared_url": "http://127.0.0.1:4181/catalog.html?compare=10037%2C9901%2C9898"
       }
     },
     {
@@ -212,7 +212,7 @@
       "status": "passed",
       "evidence": {
         "filtered": 2,
-        "url": "http://127.0.0.1:4175/catalog.html?budget=1&level=%D0%B1%D0%B0%D0%BA%D0%B0%D0%BB%D0%B0%D0%B2%D1%80%D0%B8%D0%B0%D1%82&price=300000&q=%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA"
+        "url": "http://127.0.0.1:4181/catalog.html?budget=1&level=%D0%B1%D0%B0%D0%BA%D0%B0%D0%BB%D0%B0%D0%B2%D1%80%D0%B8%D0%B0%D1%82&price=300000&q=%D0%B8%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%BA"
       }
     },
     {
@@ -346,27 +346,27 @@
     {
       "case": "Search suggestions ArrowDown/Esc/Enter",
       "status": "passed",
-      "evidence": "http://127.0.0.1:4175/campus.html"
+      "evidence": "http://127.0.0.1:4181/campus.html"
     },
     {
       "case": "Schedule group 'РИ-140944'",
       "status": "passed",
-      "evidence": "19 ОКТЯБРЯ — 25 ОКТЯБРЯ\n←\nСегодня\n→\n\nНечётная неделя по демонстрационному отсчёту от 1 сентября. Не "
+      "evidence": "26 ОКТЯБРЯ — 1 НОЯБРЯ\n←\nСегодня\n→\n\nЧётная неделя по демонстрационному отсчёту от 1 сентября. Не офиц"
     },
     {
       "case": "Schedule group 'ри-140944'",
       "status": "passed",
-      "evidence": "19 ОКТЯБРЯ — 25 ОКТЯБРЯ\n←\nСегодня\n→\n\nНечётная неделя по демонстрационному отсчёту от 1 сентября. Не "
+      "evidence": "26 ОКТЯБРЯ — 1 НОЯБРЯ\n←\nСегодня\n→\n\nЧётная неделя по демонстрационному отсчёту от 1 сентября. Не офиц"
     },
     {
       "case": "Schedule group '  ри-140944  '",
       "status": "passed",
-      "evidence": "19 ОКТЯБРЯ — 25 ОКТЯБРЯ\n←\nСегодня\n→\n\nНечётная неделя по демонстрационному отсчёту от 1 сентября. Не "
+      "evidence": "26 ОКТЯБРЯ — 1 НОЯБРЯ\n←\nСегодня\n→\n\nЧётная неделя по демонстрационному отсчёту от 1 сентября. Не офиц"
     },
     {
       "case": "Schedule group 'РИ - 140944'",
       "status": "passed",
-      "evidence": "19 ОКТЯБРЯ — 25 ОКТЯБРЯ\n←\nСегодня\n→\n\nНечётная неделя по демонстрационному отсчёту от 1 сентября. Не "
+      "evidence": "26 ОКТЯБРЯ — 1 НОЯБРЯ\n←\nСегодня\n→\n\nЧётная неделя по демонстрационному отсчёту от 1 сентября. Не офиц"
     },
     {
       "case": "Schedule group 'НЕ-123456'",

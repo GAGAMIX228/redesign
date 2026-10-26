@@ -1,5 +1,6 @@
 """Sections 12–14: metadata, local OG assets, structured data and sensitive files."""
 import collections,re,subprocess
+from urllib.parse import urlsplit
 from lxml import html
 from PIL import Image
 from common import *
@@ -8,7 +9,7 @@ def main():
     for f in PAGES:
         p=ROOT/f;d=html.fromstring(p.read_text());title=d.xpath('string(//title)');description=d.xpath('//meta[@name="description"]/@content');titles.append(title);desc.extend(description)
         missing=[label for label,q in [('lang','/html/@lang'),('charset','//meta[@charset]'),('viewport','//meta[@name="viewport"]'),('canonical','//link[@rel="canonical"]'),('apple-icon','//link[@rel="apple-touch-icon"]'),('schema','//script[@type="application/ld+json"]')] if not d.xpath(q)]
-        image=d.xpath('//meta[@property="og:image"]/@content');image_path=(ROOT/image[0].split('/redesign/')[-1]) if image and image[0].startswith('https:') else p.parent/(image[0] if image else 'missing')
+        image=d.xpath('//meta[@property="og:image"]/@content');image_path=(ROOT/urlsplit(image[0]).path.split('/redesign/')[-1]) if image and image[0].startswith('https:') else p.parent/(urlsplit(image[0]).path if image else 'missing')
         dimensions=Image.open(image_path).size if image_path.is_file() else None
         if missing or dimensions!=(1200,630):problems.append({'page':f,'missing':missing,'og_dimensions':dimensions})
         for s in d.xpath('//script[@type="application/ld+json"]/text()'):

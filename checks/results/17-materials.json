@@ -48,7 +48,7 @@
       }
     },
     "decoded_frames": 1500,
-    "max_adjacent_brightness_change": 24.330347222222223,
+    "max_adjacent_brightness_change": 14.569097222222211,
     "changes_over_25": [],
     "expected_scene_crossfades_seconds": 0.5,
     "compatibility": "H.264, yuv420p, MP4 faststart; actual Windows/Telegram/iPhone player sessions unavailable."

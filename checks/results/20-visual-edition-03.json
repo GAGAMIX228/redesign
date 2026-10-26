@@ -1,0 +1,18 @@
+{
+  "edition": "03",
+  "date": "2026-10-26",
+  "identity_css_sha256": "f7ea5f92f3492649e834481b9c19a19ccb9ca7f039efe313908452a297985231",
+  "pages": 29,
+  "layout_combinations": 493,
+  "axe_states": 310,
+  "contrast_pairs": 80,
+  "scenario_passes": 97,
+  "pdf_pages": 18,
+  "video_frames": 1500,
+  "lighthouse_pages": [
+    "index.html",
+    "catalog.html",
+    "Program.html?id=9797"
+  ],
+  "performance_limitations": "CPU x4 cold scroll did not meet 16–20ms on every frame; see 06-motion.json."
+}

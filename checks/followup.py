@@ -1,6 +1,6 @@
 """Regression checks for clipboard denial, nested dialogs and replaced animation targets."""
 import asyncio
-from playwright.async_api import async_playwright
+from playwright.async_api import async_playwright, expect
 from common import BASE, PAGES, route, launch, settle, axe, save
 
 CLIPBOARD = """mode=>{
@@ -49,13 +49,13 @@ async def main():
                 assert not result['violations']
                 await p.keyboard.press('Escape')
                 await dialog.wait_for(state='hidden')
-                assert await opener.evaluate('e=>e===document.activeElement')
-                assert await p.evaluate("document.body.style.overflow===''")
+                await expect(opener).to_be_focused()
+                await p.wait_for_function("document.body.style.overflow===''")
                 # Reopened dialogs also close by clicking their backdrop.
                 await opener.click()
                 await p.mouse.click(2,2)
                 await dialog.wait_for(state='hidden')
-                assert await opener.evaluate('e=>e===document.activeElement')
+                await expect(opener).to_be_focused()
                 cases.append({'width':width,'clipboard':mode,'url_and_selection':True,'tab_keeps_background_inert':True,'escape_restores_focus':True,'backdrop_closes':True})
             # Closing a sharing dialog keeps comparison open and the page locked.
             await p.evaluate(CLIPBOARD,'denied')
@@ -69,18 +69,19 @@ async def main():
             await p.keyboard.press('Escape')
             await dialog.wait_for(state='hidden')
             assert await compare.is_visible()
-            assert await p.evaluate("document.body.style.overflow==='hidden'")
-            assert await nested_opener.evaluate('e=>e===document.activeElement')
+            await p.wait_for_function("document.body.style.overflow==='hidden'")
+            await expect(nested_opener).to_be_focused()
             await p.keyboard.press('Escape')
             await compare.wait_for(state='hidden')
-            assert await p.evaluate("document.body.style.overflow===''")
-            assert await p.locator('#compare-open').evaluate('e=>e===document.activeElement')
+            await p.wait_for_function("document.body.style.overflow===''")
+            await expect(p.locator('#compare-open')).to_be_focused()
             # Rapid repeated calls must not leave an extra scroll lock behind.
             await p.evaluate("document.body.style.overflow='auto';const b=document.querySelector('[data-share]');b.click();b.click();")
             await dialog.wait_for(state='visible')
             await p.keyboard.press('Escape')
             await dialog.wait_for(state='hidden')
-            assert await p.evaluate("document.body.style.overflow==='auto'")
+            # Native close events run asynchronously after the dialog becomes hidden.
+            await p.wait_for_function("document.body.style.overflow==='auto'")
             cases.append({'width':width,'nested_dialog_focus_and_scroll':True,'repeated_open_restores_original_overflow':True})
             await p.close()
         p=await b.new_page(viewport={'width':1440,'height':900},service_workers='block')
@@ -112,7 +113,7 @@ async def main():
             opener=p.locator('[data-a11y-open]').first
             await opener.click()
             await p.keyboard.press('Escape')
-            assert await opener.evaluate('e=>e===document.activeElement')
+            await expect(opener).to_be_focused()
         await b.close()
     assert not errors,errors
     save('19-followup',{'status':'passed','sharing':cases,'axe':accessibility,'animation_tracking':tracking,'shared_dialog_pages':len(PAGES),'console_errors':errors,'limitations':['Clipboard outcomes are simulated to exercise permission fallbacks; no clipboard permission or browser policy was bypassed. Direct file navigation remains unverified.']})

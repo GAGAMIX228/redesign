@@ -1,15 +1,48 @@
 {
   "layout_property_transitions": [],
   "scroll_profile": {
-    "frames": 478,
+    "frames": 278,
     "p50": 16.699999999999818,
-    "p95": 16.799999999999272,
-    "max": 33.30000000000018,
-    "long_tasks": []
+    "p95": 66.59999999999991,
+    "max": 1433.3000000000002,
+    "long_tasks": [
+      {
+        "start": 4151.600000008941,
+        "duration": 1464
+      },
+      {
+        "start": 5629.70000000298,
+        "duration": 191
+      },
+      {
+        "start": 6301.70000000298,
+        "duration": 69
+      },
+      {
+        "start": 6557.29999999702,
+        "duration": 81
+      },
+      {
+        "start": 6704.79999999702,
+        "duration": 70
+      },
+      {
+        "start": 7029.600000008941,
+        "duration": 79
+      },
+      {
+        "start": 7534.79999999702,
+        "duration": 154
+      },
+      {
+        "start": 7859.5,
+        "duration": 90
+      }
+    ]
   },
   "pause_stops_loops": true,
   "reduced_motion_state": "off",
-  "back_url": "http://127.0.0.1:4175/catalog.html",
+  "back_url": "http://127.0.0.1:4181/catalog.html",
   "back_scroll": 700,
   "native_pagedown": true,
   "native_end": true,

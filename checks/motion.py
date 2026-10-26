@@ -18,8 +18,12 @@ async def main():
         await p.emulate_media(reduced_motion='reduce');result['reduced_motion_state']=await p.locator('body').get_attribute('data-motion-state')
         # Standard browser history and native keyboard scrolling.
         await p.goto(BASE+'catalog.html');await p.evaluate('scrollTo(0,700)');await p.locator('.program-card h3 a').first.click();await p.go_back();await p.wait_for_timeout(150);result['back_url']=p.url;result['back_scroll']=await p.evaluate('scrollY')
-        await p.goto(BASE);await p.keyboard.press('PageDown');await p.wait_for_timeout(100);result['native_pagedown']=await p.evaluate('scrollY>0')
-        await p.keyboard.press('End');await p.wait_for_timeout(100);result['native_end']=await p.evaluate('scrollY>1000')
+        await p.goto(BASE);await p.mouse.click(5,200);await p.keyboard.press('PageDown')
+        try:await p.wait_for_function('scrollY>0',timeout=3000);result['native_pagedown']=True
+        except:result['native_pagedown']=False;issues.append('Native PageDown did not scroll')
+        await p.keyboard.press('End')
+        try:await p.wait_for_function('scrollY>1000',timeout=3000);result['native_end']=True
+        except:result['native_end']=False;issues.append('Native End did not scroll')
         result['issues']=issues
         await b.close()
     save('06-motion',result)

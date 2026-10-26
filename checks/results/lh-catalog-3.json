@@ -1,7 +1,7 @@
 {
   "lighthouseVersion": "13.5.0",
-  "requestedUrl": "http://127.0.0.1:4175/catalog.html",
-  "fetchTime": "2026-10-25T15:10:32.613Z",
+  "requestedUrl": "http://127.0.0.1:4181/catalog.html",
+  "fetchTime": "2026-10-26T12:17:56.594Z",
   "configSettings": {
     "output": [
       "json"
@@ -322,7 +322,7 @@
         }
       ],
       "id": "performance",
-      "score": 1
+      "score": 0.8
     },
     "accessibility": {
       "title": "Accessibility",
@@ -893,29 +893,57 @@
     }
   },
   "audits": {
+    "first-contentful-paint": {
+      "id": "first-contentful-paint",
+      "title": "First Contentful Paint",
+      "description": "First Contentful Paint marks the time at which the first text or image is painted. [Learn more about the First Contentful Paint metric](https://developer.chrome.com/docs/lighthouse/performance/first-contentful-paint/).",
+      "score": 0.99,
+      "scoreDisplayMode": "numeric",
+      "numericValue": 1076.0712,
+      "numericUnit": "millisecond",
+      "displayValue": "1.1 s",
+      "scoringOptions": {
+        "p10": 1800,
+        "median": 3000
+      }
+    },
     "largest-contentful-paint": {
       "id": "largest-contentful-paint",
       "title": "Largest Contentful Paint",
       "description": "Largest Contentful Paint marks the time at which the largest text or image is painted. [Learn more about the Largest Contentful Paint metric](https://developer.chrome.com/docs/lighthouse/performance/lighthouse-largest-contentful-paint/)",
-      "score": 1,
+      "score": 0.99,
       "scoreDisplayMode": "numeric",
-      "numericValue": 1508.0648,
+      "numericValue": 1757.1068,
       "numericUnit": "millisecond",
-      "displayValue": "1.5 s",
+      "displayValue": "1.8 s",
       "scoringOptions": {
         "p10": 2500,
         "median": 4000
+      }
+    },
+    "speed-index": {
+      "id": "speed-index",
+      "title": "Speed Index",
+      "description": "Speed Index shows how quickly the contents of a page are visibly populated. [Learn more about the Speed Index metric](https://developer.chrome.com/docs/lighthouse/performance/speed-index/).",
+      "score": 0.98,
+      "scoreDisplayMode": "numeric",
+      "numericValue": 2433.947578004526,
+      "numericUnit": "millisecond",
+      "displayValue": "2.4 s",
+      "scoringOptions": {
+        "p10": 3387,
+        "median": 5800
       }
     },
     "total-blocking-time": {
       "id": "total-blocking-time",
       "title": "Total Blocking Time",
       "description": "Sum of all time periods between FCP and Time to Interactive, when task length exceeded 50ms, expressed in milliseconds. [Learn more about the Total Blocking Time metric](https://developer.chrome.com/docs/lighthouse/performance/lighthouse-total-blocking-time/).",
-      "score": 1,
+      "score": 0.36,
       "scoreDisplayMode": "numeric",
-      "numericValue": 23.5,
+      "numericValue": 804.4644000000001,
       "numericUnit": "millisecond",
-      "displayValue": "20 ms",
+      "displayValue": "800 ms",
       "scoringOptions": {
         "p10": 200,
         "median": 600
@@ -925,11 +953,11 @@
       "id": "max-potential-fid",
       "title": "Max Potential First Input Delay",
       "description": "The maximum potential First Input Delay that your users could experience is the duration of the longest task. [Learn more about the Maximum Potential First Input Delay metric](https://developer.chrome.com/docs/lighthouse/performance/lighthouse-max-potential-fid/).",
-      "score": 0.45,
+      "score": 0.01,
       "scoreDisplayMode": "numeric",
-      "numericValue": 266,
+      "numericValue": 749,
       "numericUnit": "millisecond",
-      "displayValue": "270 ms"
+      "displayValue": "750 ms"
     },
     "cumulative-layout-shift": {
       "id": "cumulative-layout-shift",
@@ -958,15 +986,90 @@
         ]
       }
     },
+    "interactive": {
+      "id": "interactive",
+      "title": "Time to Interactive",
+      "description": "Time to Interactive is the amount of time it takes for the page to become fully interactive. [Learn more about the Time to Interactive metric](https://developer.chrome.com/docs/lighthouse/performance/interactive/).",
+      "score": 0.99,
+      "scoreDisplayMode": "numeric",
+      "numericValue": 2196.1856000000002,
+      "numericUnit": "millisecond",
+      "displayValue": "2.2 s"
+    },
+    "mainthread-work-breakdown": {
+      "id": "mainthread-work-breakdown",
+      "title": "Minimize main-thread work",
+      "description": "Consider reducing the time spent parsing, compiling and executing JS. You may find delivering smaller JS payloads helps with this. [Learn how to minimize main-thread work](https://developer.chrome.com/docs/lighthouse/performance/mainthread-work-breakdown/)",
+      "score": 0,
+      "scoreDisplayMode": "metricSavings",
+      "numericValue": 2523.98,
+      "numericUnit": "millisecond",
+      "displayValue": "2.5 s",
+      "metricSavings": {
+        "TBT": 800
+      },
+      "details": {
+        "type": "table",
+        "headings": [
+          {
+            "key": "groupLabel",
+            "valueType": "text",
+            "label": "Category"
+          },
+          {
+            "key": "duration",
+            "valueType": "ms",
+            "granularity": 1,
+            "label": "Time Spent"
+          }
+        ],
+        "items": [
+          {
+            "group": "other",
+            "groupLabel": "Other",
+            "duration": 1460.9999999999998
+          },
+          {
+            "group": "styleLayout",
+            "groupLabel": "Style & Layout",
+            "duration": 598.9200000000001
+          },
+          {
+            "group": "scriptEvaluation",
+            "groupLabel": "Script Evaluation",
+            "duration": 191.2880000000001
+          },
+          {
+            "group": "paintCompositeRender",
+            "groupLabel": "Rendering",
+            "duration": 159.52799999999985
+          },
+          {
+            "group": "parseHTML",
+            "groupLabel": "Parse HTML & CSS",
+            "duration": 85.04399999999998
+          },
+          {
+            "group": "scriptParseCompile",
+            "groupLabel": "Script Parsing & Compilation",
+            "duration": 28.199999999999996
+          }
+        ],
+        "sortedBy": [
+          "duration"
+        ]
+      },
+      "guidanceLevel": 1
+    },
     "total-byte-weight": {
       "id": "total-byte-weight",
       "title": "Avoids enormous network payloads",
       "description": "Large network payloads cost users real money and are highly correlated with long load times. [Learn how to reduce payload sizes](https://developer.chrome.com/docs/lighthouse/performance/total-byte-weight/).",
       "score": 1,
       "scoreDisplayMode": "metricSavings",
-      "numericValue": 117887,
+      "numericValue": 123714,
       "numericUnit": "byte",
-      "displayValue": "Total size was 115 KiB",
+      "displayValue": "Total size was 121 KiB",
       "details": {
         "type": "table",
         "headings": [
@@ -983,44 +1086,44 @@
         ],
         "items": [
           {
-            "url": "http://127.0.0.1:4175/assets/fonts/GolosText.woff2",
+            "url": "http://127.0.0.1:4181/assets/fonts/GolosText.woff2",
             "totalBytes": 34230
           },
           {
-            "url": "http://127.0.0.1:4175/js/app.js?v=7e1fd24275",
-            "totalBytes": 18760
+            "url": "http://127.0.0.1:4181/js/app.js?v=93557bba1f",
+            "totalBytes": 18995
           },
           {
-            "url": "http://127.0.0.1:4175/assets/fonts/Oswald.woff2",
+            "url": "http://127.0.0.1:4181/assets/fonts/Oswald.woff2",
             "totalBytes": 18154
           },
           {
-            "url": "http://127.0.0.1:4175/catalog.html",
-            "totalBytes": 12505
+            "url": "http://127.0.0.1:4181/catalog.html",
+            "totalBytes": 12955
           },
           {
-            "url": "http://127.0.0.1:4175/css/evolution.css?v=b63a6f72f4",
+            "url": "http://127.0.0.1:4181/css/evolution.css?v=b63a6f72f4",
             "totalBytes": 11094
           },
           {
-            "url": "http://127.0.0.1:4175/css/site.css?v=1fef14c65e",
+            "url": "http://127.0.0.1:4181/css/site.css?v=1fef14c65e",
             "totalBytes": 9357
           },
           {
-            "url": "http://127.0.0.1:4175/data/programs.js",
+            "url": "http://127.0.0.1:4181/data/programs.js",
             "totalBytes": 8587
           },
           {
-            "url": "http://127.0.0.1:4175/js/motion.js?v=52dd11dd1e",
-            "totalBytes": 3077
+            "url": "http://127.0.0.1:4181/css/identity.css?v=f7ea5f92f3",
+            "totalBytes": 5026
           },
           {
-            "url": "http://127.0.0.1:4175/data/news.js",
+            "url": "http://127.0.0.1:4181/js/motion.js?v=55acd8975b",
+            "totalBytes": 3128
+          },
+          {
+            "url": "http://127.0.0.1:4181/data/news.js",
             "totalBytes": 1682
-          },
-          {
-            "url": "http://127.0.0.1:4175/assets/favicon.svg",
-            "totalBytes": 441
           }
         ],
         "sortedBy": [
@@ -1035,10 +1138,10 @@
       "description": "A long cache lifetime can speed up repeat visits to your page. [Learn more about caching](https://developer.chrome.com/docs/performance/insights/cache).",
       "score": 0,
       "scoreDisplayMode": "metricSavings",
-      "displayValue": "Est savings of 92 KiB",
+      "displayValue": "Est savings of 96 KiB",
       "metricSavings": {
-        "FCP": 0,
-        "LCP": 400
+        "FCP": 150,
+        "LCP": 550
       },
       "details": {
         "type": "table",
@@ -1064,49 +1167,55 @@
         ],
         "items": [
           {
-            "url": "http://127.0.0.1:4175/assets/fonts/GolosText.woff2",
+            "url": "http://127.0.0.1:4181/assets/fonts/GolosText.woff2",
             "cacheLifetimeMs": 0,
             "totalBytes": 34230,
             "wastedBytes": 34230
           },
           {
-            "url": "http://127.0.0.1:4175/assets/fonts/Oswald.woff2",
+            "url": "http://127.0.0.1:4181/assets/fonts/Oswald.woff2",
             "cacheLifetimeMs": 0,
             "totalBytes": 18154,
             "wastedBytes": 18154
           },
           {
-            "url": "http://127.0.0.1:4175/js/app.js?v=7e1fd24275",
+            "url": "http://127.0.0.1:4181/js/app.js?v=93557bba1f",
             "cacheLifetimeMs": 3600000,
-            "totalBytes": 18760,
-            "wastedBytes": 15008
+            "totalBytes": 18995,
+            "wastedBytes": 15196
           },
           {
-            "url": "http://127.0.0.1:4175/css/evolution.css?v=b63a6f72f4",
+            "url": "http://127.0.0.1:4181/css/evolution.css?v=b63a6f72f4",
             "cacheLifetimeMs": 3600000,
             "totalBytes": 11094,
             "wastedBytes": 8875.2
           },
           {
-            "url": "http://127.0.0.1:4175/css/site.css?v=1fef14c65e",
+            "url": "http://127.0.0.1:4181/css/site.css?v=1fef14c65e",
             "cacheLifetimeMs": 3600000,
             "totalBytes": 9357,
             "wastedBytes": 7485.6
           },
           {
-            "url": "http://127.0.0.1:4175/data/programs.js",
+            "url": "http://127.0.0.1:4181/data/programs.js",
             "cacheLifetimeMs": 3600000,
             "totalBytes": 8587,
             "wastedBytes": 6869.6
           },
           {
-            "url": "http://127.0.0.1:4175/js/motion.js?v=52dd11dd1e",
+            "url": "http://127.0.0.1:4181/css/identity.css?v=f7ea5f92f3",
             "cacheLifetimeMs": 3600000,
-            "totalBytes": 3077,
-            "wastedBytes": 2461.6000000000004
+            "totalBytes": 5026,
+            "wastedBytes": 4020.8
           },
           {
-            "url": "http://127.0.0.1:4175/data/news.js",
+            "url": "http://127.0.0.1:4181/js/motion.js?v=55acd8975b",
+            "cacheLifetimeMs": 3600000,
+            "totalBytes": 3128,
+            "wastedBytes": 2502.4
+          },
+          {
+            "url": "http://127.0.0.1:4181/data/news.js",
             "cacheLifetimeMs": 3600000,
             "totalBytes": 1682,
             "wastedBytes": 1345.6000000000001
@@ -1120,7 +1229,7 @@
         ],
         "debugData": {
           "type": "debugdata",
-          "wastedBytes": 94429.60000000002
+          "wastedBytes": 98679.20000000001
         }
       },
       "guidanceLevel": 3
@@ -1142,30 +1251,36 @@
             "value": {
               "type": "network-tree",
               "chains": {
-                "CF398B59735E419BC638417661429A0C": {
-                  "url": "http://127.0.0.1:4175/catalog.html",
-                  "navStartToEndTime": 37,
-                  "transferSize": 12505,
+                "01BC2BC1CB12C67DA76BBBEE3825ED9B": {
+                  "url": "http://127.0.0.1:4181/catalog.html",
+                  "navStartToEndTime": 50,
+                  "transferSize": 12955,
                   "isLongest": true,
                   "children": {
-                    "74858.5": {
-                      "url": "http://127.0.0.1:4175/css/evolution.css?v=b63a6f72f4",
-                      "navStartToEndTime": 42,
-                      "transferSize": 11094,
+                    "173894.6": {
+                      "url": "http://127.0.0.1:4181/css/identity.css?v=f7ea5f92f3",
+                      "navStartToEndTime": 74,
+                      "transferSize": 5026,
                       "isLongest": true,
                       "children": {}
                     },
-                    "74858.4": {
-                      "url": "http://127.0.0.1:4175/css/site.css?v=1fef14c65e",
-                      "navStartToEndTime": 41,
+                    "173894.4": {
+                      "url": "http://127.0.0.1:4181/css/site.css?v=1fef14c65e",
+                      "navStartToEndTime": 70,
                       "transferSize": 9357,
+                      "children": {}
+                    },
+                    "173894.5": {
+                      "url": "http://127.0.0.1:4181/css/evolution.css?v=b63a6f72f4",
+                      "navStartToEndTime": 67,
+                      "transferSize": 11094,
                       "children": {}
                     }
                   }
                 }
               },
               "longestChain": {
-                "duration": 42
+                "duration": 74
               }
             }
           },
@@ -1195,11 +1310,12 @@
       "id": "render-blocking-insight",
       "title": "Render-blocking requests",
       "description": "Requests are blocking the page's initial render, which may delay LCP. [Deferring or inlining](https://developer.chrome.com/docs/performance/insights/render-blocking) can move these network requests out of the critical path.",
-      "score": 0.5,
+      "score": 0,
       "scoreDisplayMode": "metricSavings",
+      "displayValue": "Est savings of 130 ms",
       "metricSavings": {
-        "FCP": 0,
-        "LCP": 0
+        "FCP": 150,
+        "LCP": 150
       },
       "details": {
         "type": "table",
@@ -1222,14 +1338,19 @@
         ],
         "items": [
           {
-            "url": "http://127.0.0.1:4175/css/evolution.css?v=b63a6f72f4",
-            "totalBytes": 11094,
-            "wastedMs": 304
+            "url": "http://127.0.0.1:4181/css/identity.css?v=f7ea5f92f3",
+            "totalBytes": 5026,
+            "wastedMs": 313
           },
           {
-            "url": "http://127.0.0.1:4175/css/site.css?v=1fef14c65e",
+            "url": "http://127.0.0.1:4181/css/site.css?v=1fef14c65e",
             "totalBytes": 9357,
-            "wastedMs": 154
+            "wastedMs": 163
+          },
+          {
+            "url": "http://127.0.0.1:4181/css/evolution.css?v=b63a6f72f4",
+            "totalBytes": 11094,
+            "wastedMs": 463
           }
         ]
       },

@@ -1,7 +1,7 @@
 {
   "lighthouseVersion": "13.5.0",
-  "requestedUrl": "http://127.0.0.1:4175/index.html",
-  "fetchTime": "2026-10-25T15:08:42.170Z",
+  "requestedUrl": "http://127.0.0.1:4181/index.html",
+  "fetchTime": "2026-10-26T12:16:33.223Z",
   "configSettings": {
     "output": [
       "json"
@@ -893,43 +893,43 @@
     }
   },
   "audits": {
+    "first-contentful-paint": {
+      "id": "first-contentful-paint",
+      "title": "First Contentful Paint",
+      "description": "First Contentful Paint marks the time at which the first text or image is painted. [Learn more about the First Contentful Paint metric](https://developer.chrome.com/docs/lighthouse/performance/first-contentful-paint/).",
+      "score": 0.99,
+      "scoreDisplayMode": "numeric",
+      "numericValue": 1071.0173,
+      "numericUnit": "millisecond",
+      "displayValue": "1.1 s",
+      "scoringOptions": {
+        "p10": 1800,
+        "median": 3000
+      }
+    },
     "largest-contentful-paint": {
       "id": "largest-contentful-paint",
       "title": "Largest Contentful Paint",
       "description": "Largest Contentful Paint marks the time at which the largest text or image is painted. [Learn more about the Largest Contentful Paint metric](https://developer.chrome.com/docs/lighthouse/performance/lighthouse-largest-contentful-paint/)",
-      "score": 0.98,
+      "score": 0.97,
       "scoreDisplayMode": "numeric",
-      "numericValue": 1812.9723,
+      "numericValue": 1962.52595,
       "numericUnit": "millisecond",
-      "displayValue": "1.8 s",
+      "displayValue": "2.0 s",
       "scoringOptions": {
         "p10": 2500,
         "median": 4000
-      }
-    },
-    "speed-index": {
-      "id": "speed-index",
-      "title": "Speed Index",
-      "description": "Speed Index shows how quickly the contents of a page are visibly populated. [Learn more about the Speed Index metric](https://developer.chrome.com/docs/lighthouse/performance/speed-index/).",
-      "score": 0.98,
-      "scoreDisplayMode": "numeric",
-      "numericValue": 2333.966134269588,
-      "numericUnit": "millisecond",
-      "displayValue": "2.3 s",
-      "scoringOptions": {
-        "p10": 3387,
-        "median": 5800
       }
     },
     "total-blocking-time": {
       "id": "total-blocking-time",
       "title": "Total Blocking Time",
       "description": "Sum of all time periods between FCP and Time to Interactive, when task length exceeded 50ms, expressed in milliseconds. [Learn more about the Total Blocking Time metric](https://developer.chrome.com/docs/lighthouse/performance/lighthouse-total-blocking-time/).",
-      "score": 0.98,
+      "score": 0.99,
       "scoreDisplayMode": "numeric",
-      "numericValue": 95.51385000000005,
+      "numericValue": 85,
       "numericUnit": "millisecond",
-      "displayValue": "100 ms",
+      "displayValue": "90 ms",
       "scoringOptions": {
         "p10": 200,
         "median": 600
@@ -939,11 +939,11 @@
       "id": "max-potential-fid",
       "title": "Max Potential First Input Delay",
       "description": "The maximum potential First Input Delay that your users could experience is the duration of the longest task. [Learn more about the Maximum Potential First Input Delay metric](https://developer.chrome.com/docs/lighthouse/performance/lighthouse-max-potential-fid/).",
-      "score": 0.71,
+      "score": 0.89,
       "scoreDisplayMode": "numeric",
-      "numericValue": 187,
+      "numericValue": 131,
       "numericUnit": "millisecond",
-      "displayValue": "190 ms"
+      "displayValue": "130 ms"
     },
     "cumulative-layout-shift": {
       "id": "cumulative-layout-shift",
@@ -968,15 +968,25 @@
         ]
       }
     },
+    "interactive": {
+      "id": "interactive",
+      "title": "Time to Interactive",
+      "description": "Time to Interactive is the amount of time it takes for the page to become fully interactive. [Learn more about the Time to Interactive metric](https://developer.chrome.com/docs/lighthouse/performance/interactive/).",
+      "score": 0.99,
+      "scoreDisplayMode": "numeric",
+      "numericValue": 1962.5259500000002,
+      "numericUnit": "millisecond",
+      "displayValue": "2.0 s"
+    },
     "total-byte-weight": {
       "id": "total-byte-weight",
       "title": "Avoids enormous network payloads",
       "description": "Large network payloads cost users real money and are highly correlated with long load times. [Learn how to reduce payload sizes](https://developer.chrome.com/docs/lighthouse/performance/total-byte-weight/).",
       "score": 1,
       "scoreDisplayMode": "metricSavings",
-      "numericValue": 133954,
+      "numericValue": 139483,
       "numericUnit": "byte",
-      "displayValue": "Total size was 131 KiB",
+      "displayValue": "Total size was 136 KiB",
       "details": {
         "type": "table",
         "headings": [
@@ -993,44 +1003,44 @@
         ],
         "items": [
           {
-            "url": "http://127.0.0.1:4175/assets/fonts/GolosText.woff2",
+            "url": "http://127.0.0.1:4181/assets/fonts/GolosText.woff2",
             "totalBytes": 34230
           },
           {
-            "url": "http://127.0.0.1:4175/assets/images/p4-small.webp",
+            "url": "http://127.0.0.1:4181/assets/images/p4-small.webp",
             "totalBytes": 19068
           },
           {
-            "url": "http://127.0.0.1:4175/js/app.js?v=7e1fd24275",
-            "totalBytes": 18760
+            "url": "http://127.0.0.1:4181/js/app.js?v=93557bba1f",
+            "totalBytes": 18995
           },
           {
-            "url": "http://127.0.0.1:4175/assets/fonts/Oswald.woff2",
+            "url": "http://127.0.0.1:4181/assets/fonts/Oswald.woff2",
             "totalBytes": 18154
           },
           {
-            "url": "http://127.0.0.1:4175/css/evolution.css?v=b63a6f72f4",
+            "url": "http://127.0.0.1:4181/css/evolution.css?v=b63a6f72f4",
             "totalBytes": 11094
           },
           {
-            "url": "http://127.0.0.1:4175/index.html",
-            "totalBytes": 9504
+            "url": "http://127.0.0.1:4181/index.html",
+            "totalBytes": 9656
           },
           {
-            "url": "http://127.0.0.1:4175/css/site.css?v=1fef14c65e",
+            "url": "http://127.0.0.1:4181/css/site.css?v=1fef14c65e",
             "totalBytes": 9357
           },
           {
-            "url": "http://127.0.0.1:4175/data/programs.js",
+            "url": "http://127.0.0.1:4181/data/programs.js",
             "totalBytes": 8587
           },
           {
-            "url": "http://127.0.0.1:4175/js/motion.js?v=52dd11dd1e",
-            "totalBytes": 3077
+            "url": "http://127.0.0.1:4181/css/identity.css?v=f7ea5f92f3",
+            "totalBytes": 5026
           },
           {
-            "url": "http://127.0.0.1:4175/data/news.js",
-            "totalBytes": 1682
+            "url": "http://127.0.0.1:4181/js/motion.js?v=55acd8975b",
+            "totalBytes": 3128
           }
         ],
         "sortedBy": [
@@ -1045,10 +1055,10 @@
       "description": "A long cache lifetime can speed up repeat visits to your page. [Learn more about caching](https://developer.chrome.com/docs/performance/insights/cache).",
       "score": 0,
       "scoreDisplayMode": "metricSavings",
-      "displayValue": "Est savings of 111 KiB",
+      "displayValue": "Est savings of 115 KiB",
       "metricSavings": {
-        "FCP": 0,
-        "LCP": 600
+        "FCP": 150,
+        "LCP": 700
       },
       "details": {
         "type": "table",
@@ -1074,55 +1084,61 @@
         ],
         "items": [
           {
-            "url": "http://127.0.0.1:4175/assets/fonts/GolosText.woff2",
+            "url": "http://127.0.0.1:4181/assets/fonts/GolosText.woff2",
             "cacheLifetimeMs": 0,
             "totalBytes": 34230,
             "wastedBytes": 34230
           },
           {
-            "url": "http://127.0.0.1:4175/assets/images/p4-small.webp",
+            "url": "http://127.0.0.1:4181/assets/images/p4-small.webp",
             "cacheLifetimeMs": 0,
             "totalBytes": 19068,
             "wastedBytes": 19068
           },
           {
-            "url": "http://127.0.0.1:4175/assets/fonts/Oswald.woff2",
+            "url": "http://127.0.0.1:4181/assets/fonts/Oswald.woff2",
             "cacheLifetimeMs": 0,
             "totalBytes": 18154,
             "wastedBytes": 18154
           },
           {
-            "url": "http://127.0.0.1:4175/js/app.js?v=7e1fd24275",
+            "url": "http://127.0.0.1:4181/js/app.js?v=93557bba1f",
             "cacheLifetimeMs": 3600000,
-            "totalBytes": 18760,
-            "wastedBytes": 15008
+            "totalBytes": 18995,
+            "wastedBytes": 15196
           },
           {
-            "url": "http://127.0.0.1:4175/css/evolution.css?v=b63a6f72f4",
+            "url": "http://127.0.0.1:4181/css/evolution.css?v=b63a6f72f4",
             "cacheLifetimeMs": 3600000,
             "totalBytes": 11094,
             "wastedBytes": 8875.2
           },
           {
-            "url": "http://127.0.0.1:4175/css/site.css?v=1fef14c65e",
+            "url": "http://127.0.0.1:4181/css/site.css?v=1fef14c65e",
             "cacheLifetimeMs": 3600000,
             "totalBytes": 9357,
             "wastedBytes": 7485.6
           },
           {
-            "url": "http://127.0.0.1:4175/data/programs.js",
+            "url": "http://127.0.0.1:4181/data/programs.js",
             "cacheLifetimeMs": 3600000,
             "totalBytes": 8587,
             "wastedBytes": 6869.6
           },
           {
-            "url": "http://127.0.0.1:4175/js/motion.js?v=52dd11dd1e",
+            "url": "http://127.0.0.1:4181/css/identity.css?v=f7ea5f92f3",
             "cacheLifetimeMs": 3600000,
-            "totalBytes": 3077,
-            "wastedBytes": 2461.6000000000004
+            "totalBytes": 5026,
+            "wastedBytes": 4020.8
           },
           {
-            "url": "http://127.0.0.1:4175/data/news.js",
+            "url": "http://127.0.0.1:4181/js/motion.js?v=55acd8975b",
+            "cacheLifetimeMs": 3600000,
+            "totalBytes": 3128,
+            "wastedBytes": 2502.4
+          },
+          {
+            "url": "http://127.0.0.1:4181/data/news.js",
             "cacheLifetimeMs": 3600000,
             "totalBytes": 1682,
             "wastedBytes": 1345.6000000000001
@@ -1136,7 +1152,7 @@
         ],
         "debugData": {
           "type": "debugdata",
-          "wastedBytes": 113497.60000000002
+          "wastedBytes": 117747.20000000001
         }
       },
       "guidanceLevel": 3
@@ -1150,7 +1166,7 @@
       "displayValue": "Est savings of 6 KiB",
       "metricSavings": {
         "FCP": 0,
-        "LCP": 50
+        "LCP": 150
       },
       "details": {
         "type": "table",
@@ -1192,25 +1208,25 @@
               "path": "1,HTML,1,BODY,3,MAIN,0,SECTION,2,DIV,1,DIV,1,DIV,0,DIV,1,IMG",
               "selector": "div.hero-layout > div.hero-visual > div.hero-photo-frame > img.hero-photo",
               "boundingRect": {
-                "top": 318,
-                "bottom": 440,
-                "left": 277,
-                "right": 405,
-                "width": 128,
+                "top": 339,
+                "bottom": 461,
+                "left": 278,
+                "right": 404,
+                "width": 126,
                 "height": 122
               },
-              "snippet": "<img class=\"hero-photo\" src=\"http://127.0.0.1:4175/assets/images/p4-small.webp\" srcset=\"assets/images/p4-small.webp 400w, assets/images/p4.webp 1200w\" sizes=\"(max-width:700px) 34vw, 46vw\" width=\"1200\" height=\"801\" alt=\"Выпускники УрФУ подбрасывают академические шапочки у здания университета\" fetchpriority=\"high\">",
+              "snippet": "<img class=\"hero-photo\" src=\"http://127.0.0.1:4181/assets/images/p4-small.webp\" srcset=\"assets/images/p4-small.webp 400w, assets/images/p4.webp 1200w\" sizes=\"(max-width:700px) 34vw, 46vw\" width=\"1200\" height=\"801\" alt=\"Выпускники УрФУ подбрасывают академические шапочки у здания университета\" fetchpriority=\"high\">",
               "nodeLabel": "Выпускники УрФУ подбрасывают академические шапочки у здания университета"
             },
-            "url": "http://127.0.0.1:4175/assets/images/p4-small.webp",
+            "url": "http://127.0.0.1:4181/assets/images/p4-small.webp",
             "totalBytes": 18878,
-            "wastedBytes": 6376,
+            "wastedBytes": 6588,
             "subItems": {
               "type": "subitems",
               "items": [
                 {
                   "reason": "Increasing the image compression factor could improve this image's download size.",
-                  "wastedBytes": 6376
+                  "wastedBytes": 6588
                 }
               ]
             }
@@ -1218,7 +1234,7 @@
         ],
         "debugData": {
           "type": "debugdata",
-          "wastedBytes": 6376
+          "wastedBytes": 6588
         }
       },
       "guidanceLevel": 3
@@ -1240,22 +1256,28 @@
             "value": {
               "type": "network-tree",
               "chains": {
-                "9C34D658AEF2593D6BFC2DA2BC0FDA01": {
-                  "url": "http://127.0.0.1:4175/index.html",
-                  "navStartToEndTime": 72,
-                  "transferSize": 9504,
+                "E3F28922DD0CC3E65622D7FD2C62A452": {
+                  "url": "http://127.0.0.1:4181/index.html",
+                  "navStartToEndTime": 42,
+                  "transferSize": 9656,
                   "isLongest": true,
                   "children": {
-                    "73298.5": {
-                      "url": "http://127.0.0.1:4175/css/evolution.css?v=b63a6f72f4",
-                      "navStartToEndTime": 159,
+                    "172841.5": {
+                      "url": "http://127.0.0.1:4181/css/evolution.css?v=b63a6f72f4",
+                      "navStartToEndTime": 65,
                       "transferSize": 11094,
                       "isLongest": true,
                       "children": {}
                     },
-                    "73298.4": {
-                      "url": "http://127.0.0.1:4175/css/site.css?v=1fef14c65e",
-                      "navStartToEndTime": 130,
+                    "172841.6": {
+                      "url": "http://127.0.0.1:4181/css/identity.css?v=f7ea5f92f3",
+                      "navStartToEndTime": 61,
+                      "transferSize": 5026,
+                      "children": {}
+                    },
+                    "172841.4": {
+                      "url": "http://127.0.0.1:4181/css/site.css?v=1fef14c65e",
+                      "navStartToEndTime": 56,
                       "transferSize": 9357,
                       "children": {}
                     }
@@ -1263,7 +1285,7 @@
                 }
               },
               "longestChain": {
-                "duration": 159
+                "duration": 65
               }
             }
           },
@@ -1295,10 +1317,10 @@
       "description": "Requests are blocking the page's initial render, which may delay LCP. [Deferring or inlining](https://developer.chrome.com/docs/performance/insights/render-blocking) can move these network requests out of the critical path.",
       "score": 0,
       "scoreDisplayMode": "metricSavings",
-      "displayValue": "Est savings of 70 ms",
+      "displayValue": "Est savings of 230 ms",
       "metricSavings": {
-        "FCP": 50,
-        "LCP": 50
+        "FCP": 250,
+        "LCP": 250
       },
       "details": {
         "type": "table",
@@ -1321,14 +1343,19 @@
         ],
         "items": [
           {
-            "url": "http://127.0.0.1:4175/css/evolution.css?v=b63a6f72f4",
+            "url": "http://127.0.0.1:4181/css/evolution.css?v=b63a6f72f4",
             "totalBytes": 11094,
-            "wastedMs": 306
+            "wastedMs": 461
           },
           {
-            "url": "http://127.0.0.1:4175/css/site.css?v=1fef14c65e",
+            "url": "http://127.0.0.1:4181/css/identity.css?v=f7ea5f92f3",
+            "totalBytes": 5026,
+            "wastedMs": 311
+          },
+          {
+            "url": "http://127.0.0.1:4181/css/site.css?v=1fef14c65e",
             "totalBytes": 9357,
-            "wastedMs": 156
+            "wastedMs": 161
           }
         ]
       },

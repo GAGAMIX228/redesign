@@ -1,47 +1,51 @@
 """Capture actual pages and create an 18-page landscape A4 design proposal.
 Tool dependencies: Python Playwright, Pillow; an installed Chromium.
 """
-import asyncio,json,re,textwrap
+import asyncio,json,re,textwrap,os
+from html import unescape
+from identity import MARK,CHAPTERS,PALETTE,logo,SIGNAL
 from pathlib import Path
 from html import escape as E
 from PIL import Image,ImageDraw,ImageFont
 from playwright.async_api import async_playwright
+BASE=os.environ.get('SITE_BASE','http://127.0.0.1:4175/').rstrip('/')+'/'
 R=Path(__file__).resolve().parents[1];D=R/'docs';S=D/'screenshots';S.mkdir(exist_ok=True)
 async def main():
  async with async_playwright() as pw:
   b=await pw.chromium.launch(executable_path='/usr/bin/chromium',headless=True,args=['--no-sandbox']);p=await b.new_page(viewport={'width':1440,'height':960},reduced_motion='reduce')
   targets=[('home','index.html'),('catalog','catalog.html?area=IT+%D0%B8+%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0&budget=1'),('program','Program.html?id=9797'),('search','search.html?q=общага'),('schedule','schedule.html?day=0'),('campus','campus.html'),('accessibility','index.html')]
   for name,route in targets:
-   await p.goto('http://127.0.0.1:4175/'+route);await p.evaluate('document.fonts.ready');await p.wait_for_timeout(200)
+   await p.goto(BASE+route);await p.evaluate('document.fonts.ready');await p.wait_for_timeout(200)
    if name=='accessibility':await p.locator('[data-a11y-open]').first.click()
    await p.screenshot(path=str(S/(name+'.png')))
-  await p.set_viewport_size({'width':390,'height':844});await p.goto('http://127.0.0.1:4175/');await p.evaluate('document.fonts.ready');await p.screenshot(path=str(S/'mobile.png'))
-  await p.goto('http://127.0.0.1:4175/catalog.html');await p.screenshot(path=str(S/'mobile-catalog.png'))
-  # Build OG images from page titles with locally available typeface, no remote rendering.
+  await p.set_viewport_size({'width':390,'height':844});await p.goto(BASE);await p.evaluate('document.fonts.ready');await p.screenshot(path=str(S/'mobile.png'))
+  await p.goto(BASE+'catalog.html');await p.screenshot(path=str(S/'mobile-catalog.png'))
+  # Social cards use the actual local display fonts and the new shared identity.
   og=R/'assets/og';og.mkdir(exist_ok=True)
-  font='/tmp/GolosText.ttf'
-  if not Path(font).exists():font='/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf'
-  big=ImageFont.truetype(font,72);small=ImageFont.truetype(font,26)
+  await p.set_viewport_size({'width':1200,'height':630})
   for f in list(R.glob('*.html'))+list((R/'en').glob('*.html')):
-   text=f.read_text();title=re.search(r'<title>(.*?)</title>',text)[1].split(' — ')[0];title=re.sub('<[^>]+>',' ',title)
-   im=Image.new('RGB',(1200,630),'#07584b');draw=ImageDraw.Draw(im);draw.text((70,48),'UrFU  /  YOUR OWN PATH' if f.parent.name=='en' else 'УрФУ  /  СВОЙ МАРШРУТ',font=small,fill='#d5f64b');lines=[]
-   for word in title.split():
-    if lines and draw.textlength(lines[-1]+' '+word,font=big)<1030:lines[-1]+=' '+word
-    else:lines.append(word)
-   for i,line in enumerate(lines[:4]):draw.text((65,160+i*90),line,font=big,fill='#f6f5ed')
-   draw.text((70,560),'Independent contest prototype · 2026' if f.parent.name=='en' else 'Конкурсный прототип · 2026',font=small,fill='#f6f5ed');im.save(og/(('en-' if f.parent.name=='en' else '')+f.stem+'.png'),optimize=True)
+   en=f.parent.name=='en';text=f.read_text();title=unescape(re.search(r'<title>(.*?)</title>',text)[1].split(' — ')[0]);chapter=CHAPTERS.get(f.stem,('01','ВАШ ПУТЬ. ВАШ УРФУ.','YOUR PATH. YOUR URFU.','blue'));number,ru,eng,tone=chapter
+   bg=PALETTE[tone];fg=PALETTE['paper' if tone=='blue' else 'ink'];label=eng if en else ru
+   card=f'''<!doctype html><html lang="{'en' if en else 'ru'}"><head><meta charset="utf-8"><base href="{BASE}"><link rel="stylesheet" href="css/site.css"><link rel="stylesheet" href="css/evolution.css"><link rel="stylesheet" href="css/identity.css"><style>body{{width:1200px;height:630px;margin:0;background:{bg};color:{fg};overflow:hidden}}.og-cover{{position:relative;padding:48px 62px;height:630px;isolation:isolate}}.og-cover .brand-name{{color:{fg}}}.og-cover .brand-caption{{font-size:10px}}.og-cover .brand-mark .mark-tile{{fill:#192b9b}}.og-title{{font:600 94px/1.05 Oswald,sans-serif;letter-spacing:-.02em;max-width:1020px;margin:63px 0 0;text-transform:uppercase;position:relative;z-index:1}}.og-label{{position:absolute;right:62px;top:63px;font:650 12px/1.5 Golos,sans-serif;max-width:460px;text-align:right;letter-spacing:.07em}}.og-bottom{{position:absolute;bottom:38px;left:62px;right:62px;padding-top:22px;border-top:1px solid currentColor;display:flex;justify-content:space-between;font-size:16px}}.og-signal{{position:absolute;width:320px;right:-40px;top:155px;opacity:.12;z-index:-1;transform:rotate(12deg)}}.og-cover .brand-star{{color:{PALETTE['lime'] if tone=='blue' else '#b43f26'}}}</style></head><body><div class="og-cover">{logo(en)}<span class="og-label">{number} / {E(label)}</span><h1 class="og-title">{E(title)}</h1><span class="og-signal">{SIGNAL}</span><div class="og-bottom"><span>{'YOUR OWN PATH' if en else 'СВОЙ МАРШРУТ'}</span><span>{'Independent contest concept · 2026' if en else 'Независимая конкурсная концепция · 2026'}</span></div></div></body></html>'''
+   await p.set_content(card);await p.evaluate('document.fonts.ready');await p.screenshot(path=str(og/(('en-' if en else '')+f.stem+'.png')))
+  # Render the same SVG to local browser icon sizes, without any network image service.
+  icons=await b.new_page(viewport={'width':180,'height':180})
+  await icons.set_content('<style>html,body{margin:0;background:transparent}svg{display:block;width:180px;height:180px}</style>'+(R/'assets/favicon.svg').read_text())
+  await icons.screenshot(path=str(R/'assets/apple-touch-icon.png'),omit_background=True);await icons.close()
+  with Image.open(R/'assets/apple-touch-icon.png') as im:im.resize((32,32),Image.Resampling.LANCZOS).save(R/'assets/favicon-32.png')
+  await p.set_viewport_size({'width':1440,'height':960})
   lh={}
   if (R/'checks/results/09-lighthouse.json').exists():
    report=json.loads((R/'checks/results/09-lighthouse.json').read_text());lh=report['pages'][0]['median']['scores']
   elif (D/'lighthouse-compressed.json').exists():
    data=json.loads((D/'lighthouse-compressed.json').read_text());lh={k:round(v['score']*100) for k,v in data['categories'].items()}
   slides=[]
-  def add(title,text='',image=None,color='',eyebrow='УРФУ · СВОЙ МАРШРУТ / ВИЗУАЛЬНАЯ РЕДАКЦИЯ 02'):
+  def add(title,text='',image=None,color='',eyebrow='УРФУ · СВОЙ МАРШРУТ / ВИЗУАЛЬНАЯ РЕДАКЦИЯ 03'):
    n=len(slides)+1;body='<div class="copy">'+text+'</div>'
    if n in [1,18]:body+='<a class="site-qr" href="https://gagamix228.github.io/redesign/"><img src="../assets/site-qr.png" alt="QR-код сайта"><span>Открыть сайт ↗</span></a>'
    if n==1:body+='<nav class="contents" aria-label="Оглавление"><b>В проекте</b><span>Принципы и структура — 3–4</span><span>Маршруты и экраны — 5–13</span><span>Стиль и доступность — 14–15</span><span>Технология и проверка — 16–17</span><span>Следующие шаги — 18</span></nav>'
    if image:body='<div class="layout">'+body+'<img src="screenshots/'+image+'.png" alt="Экран работающего прототипа"></div>'
-   slides.append(f'<section class="slide {color}"><div class="eyebrow">{eyebrow}</div><h1>{title}</h1>{body}<footer><a href="https://gagamix228.github.io/redesign/">gagamix228.github.io/redesign/ · 25.10.2026</a><span>{n:02d} / 18</span></footer></section>')
+   slides.append(f'<section class="slide {color}"><div class="eyebrow">{eyebrow}</div><span class="deck-mark">{MARK}</span><h1>{title}</h1>{body}<footer><a href="https://gagamix228.github.io/redesign/">gagamix228.github.io/redesign/ · 26.10.2026</a><span>{n:02d} / 18</span></footer></section>')
   add('СВОЙ<br>МАРШРУТ.','<p class="promise">Университет, в котором легко найти следующий шаг.</p><p>Концепция нового сайта УрФУ.<br>От задач человека — к большому будущему.</p>',color='green')
   add('Что мешает<br>найти ответ.','<p>Официальные сведения размещены на разных ресурсах: портал, каталог программ, навигатор первокурсника, сайты институтов.</p><p>Пользователь начинает с вопроса, а не с названия подразделения.</p><p class="note">Главный портал при сборе вернул HTTP 403. Число ссылок и кликов старого сайта не измерено. Мы не подменяем исследование догадками.</p>')
   add('Четыре принципа.','<div class="principles"><p>01<br><b>Начинать с задачи.</b><br>«Где моя пара?» важнее структуры отдела.</p><p>02<br><b>Говорить честно.</b><br>Источник рядом. Неизвестное — явно.</p><p>03<br><b>Объединять поиск.</b><br>Страницы, программы и службы.</p><p>04<br><b>Быть доступным.</b><br>Телефон, клавиатура и офлайн.</p></div>',color='pink')
@@ -55,14 +59,14 @@ async def main():
   add('«Общага» —<br>это общежитие.','<p>Поиск понимает привычные слова: «общага», «стипуха», «пары», «приёмка».</p><p>Синонимы, е/ё и простые опечатки обрабатываются локально, без внешнего ИИ.</p>',image='search')
   add('Полезно<br>каждый день.','<p>Демо-расписание: дни и недели, сохранение группы и файл .ics.</p><p>Код аудитории ведёт к подтверждённому корпусу. Этаж без источника не придумывается.</p>',image='schedule',color='green')
   add('Переезд<br>по шагам.','<p>Поселение, документы, локальный чек-лист и условная схема кампусов.</p><p>Нет приказа с тарифом — нет придуманной цены. Калькулятор считает только известные расходы.</p>',image='campus',color='pink')
-  add('Уральский характер.','<div class="palette"><div style="background:#07584b;color:white">Малахит</div><div style="background:#d5f64b">Новый рост</div><div style="background:#f3a6ca">Родонит</div><div style="background:#b9a9ed">Аметист</div><div style="background:#ff956d">Яшма</div></div><p>Знак «У» превращается в маршрут. Грань повторяется в фотографии, стрелках и разделителях.</p><p>Oswald — плакатные заголовки. Golos Text — спокойный интерфейс.</p>')
+  add('Яркий характер.','<div class="palette"><div style="background:#2448ff;color:white">Электрический<br>синий</div><div style="background:#dfff59">Лайм</div><div style="background:#ff92cb">Розовый</div><div style="background:#c2abff">Сиреневый</div><div style="background:#ff9876">Коралловый</div></div><p>Цветные модули складываются в знак «У». Синий, лайм и графический сигнал связывают все разделы, карточки и навигацию.</p><p>Oswald — плакатные заголовки. Golos Text — спокойный интерфейс.</p>')
   add('Настроить<br>под себя.','<p>Пять контрастных схем, размер текста, интервалы, изображения и шрифт.</p><p>Видимый фокус, семантика, подписи полей, диалоги с возвратом фокуса и reduced-motion.</p><p class="note">Полный ручной аудит WCAG 2.2 AA ещё предстоит; автоматический результат не равен сертификации.</p>',image='accessibility',color='purple')
   add('Лёгкий сайт.<br>Без внешних зависимостей.','<p>HTML + CSS + чистый JavaScript. Готовые страницы лежат в репозитории.</p><p>Шрифты, фото и данные локальные. Нет CDN, счётчиков, внешних карт и запросов к собственным JSON.</p><p>Офлайн-кеш работает по HTTP/HTTPS. Прямое file:// предусмотрено архитектурой; управляемый браузер среды блокирует такую проверку.</p>')
   add('Доказательства,<br>а не обещания.','<p><b>98 программ</b> — официальный каталог 2026 года.<br><b>79 английских названий</b> — официальные страницы.</p><p>Локальный Lighthouse: '+(' · '.join(k+': '+str(v) for k,v in lh.items()) if lh else 'результаты в процессе')+'.</p><p>Источники, снимок данных и скрипт сбора приложены. Неполученные сроки 2027 года, проходные баллы и тарифы общежитий отмечены явно.</p><p class="note">Оценки локального запуска не являются PageSpeed Insights публичного сайта.</p>',color='green')
   add('Большое начинается<br>с понятного шага.','<p class="promise">Сначала — проверить задачи с людьми.<br>Потом — подключить официальные данные.<br>Дальше — переносить разделы по одному.</p><p>Сохраняем адреса, доступность и доверие.<br>Свой маршрут. Общий университет.</p>',color='pink')
-  html='''<!doctype html><html lang="ru"><meta charset="utf-8"><title>УрФУ · Свой маршрут — дизайн-проект</title><style>@font-face{font-family:Golos;src:url('../assets/fonts/GolosText.woff2')}@font-face{font-family:Oswald;src:url('../assets/fonts/Oswald.woff2')}*{box-sizing:border-box}body{margin:0;color:#172321;background:#f6f5ed;font-family:Golos,Arial,sans-serif}@page{size:A4 landscape;margin:0}.slide{position:relative;width:297mm;height:210mm;padding:14mm 18mm 16mm;break-after:page;overflow:hidden;background:#f6f5ed}.slide:last-child{break-after:auto}.eyebrow{font-size:11px;letter-spacing:.12em;margin-bottom:20px}h1{font:600 65px/1 Oswald,sans-serif;text-transform:uppercase;letter-spacing:-.03em;margin:0 0 30px}p{font-size:20px;line-height:1.5;margin:0 0 18px;max-width:900px}.promise{font-size:29px;max-width:880px}.note{font-size:13px;line-height:1.5}.layout{display:grid;grid-template-columns:.65fr 1fr;gap:28px}.layout p{font-size:17px}.layout>img{width:100%;height:365px;object-fit:cover;object-position:top;border-radius:12px;border:1px solid #17232130}.principles{display:grid;grid-template-columns:1fr 1fr;gap:15px 40px}.principles p{font-size:18px}.palette{display:flex;gap:12px;margin:30px 0}.palette>div{height:150px;flex:1;padding:20px;display:flex;align-items:end;border-radius:12px;font-size:16px}.phones{display:flex;gap:40px;align-items:start}.phones img{height:420px;border:2px solid #172321;border-radius:20px}.phones>div{padding-top:20px}.phones p{font-size:18px}.green{background:#07584b;color:#f6f5ed}.green h1{color:#d5f64b}.pink{background:#f3a6ca}.purple{background:#b9a9ed}.site-qr{position:absolute;right:18mm;bottom:24mm;display:flex;flex-direction:column;align-items:center;gap:8px;color:inherit;font-size:12px}.site-qr img{width:110px;height:110px;background:white;padding:6px}.contents{position:absolute;left:18mm;bottom:24mm;display:grid;grid-template-columns:1fr 1fr;gap:9px 24px;width:650px;font-size:13px}.contents b{grid-column:1/-1}footer a{color:inherit;text-decoration:none}footer{position:absolute;bottom:11mm;left:18mm;right:18mm;display:flex;justify-content:space-between;font-size:10px;opacity:.8}</style>'''+''.join(slides)+'</html>'
+  html='''<!doctype html><html lang="ru"><meta charset="utf-8"><title>УрФУ · Свой маршрут — дизайн-проект</title><style>@font-face{font-family:Golos;src:url('../assets/fonts/GolosText.woff2')}@font-face{font-family:Oswald;src:url('../assets/fonts/Oswald.woff2')}*{box-sizing:border-box}body{margin:0;color:#1b1931;background:#fffdf7;font-family:Golos,Arial,sans-serif}@page{size:A4 landscape;margin:0}.slide{position:relative;width:297mm;height:210mm;padding:14mm 18mm 16mm;break-after:page;overflow:hidden;background:#fffdf7}.slide:last-child{break-after:auto}.deck-mark{position:absolute;top:11mm;right:18mm;width:45px;height:45px}.deck-mark svg{width:100%;height:100%}.eyebrow{font-size:11px;letter-spacing:.12em;margin-bottom:20px}h1{font:600 65px/1 Oswald,sans-serif;text-transform:uppercase;letter-spacing:-.03em;margin:0 0 30px}p{font-size:20px;line-height:1.5;margin:0 0 18px;max-width:900px}.promise{font-size:29px;max-width:880px}.note{font-size:13px;line-height:1.5}.layout{display:grid;grid-template-columns:.65fr 1fr;gap:28px}.layout p{font-size:17px}.layout>img{width:100%;height:365px;object-fit:cover;object-position:top;border-radius:12px;border:1px solid #1b193130}.principles{display:grid;grid-template-columns:1fr 1fr;gap:15px 40px}.principles p{font-size:18px}.palette{display:flex;gap:12px;margin:30px 0}.palette>div{height:150px;flex:1;padding:20px;display:flex;align-items:end;border-radius:12px;font-size:16px}.phones{display:flex;gap:40px;align-items:start}.phones img{height:420px;border:2px solid #1b1931;border-radius:20px}.phones>div{padding-top:20px}.phones p{font-size:18px}.green{background:#2448ff;color:#fffdf7}.green h1{color:#dfff59}.pink{background:#ff92cb}.purple{background:#c2abff}.site-qr{position:absolute;right:18mm;bottom:24mm;display:flex;flex-direction:column;align-items:center;gap:8px;color:inherit;font-size:12px}.site-qr img{width:110px;height:110px;background:white;padding:6px}.contents{position:absolute;left:18mm;bottom:24mm;display:grid;grid-template-columns:1fr 1fr;gap:9px 24px;width:650px;font-size:13px}.contents b{grid-column:1/-1}footer a{color:inherit;text-decoration:none}footer{position:absolute;bottom:11mm;left:18mm;right:18mm;display:flex;justify-content:space-between;font-size:10px;opacity:.8}</style>'''+''.join(slides)+'</html>'
   (D/'presentation.html').write_text(html)
-  await p.goto('http://127.0.0.1:4175/docs/presentation.html');await p.evaluate('document.fonts.ready');await p.pdf(path=str(D/'urfu-design-project.pdf'),print_background=True,prefer_css_page_size=True)
+  await p.goto(BASE+'docs/presentation.html');await p.evaluate('document.fonts.ready');await p.pdf(path=str(D/'urfu-design-project.pdf'),print_background=True,prefer_css_page_size=True)
   await b.close()
  print('PDF and 9 actual screenshots generated.')
 asyncio.run(main())

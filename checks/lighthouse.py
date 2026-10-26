@@ -3,8 +3,10 @@ import argparse, json, os, statistics, subprocess, urllib.request, urllib.error,
 from common import *
 KEY={'home':'index.html','admission':'admission.html','catalog':'catalog.html','program':'Program.html?id=9797','campus':'campus.html','schedule':'schedule.html','search':'search.html?q=общага','concept':'concept.html'}
 def main():
+    parser=argparse.ArgumentParser();parser.add_argument('--pages',nargs='+',choices=list(KEY),default=list(KEY));parser.add_argument('--skip-public',action='store_true');args=parser.parse_args()
     cli=os.environ.get('LIGHTHOUSE_CLI','/tmp/urfu-audit/node_modules/lighthouse/cli/index.js');rows=[]
-    for label,path in KEY.items():
+    for label in args.pages:
+        path=KEY[label]
         runs=[]
         for i in range(3):
             output=RESULTS/f'lh-{label}-{i+1}.json';env={**os.environ,'CHROME_PATH':'/usr/bin/chromium'}
@@ -18,6 +20,7 @@ def main():
         med={'scores':{k:statistics.median(r['scores'][k] for r in valid) for k in valid[0]['scores']},**{k:statistics.median(r[k] for r in valid)for k in ['LCP','CLS','TBT','transfer']}} if valid else {}
         rows.append({'page':path,'runs':runs,'median':med})
     save('09-lighthouse',{'server':'Local gzip HTTP server; not public PageSpeed Insights','pages':rows})
+    if args.skip_public:return
     # Public PSI is a separate service and can be unavailable without an API quota.
     url='https://www.googleapis.com/pagespeedonline/v5/runPagespeed?url='+urllib.parse.quote(PUBLIC,safe='')+'&strategy=mobile&category=performance&category=accessibility&category=best-practices&category=seo'
     try:
